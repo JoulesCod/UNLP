@@ -3,7 +3,7 @@
 ## 2do Cuatri
 
 ### Mate D -->
-- ir con Cinta (profe buena, explica claro y con colores)
+- ir con Cintia (profe buena, explica claro y con colores)
 - los temas son bastante mecánicos 
 - en la pag de cátedras hay parciales resueltos
 - HORARIOS: martes y jueves 11-14 
