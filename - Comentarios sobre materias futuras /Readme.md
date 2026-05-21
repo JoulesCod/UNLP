@@ -4,12 +4,13 @@
 ### Mate D -->
 - 
 
-## Física 2 -->
+### Física 2 -->
 - 
 
-## Concepros de sist operativos (CSO) -->
+### Concepros de sist operativos (CSO) -->
 - 
 
-## Taller de Lenguages 2 -->
+### Taller de Lenguages 2 -->
+-
 
-2do Cuatri
+## 2do Cuatri
