@@ -66,7 +66,8 @@
 ## 2do Cuatri
 
 ### Introducción al Procesamiento de Señales (IPS) --> 
-- la práctica es re cualquiera. MATERIA MAS DIFICIL
+- la práctica es re cualquiera.
+- MATERIA MAS DIFICIL
 
 ### Redes de Datos 1 (RD1) -->
 - esta PATO piola,
@@ -88,4 +89,4 @@
 ## 2do cuatri 
 ### Base de datos 
 - FINAL FACIL.
-- IR SOLO A PRACTICAS, VER VIDEOS
+- Ir solo a prácticas, VER VIDEOS
