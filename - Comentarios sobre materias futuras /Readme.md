@@ -1,6 +1,6 @@
 > (Comentarios que me dieron personas que ya cursaron estas materias)
 # 2do AÑO
-## 1er Cuatri
+## 2do Cuatri
 
 ### Mate D -->
 - ir con Cinta (profe buena, explica claro y con colores)
@@ -31,7 +31,8 @@
 - Vanesa jtp,
 - Laura teoría
 
-## 2do Cuatri
+# 3er AÑO
+## 1er Cuatri
 
 ### Electrónica y Electrotecnia  (EE) --> 
 - Profe (Pablo) de teoría exigente,
@@ -61,6 +62,8 @@
 - FINAL MUCHO MAS FACIL Q PROMO.
 - IR SOLO A PRACTICAS,
 - VER VIDEOS
+
+## 2do Cuatri
 
 ### Introducción al Procesamiento de Señales (IPS) --> 
 - la práctica es re cualquiera. MATERIA MAS DIFICIL
