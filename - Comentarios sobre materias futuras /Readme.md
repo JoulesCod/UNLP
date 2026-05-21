@@ -65,4 +65,17 @@
 ### Introducción al Procesamiento de Señales (IPS) --> 
 - la práctica es re cualquiera. MATERIA MAS DIFICIL
 
-### 
+### Redes de Datos 1 (RD1) -->
+- esta PATO piola,
+- fácil,
+- ir a teorías
+
+### Taller de Arquitectura (TA) -->
+- 2 proyectos (similares q años pasados) + 3 patcialitos siempre los mismos
+
+### Ingeniería de Sofware (ing S) -->
+- medio complicada.
+- PROYECTO EN GRUPO.
+- El proyecto lo haces en el lenguaje q quieras,
+    - para eso en primer semestre de 3ro hacer una optativa de algún lenguaje PHP o punto net (haces apps y no toma parcial).
+- proyecto, parcial teórico y parcial practico
