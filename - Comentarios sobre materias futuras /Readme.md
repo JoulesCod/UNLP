@@ -79,3 +79,10 @@
 - El proyecto lo haces en el lenguaje q quieras,
     - para eso en primer semestre de 3ro hacer una optativa de algún lenguaje PHP o punto net (haces apps y no toma parcial).
 - proyecto, parcial teórico y parcial practico
+
+# 4to AÑO
+## 1er cuatri 
+## 2do cuatri 
+### Base de datos 
+- FINAL FACIL.
+- IR SOLO A PRACTICAS, VER VIDEOS
