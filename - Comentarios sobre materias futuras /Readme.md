@@ -55,4 +55,14 @@
 - fácil,
 - **Melisa Magini** HACER CON ELLA SI O SI. 
 
-###
+### Conceptos de Bases de Datos (CBD) --> 
+- cátedra de base de datos,
+- 3 módulos, árboles (en pascal), archivos, hashing en dibujos.
+- FINAL MUCHO MAS FACIL Q PROMO.
+- IR SOLO A PRACTICAS,
+- VER VIDEOS
+
+### Introducción al Procesamiento de Señales (IPS) --> 
+- la práctica es re cualquiera. MATERIA MAS DIFICIL
+
+### 
