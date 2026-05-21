@@ -16,7 +16,14 @@
 - HORARIOS: Lunes y Jueves / Jueves y viernes --> de 8-11 o 12-14
 
 ### Concepros de sist operativos (CSO) -->
-- 
+- La cursamos con licenciatura (=> en la teoría somo banda de gente)
+- materia tipo arqui,
+- aprueba con 6 min,
+- estudiar de parcial,
+- VER teorías en YouTube,
+- a la mañana explican mal --> se puede faltar
+- toman final (antes no),
+- parciales teóricos múltiples choise
 
 ### Taller de Lenguages 2 -->
 -
