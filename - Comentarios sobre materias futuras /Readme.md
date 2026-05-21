@@ -13,7 +13,7 @@
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
 - **Forte** hace parciales como los viejos.
 - LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
-- HORARIOS: Lunes y Jueves / Jueves y viernes --> de 8-11 o 12-14
+- HORARIOS: Lunes y Jueves(??? miercoles??) / Jueves(??) y viernes --> de 8-11 o 12-14
 
 ### Concepros de sist operativos (CSO) --> APRENDER BASH EN LAS VACAS DE INVIERNO
 - La cursamos con licenciatura (=> en la teoría somos banda de gente)
