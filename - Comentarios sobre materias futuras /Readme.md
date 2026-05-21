@@ -1,5 +1,5 @@
-(Comentarios que me dieron personas que ya cursaron estas materias)
-# 2do AÑO: 
+> (Comentarios que me dieron personas que ya cursaron estas materias)
+# 2do AÑO
 ## 1er Cuatri
 
 ### Mate D -->
