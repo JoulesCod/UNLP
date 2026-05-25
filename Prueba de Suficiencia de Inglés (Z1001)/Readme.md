@@ -1,9 +1,9 @@
 ### LOS DE COMPUTACIÓN RENDIMOS EN INFORMÁTICA, LA FORMA DE ANOTARNOS ES DIFERENTE
 - NO HACE FALTA ANOTARCE A UN FORMULARIO COMO EL RESTO DE INGENIERÍAS 
-- Fecha de inscripción: Del 19 al X de mayo de 2026.
 - Inscripción en SIU Guaraní: hay que inscribirse como "Final Libre" a través del SIU Guaraní de la Facultad de Informática
 
  Examen de Mayo:
+ - Fecha de inscripción: Del 19 al X de mayo de 2026.
 - Fecha del examen: 26/5/2026
 - Horario: 8am
 - Lugar: Facu de Informática, aula 
