@@ -1,5 +1,4 @@
 ### LOS DE COMPUTACIÓN RENDIMOS EN INFORMÁTICA, LA FORMA DE ANOTARNOS ES DIFERENTE
-mesa de mayo 2026,
 - NO HACE FALTA ANOTARCE A UN FORMULARIO COMO EL RESTO DE INGENIERÍAS 
 - Fecha de inscripción: Del 19 al X de mayo de 2026.
 - Inscripción en SIU Guaraní: hay que inscribirse como "Final Libre" a través del SIU Guaraní de la Facultad de Informática
