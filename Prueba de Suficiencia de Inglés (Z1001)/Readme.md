@@ -9,7 +9,7 @@ mesa de mayo 2026,
 - Horario: 8am
 - Lugar: Facu de Informática, aula 
 
-###Canales de Consulta:
+### Canales de Consulta:
 - Moodle: Podés ingresar al aula Inglés – Exámenes y Consultas con la contraseña "invitadosingles" para ver material de práctica y novedades. <br>
   https://asignaturas.info.unlp.edu.ar/course/view.php?id=50#section-5 <br>
   Contraseña de invitado: invitadosingles <br>
