@@ -1,4 +1,4 @@
-LOS DE COMPUTACIÓN RENDIMOS EN INFORMÁTICA, LA FORMA DE ANOTARNOS ES DIFERENTE
+###LOS DE COMPUTACIÓN RENDIMOS EN INFORMÁTICA, LA FORMA DE ANOTARNOS ES DIFERENTE
 mesa de mayo 2026,
 - NO HACE FALTA ANOTARCE A UN FORMULARIO COMO EL RESTO DE INGENIERÍAS 
 - Fecha de inscripción: Del 19 al X de mayo de 2026.
@@ -9,8 +9,9 @@ mesa de mayo 2026,
 - Horario: 8am
 - Lugar: Facu de Informática, aula 
 
-Canales de Consulta:
+###Canales de Consulta:
 - Moodle: Podés ingresar al aula Inglés – Exámenes y Consultas con la contraseña "invitadosingles" para ver material de práctica y novedades.
   https://asignaturas.info.unlp.edu.ar/course/view.php?id=50#section-5
+  Contraseña de invitado: invitadosingles
 - Email: talleringles.info.inge@gmail.com.
 - Entorno IDEAS: También se utiliza para comunicaciones oficiales en el Entorno de IDEAS de Informática.
