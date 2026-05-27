@@ -43,8 +43,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </p>
 (si me falta un final no voy a poner el año al 100%, probablemente le saque 10% por final, por ahora cruzo los dedos 🤞)
 
-|      MATERIAS                                   |
-## Progress
+###Progress
                    8          12        16         20       24            29          34            39          44
 🟩🟩 🟩🟩🟩🟩🟩🟩 🟨🟨🟨🟨⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 
 
