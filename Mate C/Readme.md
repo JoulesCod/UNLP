@@ -5,6 +5,5 @@ y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carre
 <br>
 COMISIÓN MC4 <br>
 - recomendada?: NO <br>
-
 Desordenada, tardan en dar parciales, la profe de teoría explica todo mezclado,<br>
 Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
