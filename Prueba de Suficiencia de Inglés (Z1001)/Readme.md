@@ -17,5 +17,11 @@
 
 ### Mi experiencia:
 Super facil, yo igual tengo un buen nivel de ingles, dí el final libre, el examen es mas que nada comprensión lectora, las respuestas son todas en español
-No sabía pero podes buscar, en diccionarios de Oxford que llevan las profes o en la compu que habiltan para buscar, palabras en la página de Oxford
-Para hacer el parcial de forma eficiente recomendaría: leída rápida del texto, leída de las pregunatas y de otra parte donde decía algo como "completa con cosas que no se hayan mencionado en el punto anterior"
+No sabía pero podes buscar, en diccionarios de Oxford que llevan las profes o en la compu que habiltan para buscar, palabras en la página de Oxford <br>
+
+Para hacer el parcial de forma eficiente recomendaría: 
+- leída rápida del texto,
+- leída de las pregunatas y de otra parte donde decía algo como "completa con cosas que no se hayan mencionado en el punto anterior"
+- Entonces así ya podes ordenarte con que vas a responder en cada lugar
+- Volves a leer el texto paro ya prestandole atención a lo que vas a ir respondiendo
+- Se puede ir realtando el 
