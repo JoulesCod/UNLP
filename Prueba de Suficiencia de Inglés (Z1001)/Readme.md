@@ -24,4 +24,7 @@ Para hacer el parcial de forma eficiente recomendaría:
 - leída de las pregunatas y de otra parte donde decía algo como "completa con cosas que no se hayan mencionado en el punto anterior"
 - Entonces así ya podes ordenarte con que vas a responder en cada lugar
 - Volves a leer el texto paro ya prestandole atención a lo que vas a ir respondiendo
-- Se puede ir realtando el examen 
+- Se puede ir realtando el examen para no mandarse a escribir de una y ordenar las ideas. Ademas queda lindo 
+NO DEJES NINGUNA RESPUESTA SIN CONTESTAR, no son tan estrictos corrigiendo, puede que aunque tu respuesta no sea la que esperaban, igual esté bien
+
+si te sacas buena nota suma banda al promedio (aunque no sea importante, pero igual copado)
