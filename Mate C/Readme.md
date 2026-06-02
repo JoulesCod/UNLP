@@ -4,6 +4,7 @@ Recomiendan una porque los ayudantes son de esa inge <br>
 y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carrera, en mi comisión no
 <br>
 COMISIÓN MC4 <br>
-- recomendada?: NO
+- recomendada?: NO <br>
+
 Desordenada, tardan en dar parciales, la profe de teoría explica todo mezclado,<br>
 Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
