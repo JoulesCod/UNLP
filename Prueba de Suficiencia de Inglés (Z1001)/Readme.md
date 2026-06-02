@@ -14,3 +14,8 @@
   Contraseña de invitado: invitadosingles <br>
 - Email: talleringles.info.inge@gmail.com.
 - Entorno IDEAS: También se utiliza para comunicaciones oficiales en el Entorno de IDEAS de Informática.
+
+### Mi experiencia:
+Super facil, yo igual tengo un buen nivel de ingles, dí el final libre, el examen es mas que nada comprensión lectora, las respuestas son todas en español
+No sabía pero podes buscar, en diccionarios de Oxford que llevan las profes o en la compu que habiltan para buscar, palabras en la página de Oxford
+Para hacer el parcial de forma eficiente recomendaría: leída rápida del texto, leída de las pregunatas y de otra parte donde decía algo como "completa con cosas que no se hayan mencionado en el punto anterior"
