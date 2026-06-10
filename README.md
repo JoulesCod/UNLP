@@ -30,17 +30,58 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 ```txt
 Mo Tu We Th Fr Sa Su
-
-01 02 03 04 05 06 07
-08 09 10 11 12 13 14
-15 16 17 18 19 20 21
+🌹🌹 🌹🌹 🌹🌹 🌹
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
 22 23 24 25 26 27 28
-29 30
+29 🟥
 
-🟥 12 - Arquitectura
-🟥 18 - Programación III
-🟨 24 - Entrega TP
-🟥 26 - Matemática
+Mo Tu We Th Fr Sa Su
+🌸🌸 🌸🌸 🌸🌸 🌸
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+Mo Tu We Th Fr Sa Su
+🍀🍀 🍀🍀 🍀🍀 🍀
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+Mo Tu We Th Fr Sa Su
+🟫 🟫🟫 🟫🟫 🟫🟫
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+Mo Tu We Th Fr Sa Su
+📒 📒📒 📒📒 📒📒
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+Mo Tu We Th Fr Sa Su
+❌ ❌❌ ❌❌ ❌❌
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+Mo Tu We Th Fr Sa Su
+📑 📑📑 📑📑 📑📑
+08 09 10 11 🟥 13 14
+15 🟥 17 18 19 20 21
+22 23 24 25 26 27 28
+29 🟥
+
+❌✅❎🟪⬛🟫📝📑📒📖📕💻👩‍🏫👩‍🏫
+🟥 12 - Arquitectura: winmips
+🟥 16 - Programación III: Algoritmos + Grafos
+🟥 30 - Matemática
 ```
 
 ## 📚 Progreso en la Carrera
