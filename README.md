@@ -29,19 +29,8 @@ won't upload all the activities I make, but you can find exams and resumes in th
 ## 📅 June 2026
 
 ```txt
-Mo Tu We Th Fr Sa Su
-🌹 🌹🌹 🌹🌹 🌹🌹
-🌹 🌹🌹 11 🟥 13 14
-15 🟥 17 18 🟥 20 21
-22 23 24 25 26 27 28
-29 🟥
+~~ Mes de Parciales ~~
 
-🟥 12 - Arquitectura: winmips
-🟥 16 - Programación III: Algoritmos + Grafos 💻
-🟥 19 - Taller de Lenguajes 
-🟥 30 - Matemática 📖 
-```
-```txt
 Mo Tu We Th Fr Sa Su
 🌸 🌸🌸 🌸🌸 🌸🌸
 🌸 🌸🌸 11 🟥 13 14
