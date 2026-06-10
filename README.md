@@ -26,6 +26,12 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
+## 📅 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juli-xxx&theme=github-dark"/>
+</p>
+
 ## 📚 Progreso en la Carrera
 
 <p align="center">
