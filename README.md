@@ -64,10 +64,9 @@ Mo Tu We Th Fr Sa Su
 22 23 24 25 26 27 28
 29 🟥
 
-❌✅❎🟪⬛🟫📝📑📒📖📕💻👩‍🏫👩‍🏫
 🟥 12 - Arquitectura: winmips
-🟥 16 - Programación III: Algoritmos + Grafos
-🟥 30 - Matemática
+🟥 16 - Programación III: Algoritmos + Grafos 💻
+🟥 30 - Matemática 📖 
 ```
 
 ## 📚 Progreso en la Carrera
