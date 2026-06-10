@@ -26,13 +26,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
-2025
-
-JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC
-░░░ ░░░ 🟨🟨🟨 🟨🟨🟨 🟨🟨🟨 🟨🟨🟨 ░░░ ░░░ ░░░ ░░░ ░░░ ░░░
-
-🟨 = cursando
-🟩 = aprobado
+📅 Study Calendar → [Google Calendar](...)
 
 ## 📚 Progreso en la Carrera
 
