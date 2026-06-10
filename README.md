@@ -26,11 +26,13 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
-## 📅 Contributions
+2025
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juli-xxx&theme=github-dark"/>
-</p>
+JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC
+░░░ ░░░ 🟨🟨🟨 🟨🟨🟨 🟨🟨🟨 🟨🟨🟨 ░░░ ░░░ ░░░ ░░░ ░░░ ░░░
+
+🟨 = cursando
+🟩 = aprobado
 
 ## 📚 Progreso en la Carrera
 
