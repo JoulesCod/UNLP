@@ -30,6 +30,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 ```txt
 ~~ Mes de Parciales ~~
+---------------------
 Mo Tu We Th Fr Sa Su
 🌸 🌸🌸 🌸🌸 🌸🌸
 🌸 🌸🌸 11 🟥 13 14
