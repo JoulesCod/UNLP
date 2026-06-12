@@ -7,3 +7,7 @@ COMISIÓN MC4 <br>
 - recomendada?: NO <br>
 Desordenada, tardan en dar parciales, la profe de teoría explica todo mezclado,<br>
 Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
+
+- Profesores: todos me caen re bien... pero te hacen sufrir
+- La profesora da clases en informática así q suele llegar un poco tarde
+- 
