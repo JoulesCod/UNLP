@@ -59,7 +59,7 @@ Mo Tu We Th Fr Sa Su
 </p>
 (divido año en 4 --> primer cuatri (50%), segundo cuatri (50%), y mas o menos dós módulos por cuatri (25% por módulo), ej: aprobé todos los modulos 1 del primer cuatri => 25%)
 </p>
-(si me falta un final no voy a poner el año al 100%, probablemente le saque 10% por final, por ahora cruzo los dedos 🤞)
+(si me falta un final no voy a poner el año al 100%, probablemente le saque 5% por final, por ahora cruzo los dedos 🤞)
 <br>
 <br>
 
