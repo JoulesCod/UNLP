@@ -33,7 +33,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 ---------------------
 Mo Tu We Th Fr Sa Su
 🌸 🌸🌸 🌸🌸 🌸🌸
-🌸 🌸🌸 11 🟥 13 14
+🌸 🌸🌸 🌸🟥 13 14
 15 🟥 17 18 🟥 20 21
 22 23 24 25 26 27 28
 29 🟥
@@ -51,7 +51,7 @@ Mo Tu We Th Fr Sa Su
 | Año     | Estado         | Avance                                    |
 | ------- | -------------- | ----------------------------------------- |
 | 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) |
-| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/25/?title=)  |
+| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/30/?title=)  |
 | 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  |
 | 4to Año | -    | ![](https://progress-bar.xyz/0/?title=)   |
 | 5to Año | -      | ![](https://progress-bar.xyz/0/?title=)  |
