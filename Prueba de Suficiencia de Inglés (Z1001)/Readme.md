@@ -1,6 +1,7 @@
 ### LOS DE COMPUTACIÓN RENDIMOS EN INFORMÁTICA, LA FORMA DE ANOTARNOS ES DIFERENTE
 - NO HACE FALTA ANOTARCE A UN FORMULARIO COMO EL RESTO DE INGENIERÍAS 
 - Inscripción en SIU Guaraní: hay que inscribirse como "Final Libre" a través del SIU Guaraní de la Facultad de Informática
+(creeeeeeeo q el parcial es igual para todos los de informática, o sea, rendimos el mismo día, a la misma hr, en el mismo aula...)
 
  Examen de Mayo:
  - Fecha de inscripción: Del 19 al X de mayo de 2026.
