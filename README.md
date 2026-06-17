@@ -51,7 +51,7 @@ Mo Tu We Th Fr Sa Su
 | Año     | Estado         | Avance                                    |
 | ------- | -------------- | ----------------------------------------- |
 | 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) |
-| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/30/?title=)  |
+| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/35/?title=)  |
 | 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  |
 | 4to Año | -    | ![](https://progress-bar.xyz/0/?title=)   |
 | 5to Año | -      | ![](https://progress-bar.xyz/0/?title=)  |
