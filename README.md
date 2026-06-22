@@ -26,24 +26,6 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
-## 📅 June 2026
-
-```txt
-~~ Mes de Parciales ~~
----------------------
-Mo Tu We Th Fr Sa Su
-🌸 🌸🌸 🌸🌸 🌸🌸
-🌸 🌸🌸 🌸🟥 🌸🌸
-🌸 🟥🌸 🌸🟥 🌸🌸
-22 23 24 25 26 27 28
-29 🟥
-
-✅ 12 - Arquitectura: winmips ✅ (aprobada)
-✅ 16 - Programación III: Algoritmos + Grafos 
-✅ 19 - Taller de Lenguajes 
-🟥 30 - Matemática  
-```
-
 ## 📚 Progreso en la Carrera
 
 <p align="center">
@@ -73,5 +55,21 @@ Progress
 
 ```
 
+## 📅 June 2026
 
+```txt
+~~ Mes de Parciales ~~
+---------------------
+Mo Tu We Th Fr Sa Su
+🌸 🌸🌸 🌸🌸 🌸🌸
+🌸 🌸🌸 🌸🟥 🌸🌸
+🌸 🟥🌸 🌸🟥 🌸🌸
+22 23 24 25 26 27 28
+29 🟥
+
+✅ 12 - Arquitectura: winmips ✅ (aprobada)
+✅ 16 - Programación III: Algoritmos + Grafos 
+✅ 19 - Taller de Lenguajes 
+🟥 30 - Matemática  
+```
 
