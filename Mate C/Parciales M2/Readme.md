@@ -3,6 +3,7 @@ Los parciales me parecen re largos, aguante los parcialitos
 <br>
 <br>
 # AI
+
 Para preparar tu parcialito sobre **Autovalores, autovectores y diagonalización**, te recomiendo enfocarte en los siguientes ejercicios y temas del **Módulo II (Fuente 15)** y en los patrones observados en los **parciales previos**, ya que son los que mejor representan lo que se evalúa habitualmente.
 
 ### **1. Ejercicios Fundamentales de Cálculo (Módulo II)**
