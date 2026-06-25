@@ -2,38 +2,26 @@ Los parciales me parecen re largos, aguante los parcialitos
 <br>
 <br>
 
-# AI
+Al analizar los exámenes parciales y recuperatorios presentes en las fuentes, se observa que la mayoría sigue una estructura estándar de tres partes: una justificación teórica, un análisis geométrico y un ejercicio práctico de diagonalización. Sin embargo, algunos parciales se destacan por incluir desafíos conceptuales o estructuras matriciales menos frecuentes:
 
-Para preparar tu parcialito sobre **Autovalores, autovectores y diagonalización**, te recomiendo enfocarte en los siguientes ejercicios y temas del **Módulo II (Fuente 15)** y en los patrones observados en los **parciales previos**, ya que son los que mejor representan lo que se evalúa habitualmente.
+### **1. Evaluación del 02/12/2025: Desafío de Ejemplificación**
+Este parcial se diferencia del resto en su punto 3.a.i, donde no pide resolver un sistema dado, sino que solicita al alumno **"Indicar qué significa que una matriz $M$ sea diagonalizable"** y, lo que es más inusual, pide **"Dar un ejemplo de i) una matriz $M$ de $2 \times 2$ diagonalizable y ii) una matriz $C$ de $2 \times 2$ no diagonalizable"**. 
+*   Mientras que otros exámenes dan la matriz para analizar, aquí se evalúa la capacidad de construcción del alumno. 
+*   Además, en el punto 3.c.ii, pide expresar **$M^{-2}$** en términos de $U$ y $D$. La mayoría de los exámenes suelen pedir potencias positivas altas (como $M^8$ o $A^{20}$), pero este solicita explícitamente una potencia negativa, lo que requiere comprender la inversión de la matriz diagonalizada.
 
-### **1. Ejercicios Fundamentales de Cálculo (Módulo II)**
-Para dominar el procedimiento mecánico de hallar el polinomio característico, los autovalores ($\lambda$) y los autoespacios ($E_\lambda$), realiza los siguientes:
-*   **Matrices $2 \times 2$:** Los **Ejercicios 3.1 y 3.2** (páginas 20-21) son ideales para empezar.
-*   **Matrices $3 \times 3$:** El **Ejercicio 6.4.a** (página 21) te permitirá practicar el desarrollo de determinantes más complejos y el cálculo de bases para los autoespacios.
-*   **Propiedades de Diagonal y Triangular:** Asegúrate de entender por qué los autovalores se leen directamente de la diagonal en estos casos, como indica el **Ejercicio 6.6**.
+### **2. Evaluaciones con Matrices de 4x4 (01/07/2025 y 11/07/2023)**
+Aunque la mayoría de los ejercicios trabajan con matrices de $2 \times 2$ o $3 \times 3$, estos dos exámenes presentan matrices de **$4 \times 4$**:
+*   **Parcial del 01/07/2025 (Fuente 1):** Presenta una matriz $M$ de $4 \times 4$ que, a pesar de su tamaño, está estructurada por **bloques diagonales** (dos bloques de $2 \times 2$). Esto permite calcular los autovalores de cada bloque por separado para obtener el conjunto total, un concepto que se explica detalladamente en la "Actividad de Repaso Resuelta".
+*   **Recuperatorio del 11/07/2023 (Fuente 20):** La matriz $B$ de este examen también es de $4 \times 4$ y posee bloques nulos, lo que facilita encontrar **autovalores obvios** (aquellos que se ven directamente en la diagonal si la fila o columna tiene un solo elemento no nulo).
 
-### **2. Diagonalización y Potencias de Matrices**
-Este es un tema central en todos los exámenes. Debes saber cuándo una matriz es diagonalizable (multiplicidad algebraica = geométrica) y cómo calcular $A^k$ o $e^A$.
-*   **Diagonalización completa:** Realiza los **Ejercicios 9.1 y 9.4** (páginas 23-24) para practicar la construcción de las matrices $X$ (autovectores) y $D$ (diagonal).
-*   **Cálculo de Potencias ($A^k$):** El ejemplo de la página 23 y el **Ejercicio 6.9** explican la relación fundamental $A^k = X D^k X^{-1}$ .
-*   **Sistemas de segundo orden:** El **Ejercicio 9.8** sobre matrices simétricas es vital, ya que estas siempre son diagonalizables ortogonalmente ($X^{-1} = X^T$).
+### **3. Recuperatorio del 18/07/2019: Relaciones Algebraicas Complejas**
+Este examen se destaca en su punto 3.a por pedir una demostración sobre la herencia de autovectores:
+*   Pregunta: **"Si $v$ es autovector de $A$, ¿lo es también de $B = A - 2A^2$? En tal caso, ¿con qué autovalor?"**. 
+*   Este tipo de pregunta requiere aplicar la propiedad de que si $v$ es autovector de $A$ con $\lambda$, entonces es autovector de $A^k$ con $\lambda^k$. Es un planteo más abstracto que el simple cálculo numérico.
 
-### **3. Análisis Geométrico (Muy importante)**
-En casi todos los parciales (Fuentes 1, 2, 3, 16) aparece un punto donde debes hallar autovalores y autoespacios basándote **solo en consideraciones geométricas** (sin hacer cuentas).
-*   **Reflexiones:** Estudia el ejemplo 3.3 (página 21) sobre la reflexión respecto a $y = x$. En los parciales suelen preguntar por reflexiones respecto al eje $y$ (Fuente 1, 3) o la recta $y = -x$ (Fuente 16).
-*   **Proyecciones:** Repasa el concepto de proyección ortogonal. Los vectores sobre la recta de proyección tienen $\lambda = 1$ y los perpendiculares $\lambda = 0$. Mira el punto 3.b del parcial del 02/12/25 (Fuente 2).
+### **4. El concepto de "Autovalores Obvios"**
+Varios parciales (como los de **25/06/2024**, **03/12/2024** y **11/07/2023**) incluyen una pregunta específica: **"Indicar si posee autovalores obvios"**. 
+*   Esto hace referencia a matrices con estructuras triangulares o por bloques donde los autovalores coinciden con los elementos de la diagonal principal. 
+*   Se destaca el **Recu del 11/07/23** porque la matriz $B$ tiene un bloque inferior donde el $-6$ es un autovalor evidente por ser el único elemento en su fila y columna dentro de ese bloque.
 
-### **4. Propiedades Teóricas y "Autovalores Obvios"**
-Es común que el examen incluya preguntas conceptuales sobre transformaciones de autovalores.
-*   **Transformaciones de la matriz:** Practica ejercicios tipo "Si $v$ es autovector de $A$ con $\lambda = 4$, ¿es autovector de $B = 3A + I$?". El **Ejercicio 9.1** (página 23) y los puntos 3.a de casi todos los parciales cubren esto.
-*   **Autovalores obvios:** Busca matrices donde la **suma de las filas o columnas sea constante** (Ejercicio 6.8) o matrices **definidas por bloques** (Apéndice 1, página 25), ya que estas aparecen frecuentemente para simplificar los cálculos en matrices grandes de $4 \times 4$.
-
-### **Resumen de ejercicios recomendados (Módulo II):**
-| Tema | Ejercicios Recomendados |
-| :--- | :--- |
-| **Cálculo básico** | 3.1, 3.2, 6.4.a |
-| **Teoría de $\lambda$** | 6.8, 6.9, 9.1 |
-| **Diagonalización** | 9.4, 9.6, 9.8 (Simétricas) |
-| **Bloques y $A^k$** | Apéndice 1 (Ejercicios 1.a y 1.b) |
-
-**Consejo extra:** No ignores el caso de **autovalores complejos**. Aunque son menos frecuentes, aparecen en matrices que representan rotaciones o bloques específicos, como se ve en el punto 3.b del parcial del 01/07/25.
+En resumen, si buscas algo diferente para estudiar, el parcial del **02/12/2025** es el que más se aleja de la rutina de cálculo al exigir la creación de ejemplos propios y el manejo de potencias negativas.
