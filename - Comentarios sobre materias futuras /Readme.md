@@ -22,7 +22,7 @@
 - estudiar de parcial,
 - VER teorías en YouTube,
 - a la mañana explican mal --> se puede faltar
-- toman final (antes no),
+- toman final (antes no), o sea, promocionabas o la recursabas
 - parciales teóricos múltiples choise
 
 ### Taller de Lenguages 2 -->
