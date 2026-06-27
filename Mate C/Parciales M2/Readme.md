@@ -43,32 +43,41 @@ Casi siempre se trabaja con subespacios definidos por sus generadores (vectores)
 <br>
 
 # Punto 4)
-Al revisar las evaluaciones de ambos módulos, se observa que el **Punto 4** suele ser el lugar donde la cátedra introduce desafíos que van más allá del cálculo mecánico, exigiendo **interpretación física**, **razonamiento lógico** sobre propiedades o el manejo de **estructuras matriciales complejas**.
+Al revisar los exámenes parciales y recuperatorios del **Módulo II**, se observa que el **Punto 4** (dedicado a **Ecuaciones Diferenciales Ordinarias - EDO**) es donde la cátedra suele introducir desafíos que van más allá del cálculo mecánico, exigiendo **interpretación física**, análisis de **comportamiento a largo plazo** o el manejo de **parámetros literales**.
 
-Aquí tienes los ejercicios del **Punto 4** más destacados por su originalidad o dificultad extra:
+Aquí tienes los ejercicios del Punto 4 que se destacan por ser diferentes o presentar un desafío extra:
 
-### **2. Interpretación de Modelado Físico (Módulo II)**
-En los parciales de **✅01/07/2025** y **02/12/2025**, tras resolver una ecuación diferencial de segundo orden, se agrega una pregunta conceptual que no suele aparecer en la práctica básica.
-*   **El desafío:** "¿Qué sistemas podría modelar esta ecuación?" o "¿Con qué fenómeno se relaciona este caso?" [4.c, 4.b].
-*   **Lo diferente:** Debes conectar la matemática con la física. Por ejemplo, si la solución oscila y crece sin tope, debes identificar el fenómeno de **resonancia**. Si tiene un término de fricción, es un **oscilador armónico amortiguado**.
+### **1. El uso de Parámetros Literales en lugar de Números**
+Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). Sin embargo, algunos parciales elevan la dificultad usando letras, lo que obliga a arrastrar variables y aumenta el riesgo de errores algebraicos al despejar la solución particular:
+*   **Evaluación ✅01/07/2025 (Punto 4.b):** Pide resolver $y'' + 4y = a \cos(\omega t)$ con la condición $|\omega| \neq 2$. 
+*   **Recuperatorio 12/07/2022 (Punto 4.a):** Similarmente, plantea $y'' + 9y = a + b \cos(\omega t)$ con $|\omega| \neq 3$.
+*   **Desafío:** No puedes simplemente sumar números; debes trabajar con expresiones como $y_p(t) = \frac{a}{k^2 - \omega^2} \cos(\omega t)$, lo que requiere mucha precisión en el manejo de las constantes.
 
-### **3. Análisis Asintótico: Comportamiento para $t \gg 1$ (Módulo II)**
-El parcial del **03/12/2024** introduce un requisito de análisis de límites.
-*   **El desafío:** Después de hallar la solución general $y(t),$ pide: **"Describir su comportamiento para $t \gg 1$"** [4.a].
-*   **Lo diferente:** Esto requiere que analices qué términos de tu solución "sobreviven" a largo plazo (estado estacionario) y cuáles desaparecen (transitorios) debido a exponenciales negativas ($e^{-at} \to 0$).
+### **2. Interpretación del Modelo Físico y Fenómenos**
+Varios exámenes no terminan con la solución matemática, sino que preguntan qué representa esa ecuación en el mundo real.
+*   **Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.
+*   **Actividad de Repaso Resuelta:** Indica que ecuaciones de segundo orden con términos de fricción ($y'$) representan **osciladores armónicos amortiguados** [2.a]. 
+*   **Desafío:** Debes ser capaz de identificar si el sistema es subamortiguado, sobreamortiguado o crítico basándote en las raíces de la ecuación característica.
 
-### **4. Desafíos Lógicos y Demostraciones (Módulo I)**
-Algunos exámenes (como el del **29/04/2021** o **26/04/2022**) presentan preguntas de "Verdadero o Falso" o demostraciones teóricas en el Punto 4.
-*   **El desafío:** "Si una matriz real $M$ satisface $MM^T = I_n$, ¿qué valores puede tomar su determinante?" [4.c].
-*   **Lo diferente:** No hay números para calcular. Debes usar que $\det(MM^T) = \det(M) \cdot \det(M^T) = [\det(M)]^2$ y que $\det(I) = 1,$ para concluir que $\det(M) = \pm 1$.
-*   **Otro caso:** "Dada $A$ singular y $C$ no singular, ¿es $D = AC + A^2$ siempre singular?" [4.c]. Aquí el reto es **factorizar la matriz** ($D = A(C+A)$) para usar la propiedad de que el producto de matrices es singular si al menos uno de sus factores lo es.
+### **3. Análisis Asintótico: Comportamiento para $t \gg 1$**
+Este es un requisito que aparece con frecuencia y que requiere entender la física de la solución (transitorios vs. estado estacionario).
+*   **Evaluación 03/12/2024 (Punto 4.a y 4.b):** Pide hallar la solución y luego **"describir su comportamiento para $t \gg 1$"** tanto para una EDO como para un sistema.
+*   **Flotante 15/02/2024 (Punto 4.a.ii):** Incluye el mismo requisito tras resolver una EDO no homogénea.
+*   **Desafío:** Para resolverlo, debes identificar que los términos con exponenciales negativas ($e^{-at}$) tienden a cero cuando el tiempo crece, dejando solo la solución particular o el término constante.
 
-### **5. Sistemas no Homogéneos con Parámetros (Módulo II)**
-El ejercicio **4.b del ✅01/07/2025** es un desafío de precisión.
-*   **El desafío:** Resolver $y'' + 4y = a \cos(\omega t)$ considerando que $|\omega| \neq 2.$
-*   **Lo diferente:** El uso de letras ($a, \omega$) en lugar de números obliga a arrastrar variables en el método de coeficientes indeterminados, lo que aumenta drásticamente la probabilidad de errores algebraicos al despejar la solución particular.
+### **4. Casos de Resonancia Específicos**
+La resonancia ocurre cuando la frecuencia de la fuente externa coincide con la frecuencia natural del sistema, lo que cambia la forma de la propuesta para la solución particular.
+*   **Evaluación ✅01/07/2025 (Punto 4.c):** Pregunta qué sucede si $\omega = 2$ en la ecuación anterior y con qué fenómeno se relaciona.
+*   **Recuperatorio ✅11/07/2023 (Punto 3.a.ii):** (En este examen las EDO están en el punto 3). Pide la forma de la solución si $\omega = 5$ y si esta permanece acotada.
+*   **Desafío:** Debes notar que la solución ya no es un simple seno/coseno, sino que aparece un factor $t$ (ej. $t \sin(\omega t)$), lo que significa que la **amplitud crece linealmente** con el tiempo, un fenómeno físicamente peligroso.
 
-**Resumen para tu estudio:** Si el examen es del **Módulo I**, prepárate para **bloques y propiedades teóricas** en el Punto 4. Si es del **Módulo II**, Point 4 te exigirá **explicar el comportamiento físico** de tus soluciones de ecuaciones diferenciales.
+### **5. Sistemas no Homogéneos con Términos Mixtos**
+Resolver un sistema de EDOs donde el término no homogéneo tiene varias funciones combinadas o letras:
+*   **Evaluación 02/12/2025 (Punto 4.a):** El sistema incluye un término $ae^t$.
+*   **Flotante 15/02/2024 (Punto 4.a.ii):** Incluye una fuente de la forma $B + Ce^{-t}$.
+*   **Desafío:** Esto te obliga a usar el **Principio de Superposición**, hallando una solución particular para cada parte del término no homogéneo y luego sumándolas.
+
+**Consejo para tu examen:** Si el Punto 4 te pide el "comportamiento para $t \gg 1$", fijate bien en los signos de los exponentes de tus soluciones. Si son negativos, esos términos "mueren" y solo sobrevive la solución particular o constante.
 
 # Punto 5)
 Al analizar los ejercicios del **Punto 5** en los exámenes del Módulo II (centrados en **Series de Fourier y Ecuaciones Diferenciales en Derivadas Parciales**), se observan patrones donde la cátedra introduce desafíos que van más allá del cálculo mecánico de integrales.
@@ -77,7 +86,7 @@ Aquí te detallo los que presentan una vuelta de tuerca o un desafío extra:
 
 ### **1. La "Trampa" de la Condición Inicial Constante ($U(x,0) = k$)**
 Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato. Sin embargo, en varios exámenes la condición es un número constante:
-*   **Ejemplos:** Parcial del **01/07/2025** ($U(x,0) = 1$) [5.b], **25/06/2024** ($U(x,0) = 2$) [5.b] y **11/07/2023** ($U(x,0) = -1/2$) [5.b].
+*   **Ejemplos:** Parcial del **✅01/07/2025** ($U(x,0) = 1$) [5.b], **25/06/2024** ($U(x,0) = 2$) [5.b] y **✅11/07/2023** ($U(x,0) = -1/2$) [5.b].
 *   **El desafío:** Muchos alumnos se bloquean porque no ven una función trigonométrica. El reto es entender que para cumplir las condiciones de contorno nulas ($U=0$ en los bordes), debes realizar el **desarrollo de medio rango en senos** de la función constante. Esto genera una serie infinita, a diferencia de los casos donde la condición ya es un seno.
 
 ### **2. Interpretación Física: El Término Dominante ($t \gg 1$)**
@@ -92,7 +101,7 @@ Hay ejercicios diseñados para premiar al alumno que observa la estructura antes
 
 ### **4. Análisis de Convergencia en Discontinuidades**
 Casi todos piden indicar a qué valor converge la serie en puntos específicos, pero algunos eligen puntos "frontera" o fuera del intervalo principal.
-*   **Ejemplo:** Parcial **01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [5.a, 5.a].
+*   **Ejemplo:** Parcial **✅01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [5.a, 5.a].
 *   **El desafío:** Requiere aplicar correctamente el **Teorema de Dirichlet** y entender la **extensión periódica**. Si el punto está en una discontinuidad de la extensión, la serie converge al punto medio de los límites laterales ($[f(x^+) + f(x^-)]/2$). Es un error común olvidar que la serie "repite" el comportamiento del intervalo base.
 
 ### **5. El Uso de Parámetros en lugar de Números**
