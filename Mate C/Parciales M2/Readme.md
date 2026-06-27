@@ -47,27 +47,21 @@ Al revisar las evaluaciones de ambos módulos, se observa que el **Punto 4** sue
 
 Aquí tienes los ejercicios del **Punto 4** más destacados por su originalidad o dificultad extra:
 
-### **1. Matrices por Bloques de Gran Escala (Módulo I)**
-Varios parciales (como el del **06/05/2025** o **07/10/2025**) presentan un desafío de escala. No te dan una matriz simple, sino que te piden construir una matriz de $4 \times 4$ o $6 \times 6$ a partir de bloques más pequeños.
-*   **El desafío:** En el punto **4.a.ii del 06/05/2025**, te dan una matriz $B$ de $2 \times 2$ y te piden hallar el determinante de una matriz $C$ de **$6 \times 6$** definida como:
-    $$C = \begin{pmatrix} 2B^2 & 0 \\ 0 & -B^T \end{pmatrix}$$
-*   **Lo diferente:** Para resolver esto sin morir en el intento, no debes armar la matriz completa, sino aplicar la **propiedad de determinantes de matrices por bloques** y potencias: $\det(C) = \det(2B^2) \cdot \det(-B^T)$ [18: 221, 222].
-
 ### **2. Interpretación de Modelado Físico (Módulo II)**
 En los parciales de **✅01/07/2025** y **02/12/2025**, tras resolver una ecuación diferencial de segundo orden, se agrega una pregunta conceptual que no suele aparecer en la práctica básica.
-*   **El desafío:** "¿Qué sistemas podría modelar esta ecuación?" o "¿Con qué fenómeno se relaciona este caso?" [1: 4.c, 2: 4.b].
+*   **El desafío:** "¿Qué sistemas podría modelar esta ecuación?" o "¿Con qué fenómeno se relaciona este caso?" [4.c, 4.b].
 *   **Lo diferente:** Debes conectar la matemática con la física. Por ejemplo, si la solución oscila y crece sin tope, debes identificar el fenómeno de **resonancia**. Si tiene un término de fricción, es un **oscilador armónico amortiguado**.
 
 ### **3. Análisis Asintótico: Comportamiento para $t \gg 1$ (Módulo II)**
 El parcial del **03/12/2024** introduce un requisito de análisis de límites.
-*   **El desafío:** Después de hallar la solución general $y(t),$ pide: **"Describir su comportamiento para $t \gg 1$"** [3: 4.a].
+*   **El desafío:** Después de hallar la solución general $y(t),$ pide: **"Describir su comportamiento para $t \gg 1$"** [4.a].
 *   **Lo diferente:** Esto requiere que analices qué términos de tu solución "sobreviven" a largo plazo (estado estacionario) y cuáles desaparecen (transitorios) debido a exponenciales negativas ($e^{-at} \to 0$).
 
 ### **4. Desafíos Lógicos y Demostraciones (Módulo I)**
 Algunos exámenes (como el del **29/04/2021** o **26/04/2022**) presentan preguntas de "Verdadero o Falso" o demostraciones teóricas en el Punto 4.
-*   **El desafío:** "Si una matriz real $M$ satisface $MM^T = I_n$, ¿qué valores puede tomar su determinante?" [14: 4.c].
+*   **El desafío:** "Si una matriz real $M$ satisface $MM^T = I_n$, ¿qué valores puede tomar su determinante?" [4.c].
 *   **Lo diferente:** No hay números para calcular. Debes usar que $\det(MM^T) = \det(M) \cdot \det(M^T) = [\det(M)]^2$ y que $\det(I) = 1,$ para concluir que $\det(M) = \pm 1$.
-*   **Otro caso:** "Dada $A$ singular y $C$ no singular, ¿es $D = AC + A^2$ siempre singular?" [17: 4.c]. Aquí el reto es **factorizar la matriz** ($D = A(C+A)$) para usar la propiedad de que el producto de matrices es singular si al menos uno de sus factores lo es.
+*   **Otro caso:** "Dada $A$ singular y $C$ no singular, ¿es $D = AC + A^2$ siempre singular?" [4.c]. Aquí el reto es **factorizar la matriz** ($D = A(C+A)$) para usar la propiedad de que el producto de matrices es singular si al menos uno de sus factores lo es.
 
 ### **5. Sistemas no Homogéneos con Parámetros (Módulo II)**
 El ejercicio **4.b del ✅01/07/2025** es un desafío de precisión.
@@ -82,27 +76,27 @@ Al analizar los ejercicios del **Punto 5** en los exámenes del Módulo II (cent
 Aquí te detallo los que presentan una vuelta de tuerca o un desafío extra:
 
 ### **1. La "Trampa" de la Condición Inicial Constante ($U(x,0) = k$)**
-Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato [19: 608]. Sin embargo, en varios exámenes la condición es un número constante:
-*   **Ejemplos:** Parcial del **01/07/2025** ($U(x,0) = 1$) [1: 5.b], **25/06/2024** ($U(x,0) = 2$) [4: 5.b] y **11/07/2023** ($U(x,0) = -1/2$) [20: 5.b].
-*   **El desafío:** Muchos alumnos se bloquean porque no ven una función trigonométrica. El reto es entender que para cumplir las condiciones de contorno nulas ($U=0$ en los bordes), debes realizar el **desarrollo de medio rango en senos** de la función constante [19: 650]. Esto genera una serie infinita, a diferencia de los casos donde la condición ya es un seno [19: 651, 665].
+Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato. Sin embargo, en varios exámenes la condición es un número constante:
+*   **Ejemplos:** Parcial del **01/07/2025** ($U(x,0) = 1$) [5.b], **25/06/2024** ($U(x,0) = 2$) [5.b] y **11/07/2023** ($U(x,0) = -1/2$) [5.b].
+*   **El desafío:** Muchos alumnos se bloquean porque no ven una función trigonométrica. El reto es entender que para cumplir las condiciones de contorno nulas ($U=0$ en los bordes), debes realizar el **desarrollo de medio rango en senos** de la función constante. Esto genera una serie infinita, a diferencia de los casos donde la condición ya es un seno.
 
 ### **2. Interpretación Física: El Término Dominante ($t \gg 1$)**
 Algunos ejercicios no terminan al hallar la solución general, sino que exigen una conclusión física sobre el comportamiento del sistema a largo plazo.
-*   **Ejemplos:** Recuperatorio **20/02/2020** [24: 5.b, 27: 5.b] y **18/07/2019** [22: 5.b].
-*   **El desafío:** Se pide indicar el **término dominante para tiempos largos**. Para resolverlo, hay que comprender que en la solución $U(x,t) = \sum B_n \sin(n\pi x/L) e^{-n^2 \dots t}$, a medida que $t$ crece, las exponenciales con $n > 1$ se hacen insignificantes mucho más rápido que la de $n=1$ [19: 664]. Por lo tanto, para $t \gg 1,$ la temperatura de la barra se comporta simplemente como el **primer término de la serie** ($n=1$) [19: 666].
+*   **Ejemplos:** Recuperatorio **20/02/2020** [5.b, 5.b] y **18/07/2019** [5.b].
+*   **El desafío:** Se pide indicar el **término dominante para tiempos largos**. Para resolverlo, hay que comprender que en la solución $U(x,t) = \sum B_n \sin(n\pi x/L) e^{-n^2 \dots t}$, a medida que $t$ crece, las exponenciales con $n > 1$ se hacen insignificantes mucho más rápido que la de $n=1$. Por lo tanto, para $t \gg 1,$ la temperatura de la barra se comporta simplemente como el **primer término de la serie** ($n=1$).
 
 ### **3. La Solución "Servida" (Observación vs. Cálculo)**
 Hay ejercicios diseñados para premiar al alumno que observa la estructura antes de empezar a integrar.
-*   **Ejemplo:** Recuperatorio **12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$ [21: 5.b].
-*   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero [13: 3.b, 19: 665]. La solución se escribe en un renglón.
+*   **Ejemplo:** Recuperatorio **12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$.
+*   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero [3.b. La solución se escribe en un renglón.
 
 ### **4. Análisis de Convergencia en Discontinuidades**
 Casi todos piden indicar a qué valor converge la serie en puntos específicos, pero algunos eligen puntos "frontera" o fuera del intervalo principal.
-*   **Ejemplo:** Parcial **01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [1: 5.a, 24: 5.a].
-*   **El desafío:** Requiere aplicar correctamente el **Teorema de Dirichlet** y entender la **extensión periódica**. Si el punto está en una discontinuidad de la extensión, la serie converge al punto medio de los límites laterales ($[f(x^+) + f(x^-)]/2$) [19: 641, 644]. Es un error común olvidar que la serie "repite" el comportamiento del intervalo base.
+*   **Ejemplo:** Parcial **01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [5.a, 5.a].
+*   **El desafío:** Requiere aplicar correctamente el **Teorema de Dirichlet** y entender la **extensión periódica**. Si el punto está en una discontinuidad de la extensión, la serie converge al punto medio de los límites laterales ($[f(x^+) + f(x^-)]/2$). Es un error común olvidar que la serie "repite" el comportamiento del intervalo base.
 
 ### **5. El Uso de Parámetros en lugar de Números**
-*   **Ejemplo:** Parcial **03/12/2024** (Punto 5.b). Incluye la constante de difusión como $\alpha > 0$ sin darle un valor numérico [3: 5.b].
-*   **El desafío:** Obliga a arrastrar la variable $\alpha$ en toda la resolución de la EDP, lo que pone a prueba la precisión algebraica del alumno para no perder constantes en los exponentes de la solución final [19: 663].
+*   **Ejemplo:** Parcial **03/12/2024** (Punto 5.b). Incluye la constante de difusión como $\alpha > 0$ sin darle un valor numérico.
+*   **El desafío:** Obliga a arrastrar la variable $\alpha$ en toda la resolución de la EDP, lo que pone a prueba la precisión algebraica del alumno para no perder constantes en los exponentes de la solución final.
 
-**Resumen:** Para lucirte en el Punto 5, no solo practiques integrales; asegurate de saber cómo se comporta la serie en los **saltos de la función** y cómo "mueren" los términos de mayor orden con el **paso del tiempo** [19: 645, 664].
+**Resumen:** Para lucirte en el Punto 5, no solo practiques integrales; asegurate de saber cómo se comporta la serie en los **saltos de la función** y cómo "mueren" los términos de mayor orden con el **paso del tiempo**.
