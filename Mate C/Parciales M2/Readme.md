@@ -77,12 +77,32 @@ El ejercicio **4.b del ✅01/07/2025** es un desafío de precisión.
 **Resumen para tu estudio:** Si el examen es del **Módulo I**, prepárate para **bloques y propiedades teóricas** en el Punto 4. Si es del **Módulo II**, Point 4 te exigirá **explicar el comportamiento físico** de tus soluciones de ecuaciones diferenciales.
 
 # Punto 5)
+Al analizar los ejercicios del **Punto 5** en los exámenes del Módulo II (centrados en **Series de Fourier y Ecuaciones Diferenciales en Derivadas Parciales**), se observan patrones donde la cátedra introduce desafíos que van más allá del cálculo mecánico de integrales.
 
-En el Punto 5 del Módulo II, el mayor reto suele ser la conexión entre la Serie de Fourier y la condición inicial de la ecuación de difusión:
+Aquí te detallo los que presentan una vuelta de tuerca o un desafío extra:
 
-*   **El término dominante para $t \gg 1$ (20/02/2020):** Tras resolver la ecuación de difusión, el inciso **5.b** pide indicar el **término dominante de la solución para tiempos largos**. El desafío extra consiste en entender físicamente que, a medida que el tiempo crece, los términos de la serie con $n$ más alto decaen mucho más rápido debido al factor exponencial $e^{-n^2 \dots t}$, por lo que el término dominante es siempre el primero ($n=1$).
-*   **Condición Inicial Constante ($U(x,0) = 1$) (01/07/2025):** En el punto **5.b**, la condición inicial es una constante. Esto suele confundir a los alumnos porque esperan una función seno o coseno. El desafío es darse cuenta de que debes calcular el **desarrollo de medio rango en senos** de la función constante $f(x)=1$ para poder "armar" la solución final.
-*   **La solución "servida" vs. el cálculo (12/07/2022):** El punto **5.b** da una condición inicial $U(x,0) = 3\sin(x) - \sin(2x)$. Aquí el "desafío" es la **observación**: muchos alumnos intentan calcular las integrales de Fourier desde cero, cuando el ejercicio está diseñado para que reconozcas que los coeficientes $B_1=3$ y $B_2=-1$ (y los demás ceros) ya están dados por la propia expresión de la condición inicial.
+### **1. La "Trampa" de la Condición Inicial Constante ($U(x,0) = k$)**
+Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato [19: 608]. Sin embargo, en varios exámenes la condición es un número constante:
+*   **Ejemplos:** Parcial del **01/07/2025** ($U(x,0) = 1$) [1: 5.b], **25/06/2024** ($U(x,0) = 2$) [4: 5.b] y **11/07/2023** ($U(x,0) = -1/2$) [20: 5.b].
+*   **El desafío:** Muchos alumnos se bloquean porque no ven una función trigonométrica. El reto es entender que para cumplir las condiciones de contorno nulas ($U=0$ en los bordes), debes realizar el **desarrollo de medio rango en senos** de la función constante [19: 650]. Esto genera una serie infinita, a diferencia de los casos donde la condición ya es un seno [19: 651, 665].
 
-**Resumen para el examen:** 
-*   Asegurate de entender cómo la **Serie de Fourier de la condición inicial** se "pega" a la solución de la EDP, y recordá que para $t$ grande, la solución siempre se parece a un simple seno de $n=1$.
+### **2. Interpretación Física: El Término Dominante ($t \gg 1$)**
+Algunos ejercicios no terminan al hallar la solución general, sino que exigen una conclusión física sobre el comportamiento del sistema a largo plazo.
+*   **Ejemplos:** Recuperatorio **20/02/2020** [24: 5.b, 27: 5.b] y **18/07/2019** [22: 5.b].
+*   **El desafío:** Se pide indicar el **término dominante para tiempos largos**. Para resolverlo, hay que comprender que en la solución $U(x,t) = \sum B_n \sin(n\pi x/L) e^{-n^2 \dots t}$, a medida que $t$ crece, las exponenciales con $n > 1$ se hacen insignificantes mucho más rápido que la de $n=1$ [19: 664]. Por lo tanto, para $t \gg 1,$ la temperatura de la barra se comporta simplemente como el **primer término de la serie** ($n=1$) [19: 666].
+
+### **3. La Solución "Servida" (Observación vs. Cálculo)**
+Hay ejercicios diseñados para premiar al alumno que observa la estructura antes de empezar a integrar.
+*   **Ejemplo:** Recuperatorio **12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$ [21: 5.b].
+*   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero [13: 3.b, 19: 665]. La solución se escribe en un renglón.
+
+### **4. Análisis de Convergencia en Discontinuidades**
+Casi todos piden indicar a qué valor converge la serie en puntos específicos, pero algunos eligen puntos "frontera" o fuera del intervalo principal.
+*   **Ejemplo:** Parcial **01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [1: 5.a, 24: 5.a].
+*   **El desafío:** Requiere aplicar correctamente el **Teorema de Dirichlet** y entender la **extensión periódica**. Si el punto está en una discontinuidad de la extensión, la serie converge al punto medio de los límites laterales ($[f(x^+) + f(x^-)]/2$) [19: 641, 644]. Es un error común olvidar que la serie "repite" el comportamiento del intervalo base.
+
+### **5. El Uso de Parámetros en lugar de Números**
+*   **Ejemplo:** Parcial **03/12/2024** (Punto 5.b). Incluye la constante de difusión como $\alpha > 0$ sin darle un valor numérico [3: 5.b].
+*   **El desafío:** Obliga a arrastrar la variable $\alpha$ en toda la resolución de la EDP, lo que pone a prueba la precisión algebraica del alumno para no perder constantes en los exponentes de la solución final [19: 663].
+
+**Resumen:** Para lucirte en el Punto 5, no solo practiques integrales; asegurate de saber cómo se comporta la serie en los **saltos de la función** y cómo "mueren" los términos de mayor orden con el **paso del tiempo** [19: 645, 664].
