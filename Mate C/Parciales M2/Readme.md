@@ -44,8 +44,6 @@ Casi siempre se trabaja con subespacios definidos por sus generadores (vectores)
 # Punto 4)
 Al revisar los exámenes parciales y recuperatorios del **Módulo II**, se observa que el **Punto 4** (dedicado a **Ecuaciones Diferenciales Ordinarias - EDO**) es donde la cátedra suele introducir desafíos que van más allá del cálculo mecánico, exigiendo **interpretación física**, análisis de **comportamiento a largo plazo** o el manejo de **parámetros literales**.
 
-Aquí tienes los ejercicios del Punto 4 que se destacan por ser diferentes o presentar un desafío extra:
-
 ### **1. El uso de Parámetros Literales en lugar de Números**
 Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). Sin embargo, algunos parciales elevan la dificultad usando letras, lo que obliga a arrastrar variables y aumenta el riesgo de errores algebraicos al despejar la solución particular:
 *   <mark><mark>**Evaluación ✅01/07/2025 (Punto 4.b):** Pide resolver $y'' + 4y = a \cos(\omega t)$ con la condición $|\omega| \neq 2$.</mark></mark>
@@ -80,8 +78,6 @@ Resolver un sistema de EDOs donde el término no homogéneo tiene varias funcion
 
 # Punto 5)
 Al analizar los ejercicios del **Punto 5** en los exámenes del Módulo II (centrados en **Series de Fourier y Ecuaciones Diferenciales en Derivadas Parciales**), se observan patrones donde la cátedra introduce desafíos que van más allá del cálculo mecánico de integrales.
-
-Aquí te detallo los que presentan una vuelta de tuerca o un desafío extra:
 
 ### **1. La "Trampa" de la Condición Inicial Constante ($U(x,0) = k$)**
 Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato. Sin embargo, en varios exámenes la condición es un número constante:
