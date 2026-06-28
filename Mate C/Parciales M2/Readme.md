@@ -36,7 +36,7 @@ Casi siempre se trabaja con subespacios definidos por sus generadores (vectores)
 *   <mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.a.i):** Es uno de los pocos que pide explícitamente **justificar** si una función es una transformación lineal. No basta con operar; hay que demostrar analíticamente que se cumplen las propiedades de **aditividad** ($T(u+v) = T(u)+T(v)$) y **homogeneidad** ($T(cu) = cT(u)$) usando vectores genéricos.</mark></mark>
 
 ### **6. Definición del Complemento Ortogonal ($S^\perp$)**
-*   **Evaluación 02/12/2025 (Punto 1.b.iii):** Agrega un paso que no suele aparecer: **"Definir el subespacio $S^\perp$ ortogonal a $S$ y dar una base del mismo"**. Para resolverlo, hay que entender la conexión entre el subespacio y el espacio nulo de la matriz formada por sus vectores base.
+*   **✅Evaluación 02/12/2025 (Punto 1.b.iii):** Agrega un paso que no suele aparecer: **"Definir el subespacio $S^\perp$ ortogonal a $S$ y dar una base del mismo"**. Para resolverlo, hay que entender la conexión entre el subespacio y el espacio nulo de la matriz formada por sus vectores base.
 
 **Consejo para el examen:** Si te aparece un ejercicio de "composición" (Punto 2 de esta lista), recordá siempre que la matriz de la **primera** operación que se menciona es la que va a la **derecha** en el producto de matrices.
 <br>
@@ -52,7 +52,7 @@ Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). S
 
 ### **2. Interpretación del Modelo Físico y Fenómenos**
 Varios exámenes no terminan con la solución matemática, sino que preguntan qué representa esa ecuación en el mundo real.
-*   **Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.
+*   **✅Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.
 *   **Actividad de Repaso Resuelta:** Indica que ecuaciones de segundo orden con términos de fricción ($y'$) representan **osciladores armónicos amortiguados** [2.a]. 
 *   **Desafío:** Debes ser capaz de identificar si el sistema es subamortiguado, sobreamortiguado o crítico basándote en las raíces de la ecuación característica.
 
@@ -70,7 +70,7 @@ La resonancia ocurre cuando la frecuencia de la fuente externa coincide con la f
 
 ### **5. Sistemas no Homogéneos con Términos Mixtos**
 Resolver un sistema de EDOs donde el término no homogéneo tiene varias funciones combinadas o letras:
-*   **Evaluación 02/12/2025 (Punto 4.a):** El sistema incluye un término $ae^t$.
+*   **✅Evaluación 02/12/2025 (Punto 4.a):** El sistema incluye un término $ae^t$.
 *   **Flotante 15/02/2024 (Punto 4.a.ii):** Incluye una fuente de la forma $B + Ce^{-t}$.
 *   **Desafío:** Esto te obliga a usar el **Principio de Superposición**, hallando una solución particular para cada parte del término no homogéneo y luego sumándolas.
 
