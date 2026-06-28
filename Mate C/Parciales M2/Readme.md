@@ -17,7 +17,7 @@ Aquí tienes los ejercicios del **Punto 1** que se destacan por ser diferentes o
 
 ### **1. Definición de Transformaciones mediante Combinaciones de Vectores**
 Lo más común es que te den las imágenes de la base canónica ($L(e_1), L(e_2)$, etc.). Sin embargo, algunos parciales te obligan a usar la **propiedad de linealidad** para "despejar" las imágenes antes de armar la matriz:
-*   ~~**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.~~
+*   <mark>**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.</mark>
 *   **Evaluación 02/12/2025 (Punto 1.a):** Sigue una lógica similar pero más compleja, dando datos como **$T(4e_1) = 4e_1 + 4e_2$** y **$T(e_1 - e_2) = 2e_1$**. El desafío extra aquí es el manejo algebraico de los escalares antes de construir la matriz representativa.
 
 ### **2. Composición de Operaciones Geométricas**
