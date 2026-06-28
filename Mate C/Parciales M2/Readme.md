@@ -13,8 +13,6 @@ Recomiendo MUY fuertemente, para los parcialitos, mandarle a Notebook LM todos l
 # Punto 1)
 Al revisar los exámenes parciales y recuperatorios disponibles en las fuentes, se observa que, aunque el **Punto 1** suele seguir una estructura predecible (transformaciones lineales y proyecciones), existen variantes que presentan desafíos lógicos, mayor nivel de abstracción o integran conceptos de forma poco habitual.
 
-Aquí tienes los ejercicios del **Punto 1** que se destacan por ser diferentes o tener un desafío extra:
-
 ### **1. Definición de Transformaciones mediante Combinaciones de Vectores**
 Lo más común es que te den las imágenes de la base canónica ($L(e_1), L(e_2)$, etc.). Sin embargo, algunos parciales te obligan a usar la **propiedad de linealidad** para "despejar" las imágenes antes de armar la matriz:
 *   <mark>**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.</mark>
