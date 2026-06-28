@@ -50,7 +50,7 @@ Aquí tienes los ejercicios del Punto 4 que se destacan por ser diferentes o pre
 Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). Sin embargo, algunos parciales elevan la dificultad usando letras, lo que obliga a arrastrar variables y aumenta el riesgo de errores algebraicos al despejar la solución particular:
 *   <mark>**Evaluación ✅01/07/2025 (Punto 4.b):** Pide resolver $y'' + 4y = a \cos(\omega t)$ con la condición $|\omega| \neq 2$.</mark>
 *   **Recuperatorio 12/07/2022 (Punto 4.a):** Similarmente, plantea $y'' + 9y = a + b \cos(\omega t)$ con $|\omega| \neq 3$.
-*   **Desafío:** No puedes simplemente sumar números; debes trabajar con expresiones como $y_p(t) = \frac{a}{k^2 - \omega^2} \cos(\omega t)$, lo que requiere mucha precisión en el manejo de las constantes.
+  **Desafío:** No puedes simplemente sumar números; debes trabajar con expresiones como $y_p(t) = \frac{a}{k^2 - \omega^2} \cos(\omega t)$, lo que requiere mucha precisión en el manejo de las constantes.
 
 ### **2. Interpretación del Modelo Físico y Fenómenos**
 Varios exámenes no terminan con la solución matemática, sino que preguntan qué representa esa ecuación en el mundo real.
