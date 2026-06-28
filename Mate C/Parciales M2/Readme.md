@@ -15,12 +15,12 @@ Al revisar los exámenes parciales y recuperatorios disponibles en las fuentes, 
 
 ### **1. Definición de Transformaciones mediante Combinaciones de Vectores**
 Lo más común es que te den las imágenes de la base canónica ($L(e_1), L(e_2)$, etc.). Sin embargo, algunos parciales te obligan a usar la **propiedad de linealidad** para "despejar" las imágenes antes de armar la matriz:
-*   <mark>**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.</mark>
+*   <mark><mark>**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.</mark></mark>
 *   **Evaluación 02/12/2025 (Punto 1.a):** Sigue una lógica similar pero más compleja, dando datos como **$T(4e_1) = 4e_1 + 4e_2$** y **$T(e_1 - e_2) = 2e_1$**. El desafío extra aquí es el manejo algebraico de los escalares antes de construir la matriz representativa.
 
 ### **2. Composición de Operaciones Geométricas**
 Estos ejercicios no te dan una fórmula, sino una descripción de lo que le sucede al plano. El desafío es construir la matriz total multiplicando las matrices de cada operación en el orden correcto ($A_{total} = A_2 \cdot A_1$):
-*   <mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.b):** Pide una transformación que primero proyecta sobre el **eje $y$** y luego rota **$\pi/2$**.</mark></mark>
+*   <mark><mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.b):** Pide una transformación que primero proyecta sobre el **eje $y$** y luego rota **$\pi/2$**.</mark></mark></mark>
 *   **Recuperatorio 12/07/2022 (Punto 1.a):** Es especialmente desafiante porque invierte el orden usual y combina una **rotación** con una **reflexión respecto al eje $y$**. La dificultad reside en no confundir las matrices de cada operador geométrico básico.
 
 ### **3. Expresiones Genéricas vs. Cálculos Numéricos**
