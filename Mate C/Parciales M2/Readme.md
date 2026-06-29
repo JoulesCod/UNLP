@@ -21,7 +21,7 @@ Lo más común es que te den las imágenes de la base canónica ($L(e_1), L(e_2)
 ### **2. Composición de Operaciones Geométricas**
 Estos ejercicios no te dan una fórmula, sino una descripción de lo que le sucede al plano. El desafío es construir la matriz total multiplicando las matrices de cada operación en el orden correcto ($A_{total} = A_2 \cdot A_1$):
 *   <mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.b):** Pide una transformación que primero proyecta sobre el **eje $y$** y luego rota **$\pi/2$**.</mark></mark>
-*   **Recuperatorio ✅12/07/2022 (Punto 1.a):** Es especialmente desafiante porque invierte el orden usual y combina una **rotación** con una **reflexión respecto al eje $y$**. La dificultad reside en no confundir las matrices de cada operador geométrico básico.
+*   <mark><mark>**Recuperatorio ✅12/07/2022 (Punto 1.a):** Es especialmente desafiante porque invierte el orden usual y combina una **rotación** con una **reflexión respecto al eje $y$**. La dificultad reside en no confundir las matrices de cada operador geométrico básico. </mark></mark>
 
 ### **3. Expresiones Genéricas vs. Cálculos Numéricos**
 La mayoría de los exámenes piden la proyección de un vector específico (ej. $v = (1, 2, 3)$). El siguiente caso eleva el nivel de abstracción:
