@@ -95,7 +95,7 @@ Hay ejercicios diseñados para premiar al alumno que observa la estructura antes
 
 ### **4. Análisis de Convergencia en Discontinuidades**
 Casi todos piden indicar a qué valor converge la serie en puntos específicos, pero algunos eligen puntos "frontera" o fuera del intervalo principal.
-*   **Ejemplo:** Parcial <mark><mark>**✅01/07/2025**</mark></mark> y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$ [5.a, 5.a].
+*   <mark><mark>**Ejemplo:** Parcial **✅01/07/2025** y **20/02/2020**. Piden la convergencia en $x = 3/2$ o $x = 3\pi/2$ cuando el intervalo original es $[-1,1]$ o $[-\pi, \pi]$.</mark></mark>
 *   **El desafío:** Requiere aplicar correctamente el **Teorema de Dirichlet** y entender la **extensión periódica**. Si el punto está en una discontinuidad de la extensión, la serie converge al punto medio de los límites laterales ($[f(x^+) + f(x^-)]/2$). Es un error común olvidar que la serie "repite" el comportamiento del intervalo base.
 
 ### **5. El Uso de Parámetros en lugar de Números**
