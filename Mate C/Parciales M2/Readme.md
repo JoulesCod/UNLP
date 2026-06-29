@@ -52,9 +52,8 @@ Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). S
 
 ### **2. Interpretación del Modelo Físico y Fenómenos**
 Varios exámenes no terminan con la solución matemática, sino que preguntan qué representa esa ecuación en el mundo real.
-*   **✅Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.
+*   <mark><mark>**✅Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.</mark></mark>
 *   **Actividad de Repaso Resuelta:** Indica que ecuaciones de segundo orden con términos de fricción ($y'$) representan **osciladores armónicos amortiguados** [2.a]. 
-*   **Desafío:** Debes ser capaz de identificar si el sistema es subamortiguado, sobreamortiguado o crítico basándote en las raíces de la ecuación característica.
 
 ### **3. Análisis Asintótico: Comportamiento para $t \gg 1$**
 Este es un requisito que aparece con frecuencia y que requiere entender la física de la solución (transitorios vs. estado estacionario).
@@ -70,7 +69,7 @@ La resonancia ocurre cuando la frecuencia de la fuente externa coincide con la f
 
 ### **5. Sistemas no Homogéneos con Términos Mixtos**
 Resolver un sistema de EDOs donde el término no homogéneo tiene varias funciones combinadas o letras:
-*   **✅Evaluación 02/12/2025 (Punto 4.a):** El sistema incluye un término $ae^t$.
+*   <mark><mark>**✅Evaluación 02/12/2025 (Punto 4.a):** El sistema incluye un término $ae^t$.</mark></mark>
 *   **Flotante 15/02/2024 (Punto 4.a.ii):** Incluye una fuente de la forma $B + Ce^{-t}$.
 *   **Desafío:** Esto te obliga a usar el **Principio de Superposición**, hallando una solución particular para cada parte del término no homogéneo y luego sumándolas.
 
