@@ -16,16 +16,16 @@ Al revisar los exámenes parciales y recuperatorios disponibles en las fuentes, 
 ### **1. Definición de Transformaciones mediante Combinaciones de Vectores**
 Lo más común es que te den las imágenes de la base canónica ($L(e_1), L(e_2)$, etc.). Sin embargo, algunos parciales te obligan a usar la **propiedad de linealidad** para "despejar" las imágenes antes de armar la matriz:
 *   <mark><mark>**✅Evaluación 01/07/2025 (Punto 1.a):** En lugar de darte $L(e_2)$, el enunciado da **$L(e_1 - e_2)=-2e_2$**. Esto requiere que sepas que $L(e_1) - L(e_2) = -2e_2$ para poder hallar la segunda columna de la matriz.</mark></mark>
-*   **Evaluación 02/12/2025 (Punto 1.a):** Sigue una lógica similar pero más compleja, dando datos como **$T(4e_1) = 4e_1 + 4e_2$** y **$T(e_1 - e_2) = 2e_1$**. El desafío extra aquí es el manejo algebraico de los escalares antes de construir la matriz representativa.
+*   <mark><mark>**✅Evaluación 02/12/2025 (Punto 1.a):** Sigue una lógica similar pero más compleja, dando datos como **$T(4e_1) = 4e_1 + 4e_2$** y **$T(e_1 - e_2) = 2e_1$**. El desafío extra aquí es el manejo algebraico de los escalares antes de construir la matriz representativa.</mark></mark>
 
 ### **2. Composición de Operaciones Geométricas**
 Estos ejercicios no te dan una fórmula, sino una descripción de lo que le sucede al plano. El desafío es construir la matriz total multiplicando las matrices de cada operación en el orden correcto ($A_{total} = A_2 \cdot A_1$):
 *   <mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.b):** Pide una transformación que primero proyecta sobre el **eje $y$** y luego rota **$\pi/2$**.</mark></mark>
-*   **Recuperatorio 12/07/2022 (Punto 1.a):** Es especialmente desafiante porque invierte el orden usual y combina una **rotación** con una **reflexión respecto al eje $y$**. La dificultad reside en no confundir las matrices de cada operador geométrico básico.
+*   **Recuperatorio ✅12/07/2022 (Punto 1.a):** Es especialmente desafiante porque invierte el orden usual y combina una **rotación** con una **reflexión respecto al eje $y$**. La dificultad reside en no confundir las matrices de cada operador geométrico básico.
 
 ### **3. Expresiones Genéricas vs. Cálculos Numéricos**
 La mayoría de los exámenes piden la proyección de un vector específico (ej. $v = (1, 2, 3)$). El siguiente caso eleva el nivel de abstracción:
-*   **Recuperatorio 12/07/2022 (Punto 1.b.ii):** En lugar de pedir un número, solicita hallar la **expresión general** para la proyección ortogonal $P_S(v)$ de un vector genérico **$v = (x, y, z)$** sobre el subespacio $S$. Esto requiere trabajar con variables en lugar de constantes, lo cual es un error común en el manejo de símbolos bajo presión de examen.
+*   <mark><mark>**Recuperatorio ✅12/07/2022 (Punto 1.b.ii):** En lugar de pedir un número, solicita hallar la **expresión general** para la proyección ortogonal $P_S(v)$ de un vector genérico **$v = (x, y, z)$** sobre el subespacio $S$. Esto requiere trabajar con variables en lugar de constantes, lo cual es un error común en el manejo de símbolos bajo presión de examen.</mark></mark>
 
 ### **4. Subespacios definidos por Ecuaciones y en $\mathbb{R}^4$**
 Casi siempre se trabaja con subespacios definidos por sus generadores (vectores). Estos casos cambian el punto de partida:
@@ -36,7 +36,7 @@ Casi siempre se trabaja con subespacios definidos por sus generadores (vectores)
 *   <mark><mark>**✅Recuperatorio 11/07/2023 (Punto 1.a.i):** Es uno de los pocos que pide explícitamente **justificar** si una función es una transformación lineal. No basta con operar; hay que demostrar analíticamente que se cumplen las propiedades de **aditividad** ($T(u+v) = T(u)+T(v)$) y **homogeneidad** ($T(cu) = cT(u)$) usando vectores genéricos.</mark></mark>
 
 ### **6. Definición del Complemento Ortogonal ($S^\perp$)**
-*   **✅Evaluación 02/12/2025 (Punto 1.b.iii):** Agrega un paso que no suele aparecer: **"Definir el subespacio $S^\perp$ ortogonal a $S$ y dar una base del mismo"**. Para resolverlo, hay que entender la conexión entre el subespacio y el espacio nulo de la matriz formada por sus vectores base.
+*   <mark><mark>**✅Evaluación 02/12/2025 (Punto 1.b.iii):** Agrega un paso que no suele aparecer: **"Definir el subespacio $S^\perp$ ortogonal a $S$ y dar una base del mismo"**. Para resolverlo, hay que entender la conexión entre el subespacio y el espacio nulo de la matriz formada por sus vectores base.</mark></mark>
 
 **Consejo para el examen:** Si te aparece un ejercicio de "composición" (Punto 2 de esta lista), recordá siempre que la matriz de la **primera** operación que se menciona es la que va a la **derecha** en el producto de matrices.
 <br>
@@ -47,7 +47,7 @@ Al revisar los exámenes parciales y recuperatorios del **Módulo II**, se obser
 ### **1. El uso de Parámetros Literales en lugar de Números**
 Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). Sin embargo, algunos parciales elevan la dificultad usando letras, lo que obliga a arrastrar variables y aumenta el riesgo de errores algebraicos al despejar la solución particular:
 *   <mark><mark>**Evaluación ✅01/07/2025 (Punto 4.b):** Pide resolver $y'' + 4y = a \cos(\omega t)$ con la condición $|\omega| \neq 2$.</mark></mark>
-*   **Recuperatorio 12/07/2022 (Punto 4.a):** Similarmente, plantea $y'' + 9y = a + b \cos(\omega t)$ con $|\omega| \neq 3$.
+*   **Recuperatorio ✅12/07/2022 (Punto 4.a):** Similarmente, plantea $y'' + 9y = a + b \cos(\omega t)$ con $|\omega| \neq 3$.
 *  **Desafío:** No puedes simplemente sumar números; debes trabajar con expresiones como $y_p(t) = \frac{a}{k^2 - \omega^2} \cos(\omega t)$, lo que requiere mucha precisión en el manejo de las constantes.
 
 ### **2. Interpretación del Modelo Físico y Fenómenos**
@@ -90,7 +90,7 @@ Algunos ejercicios no terminan al hallar la solución general, sino que exigen u
 
 ### **3. La Solución "Servida" (Observación vs. Cálculo)**
 Hay ejercicios diseñados para premiar al alumno que observa la estructura antes de empezar a integrar.
-*   **Ejemplo:** Recuperatorio **12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$.
+*   **Ejemplo:** Recuperatorio ✅**12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$.
 *   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero [3.b. La solución se escribe en un renglón.
 
 ### **4. Análisis de Convergencia en Discontinuidades**
