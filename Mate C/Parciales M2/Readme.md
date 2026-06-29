@@ -53,7 +53,7 @@ Lo más común es resolver una EDO con números (ej. $y'' + 4y = 3 \cos(2t)$). S
 ### **2. Interpretación del Modelo Físico y Fenómenos**
 Varios exámenes no terminan con la solución matemática, sino que preguntan qué representa esa ecuación en el mundo real.
 *   <mark><mark>**✅Evaluación 02/12/2025 (Punto 4.b):** Tras dar la ecuación, pregunta: **"¿Qué sistemas podría modelar esta ecuación?"**.</mark></mark>
-*   **Actividad de Repaso Resuelta:** Indica que ecuaciones de segundo orden con términos de fricción ($y'$) representan **osciladores armónicos amortiguados** [2.a]. 
+*   **Actividad de Repaso Resuelta:** Indica que ecuaciones de segundo orden con términos de fricción ($y'$) representan **osciladores armónicos amortiguados**. 
 
 ### **3. Análisis Asintótico: Comportamiento para $t \gg 1$**
 Este es un requisito que aparece con frecuencia y que requiere entender la física de la solución (transitorios vs. estado estacionario).
@@ -80,18 +80,18 @@ Al analizar los ejercicios del **Punto 5** en los exámenes del Módulo II (cent
 
 ### **1. La "Trampa" de la Condición Inicial Constante ($U(x,0) = k$)**
 Es muy común que el punto **5.b** pida resolver la ecuación de difusión. Lo "habitual" es que la condición inicial sea una función seno o coseno, lo que hace el cálculo casi inmediato. Sin embargo, en varios exámenes la condición es un número constante:
-*   <mark><mark>Ejemplos:** Parcial del **✅01/07/2025** ($U(x,0) = 1$) [5.b], **25/06/2024** ($U(x,0) = 2$) [5.b] y **✅11/07/2023** ($U(x,0) = -1/2$) [5.b].</mark></mark>
+*   <mark><mark>Ejemplos:** Parcial del **✅01/07/2025** ($U(x,0) = 1$), **25/06/2024** ($U(x,0) = 2$) y **✅11/07/2023** ($U(x,0) = -1/2$).</mark></mark>
 *   **El desafío:** Muchos alumnos se bloquean porque no ven una función trigonométrica. El reto es entender que para cumplir las condiciones de contorno nulas ($U=0$ en los bordes), debes realizar el **desarrollo de medio rango en senos** de la función constante. Esto genera una serie infinita, a diferencia de los casos donde la condición ya es un seno.
 
 ### **2. Interpretación Física: El Término Dominante ($t \gg 1$)**
 Algunos ejercicios no terminan al hallar la solución general, sino que exigen una conclusión física sobre el comportamiento del sistema a largo plazo.
-*   **Ejemplos:** Recuperatorio **20/02/2020** [5.b, 5.b] y **18/07/2019** [5.b].
+*   **Ejemplos:** Recuperatorio **20/02/2020** y **18/07/2019**.
 *   **El desafío:** Se pide indicar el **término dominante para tiempos largos**. Para resolverlo, hay que comprender que en la solución $U(x,t) = \sum B_n \sin(n\pi x/L) e^{-n^2 \dots t}$, a medida que $t$ crece, las exponenciales con $n > 1$ se hacen insignificantes mucho más rápido que la de $n=1$. Por lo tanto, para $t \gg 1,$ la temperatura de la barra se comporta simplemente como el **primer término de la serie** ($n=1$).
 
 ### **3. La Solución "Servida" (Observación vs. Cálculo)**
 Hay ejercicios diseñados para premiar al alumno que observa la estructura antes de empezar a integrar.
-*   **Ejemplo:** Recuperatorio ✅**12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$.
-*   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero [3.b. La solución se escribe en un renglón.
+*   <mark><mark>**Ejemplo:** Recuperatorio ✅**12/07/2022** (Punto 5.b). La condición inicial es $U(x,0) = 3\sin(x) - \sin(2x)$.</mark></mark>
+*   **El desafío:** Si intentas aplicar la fórmula integral de los coeficientes $B_n,$ perderás mucho tiempo. El desafío extra aquí es la **capacidad de síntesis**: reconocer que la condición inicial ya es una suma finita de senos, por lo que los coeficientes son directamente $B_1 = 3,$ $B_2 = -1$ y todos los demás cero. La solución se escribe en un renglón.
 
 ### **4. Análisis de Convergencia en Discontinuidades**
 Casi todos piden indicar a qué valor converge la serie en puntos específicos, pero algunos eligen puntos "frontera" o fuera del intervalo principal.
