@@ -54,22 +54,3 @@ Progress
                                                                     36   
 
 ```
-
-## 📅 June 2026
-
-```txt
-~~ Mes de Parciales ~~
----------------------
-Mo Tu We Th Fr Sa Su
-🌸 🌸🌸 🌸🌸 🌸🌸
-🌸 🌸🌸 🌸🟥 🌸🌸
-🌸 🟥🌸 🌸🟥 🌸🌸
-🌸 🌸🌸 🌸🌸 🌸🌸
-29 🟥
-
-✅ 12 - Arquitectura: winmips ✅ (aprobada)
-✅ 16 - Programación III: Algoritmos + Grafos 
-✅ 19 - Taller de Lenguajes 
-🟥 30 - Matemática  
-```
-
