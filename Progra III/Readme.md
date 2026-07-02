@@ -17,11 +17,23 @@ BUENO, ayer cursé este parcial. <br>
 - No se pusieron recontra creativos, el parcial fue similar a uno que había hecho creado por IA, la consigna es super clara. 
 - la teoría fue sencilla e incluso algunas cosas las pensé en el mismo parcial. 
 (todabía puedo cambiar mi opinión sobre esto cuando me den la nota) --> no cambié de opinión, solo tuve unos errores con conceptos teóricos, evitables si se presta atención
-
+```javascript
+const mensaje = "
+Presentados: 72 personas
+Aprobaron con 4-5: 6 personas
+Aprobaron con 6 o más: 23 personas
+Desaprobaron: 43 personas
+";
+```
 
 ### EXAMEN TIEMPO DE EJECUCIÓN: 
 - Bien, si le agarrás la mano a el cálculo va bien
+```javascript
+const mensaje = "Hola Mundo";
+```
 
 ### EXAMEN GRAFOS: 
 - Chanses de creatividad (a nosotros nos lo hicieron iterativo cuando TODOS los parciales anteriores son recursivos), lo otro de orden siempre similar, fijarce de que si dice "Ordenado alfabéticamente" hacerlo alfabeticamente... me pasó
 
+# ESTADÍSTICAS
+esperando a que pasen los flotantes...
