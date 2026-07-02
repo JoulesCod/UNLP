@@ -49,7 +49,7 @@ Desaprobados: 11 personas
 ;
 ```
 
-### Módulo 1
+### Módulo 2
 ```javascript
 const mensaje = 1er Fecha"
 Presentados: 72 personas"
