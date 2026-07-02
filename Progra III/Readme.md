@@ -5,9 +5,9 @@ las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 ### DATA
 Su equivalente en licenciaturas y APU es "Algoritmos y Estructuras de Datos" (AyED). <br>
 Para aprobar la materia se debe aprobar los siguientes temas: <br>
-1- Árboles y Heap
-2- Tiempo de Ejecución (/Análisis de Algoritmos)
-3- Grafos
+1- Árboles y Heap  <br>
+2- Tiempo de Ejecución (/Análisis de Algoritmos)  <br>
+3- Grafos  <br>
 
 Se puede usar visual (vs) para las prácticas, total el examen es en papel
 
