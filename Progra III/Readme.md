@@ -19,9 +19,9 @@ BUENO, ayer cursé este parcial. <br>
 (todabía puedo cambiar mi opinión sobre esto cuando me den la nota) --> no cambié de opinión, solo tuve unos errores con conceptos teóricos, evitables si se presta atención
 
 
-###EXAMEN TIEMPO DE EJECUCIÓN: 
+### EXAMEN TIEMPO DE EJECUCIÓN: 
 - Bien, si le agarrás la mano a el cálculo va bien
 
-###EXAMEN GRAFOS: 
+### EXAMEN GRAFOS: 
 - Chanses de creatividad (a nosotros nos lo hicieron iterativo cuando TODOS los parciales anteriores son recursivos), lo otro de orden siempre similar, fijarce de que si dice "Ordenado alfabéticamente" hacerlo alfabeticamente... me pasó
 
