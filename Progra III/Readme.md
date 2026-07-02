@@ -18,12 +18,11 @@ BUENO, ayer cursé este parcial. <br>
 - la teoría fue sencilla e incluso algunas cosas las pensé en el mismo parcial. 
 (todabía puedo cambiar mi opinión sobre esto cuando me den la nota) --> no cambié de opinión, solo tuve unos errores con conceptos teóricos, evitables si se presta atención
 ```javaScript
-const mensaje = 1er Fecha"
+const mensaje = "1er Fecha
 Presentados: 72 personas
 Aprobaron con 4-5: 6 personas
 Aprobaron con 6 o más: 23 personas
-Desaprobaron: 43 personas
-";
+Desaprobaron: 43 personas";
 ```
 
 ### EXAMEN TIEMPO DE EJECUCIÓN: 
