@@ -17,7 +17,7 @@ BUENO, ayer cursé este parcial. <br>
 - No se pusieron recontra creativos, el parcial fue similar a uno que había hecho creado por IA, la consigna es super clara. 
 - la teoría fue sencilla e incluso algunas cosas las pensé en el mismo parcial. 
 (todabía puedo cambiar mi opinión sobre esto cuando me den la nota) --> no cambié de opinión, solo tuve unos errores con conceptos teóricos, evitables si se presta atención
-```javascript
+```java
 const mensaje = "
 Presentados: 72 personas
 Aprobaron con 4-5: 6 personas
