@@ -29,12 +29,12 @@ Desaprobaron: 43 personas
 ### EXAMEN TIEMPO DE EJECUCIÓN: 
 - Bien, si le agarrás la mano a el cálculo va bien
 ```javascript
-const mensaje = 1er Fecha"
+const mensaje = 1er Fecha
 Presentados: 69 personas
 Aprobaron con 4-5: 9 personas 
 Aprobaron con 6 o más: 30 personas
 Desaprobaron: 30 personas
-";
+;
 ```
 
 ### EXAMEN GRAFOS: 
