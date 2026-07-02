@@ -23,7 +23,7 @@ Presentados: 72 personas
 Aprobaron con 4-5: 6 personas
 Aprobaron con 6 o más: 23 personas
 Desaprobaron: 43 personas
-";
+;
 ```
 
 ### EXAMEN TIEMPO DE EJECUCIÓN: 
@@ -40,11 +40,11 @@ Desaprobaron: 30 personas
 ### EXAMEN GRAFOS: 
 - Chanses de creatividad (a nosotros nos lo hicieron iterativo cuando TODOS los parciales anteriores son recursivos), lo otro de orden siempre similar, fijarce de que si dice "Ordenado alfabéticamente" hacerlo alfabeticamente... me pasó
 ```javascript
-const mensaje = 1er Fecha"
-Presentados: 69 personas 
-Aprobaron con 4-5: 4 personas
-Aprobaron con 6 o más: 15 personas
-Desaprobaron: 50 personas
+const mensaje = 1er Fecha
+"Presentados: 69 personas 
+"Aprobaron con 4-5: 4 personas
+"Aprobaron con 6 o más: 15 personas
+"Desaprobaron: 50 personas
 ";
 ```
 
