@@ -36,14 +36,14 @@ Mi opinion:
 ### Módulo 1
 ```javascript
 const mensaje = 1er Fecha"
-Presentados: 82 personas
+Presentados: 82 personas"
 Aprobados:  61 personas"
 Desaprobados: 21 personas
 ;
 ```
 ```javascript
 const mensaje = 2da Fecha (recu)"
-Presentados: 22 personas
+Presentados: 22 personas"
 Aprobados:  11 personas"
 Desaprobados: 11 personas
 ;
