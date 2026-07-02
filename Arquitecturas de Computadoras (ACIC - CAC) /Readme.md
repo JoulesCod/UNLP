@@ -50,7 +50,19 @@ Desaprobados: 11 personas
 ```
 
 ### Módulo 1
-- 1er fecha 
-- 2da fecha
+```javascript
+const mensaje = 1er Fecha"
+Presentados: 72 personas"
+Aprobados:  60 personas"
+Desaprobados: 12 personas
+;
+```
+```javascript
+const mensaje = 2da Fecha (recu)"
+Presentados: 13 personas"
+Aprobados:  10 personas"
+Desaprobados: 3 personas
+;
+```
 ### Flotante 
 - ...
