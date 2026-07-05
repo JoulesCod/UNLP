@@ -52,7 +52,7 @@ Progress
 🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟨⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
                                 |----------------------------------------.----------------------------------------|
                                                                          32   
-⚪ Optativas (cuadradito mas chico)
+⚪ Optativas 
 🔳 Actividad de Formación complementaria 
-◻️ Humanísticas 
+◻️ Humanísticas (cuadradito mas chico)
 ```
