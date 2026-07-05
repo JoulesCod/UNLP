@@ -16,6 +16,6 @@ Posibles Preguntas teóricas:
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
-  si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUAS???? <br>
+  si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
   
   
