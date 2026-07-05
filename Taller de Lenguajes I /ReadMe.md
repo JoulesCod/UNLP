@@ -3,7 +3,7 @@
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
-o: - Chicos si hicieron la práctica les va a ir bien en el parcial - <br>
+Cesar: - Chicos si hicieron la práctica les va a ir bien en el parcial - <br>
 
 NO CESAR, NO. TU PARCIL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, ví cómo se apiadaba de nosotros en el brillos de sus ojos... <br>
 ... volví despues de las notas... PUEDE, PUEEEEDE que haya exagerado, a la mayoría le fue bien (igual no lo crean a Cesar!!) <br>
