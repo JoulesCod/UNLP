@@ -34,6 +34,6 @@ Los mejores classrooms para estar: <br>
 - MC6 (Pastor Verónica - Mariela Natalia Nieto): suben ejercicios para hacer del libro (hay veces q los ejercicos del libro son banda, y que te marquen cuales sirven posta esta bueno) y ejercicios resueltos, tambien comunican mucho como van avanzando con los temas. 
 - MC3 (Victoria Vampa - Keiko Fushimi): Muchos ejercicios extra para practicar
 
-##videos recomendados por profes: 
+## videos recomendados por profes: 
 - https://www.youtube.com/@3blue1brown
 - https://sites.google.com/ing.unlp.edu.ar/matec
