@@ -1,3 +1,5 @@
+EXÁMENES EN PAPEL <br>
+
 ### OPINIÓN
 Es definitivamente la materia más difícil del cuatrimestre, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
