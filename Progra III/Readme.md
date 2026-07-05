@@ -2,7 +2,7 @@
 > EVALUACIONES EN PAPEL
 
 ### OPINIÓN
-Es definitivamente la <mark>materia más difícil del cuatrimestre</mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
+Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 
 ### DATA
