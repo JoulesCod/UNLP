@@ -23,10 +23,10 @@ La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a com
 voy a averiguar que onda la comisión MC8 que es la otra que abren para este horario (y para los pobres de computación que nos coinciden los horarios con todo) <br>
 
 ### PROFES
-- ANDREA (profe adjunta, la de las teorpias), se va por las ramas, no se le entiende la letra, es desordenada en el pizarrón, igual la quiero, NO ES EXIGENTE EN LA CORRECIÓN
-- LUCA (Ayudante graduado (?), jtp), le gusta verte sufrir, mejor explicando que la profe, es medio malo... CORRIGE EXIGENTE
-- CAMILO (Ayudante graduado (?)), es hippy, no es malo explicando, NO CORRIGE EXIGENTE
-- JUAN (Ayudante graduado), es el que no tiene cara de Juan, PERSONALMENTE el que mas me gusta como explica, para algunos se explaya demaciado, para mi te pone bien en contexto. CORRIGE UN POCO EXIGENTE
+- **ANDREA** (profe adjunta, la de las teorpias), se va por las ramas, no se le entiende la letra, es desordenada en el pizarrón, igual la quiero, NO ES EXIGENTE EN LA CORRECIÓN
+- **LUCA** (Ayudante graduado (?), jtp), le gusta verte sufrir, mejor explicando que la profe, es medio malo... CORRIGE EXIGENTE
+- **CAMILO** (Ayudante graduado (?)), es hippy, no es malo explicando, NO CORRIGE EXIGENTE
+- **JUAN** (Ayudante graduado), es el que no tiene cara de Juan, PERSONALMENTE el que mas me gusta como explica, para algunos se explaya demaciado, para mi te pone bien en contexto. CORRIGE UN POCO EXIGENTE
 
 ## PODES UNIRTE A LOS CLASSROOMS DE OTRAS COMISIONES (aunque no formes parte) PARA TENER MAS CONTENIDO!!!
 Los mejores classrooms para estar: <br>
