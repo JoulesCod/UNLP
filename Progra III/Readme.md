@@ -1,4 +1,5 @@
-EXÁMENES EN PAPEL <br>
+> [!WARNING]
+> EXÁMENES EN PAPEL
 
 ### OPINIÓN
 Es definitivamente la materia más difícil del cuatrimestre, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
