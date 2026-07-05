@@ -4,7 +4,7 @@ los parciales son muy repetitivos, mas o menos hay que hacer los mismos pasos si
 Si haces muchos parciales viejos la promocionas <br>
 
 si no terminaste de entender los temas, mágicamente los vas a entender todos en Mate B... es porque los volves a ver? no 🤷‍♀️ <br>
-Video Explicativo: https://www.youtube.com/watch?v=9QmyUHinscI&list=PLINGYetTGbzgstZmhq7yg5-IJlXOpWNlt
+### Videos Explicativos: https://www.youtube.com/watch?v=9QmyUHinscI&list=PLINGYetTGbzgstZmhq7yg5-IJlXOpWNlt
 
 ## PROFES
 Yo estuve en la comisión A12: <br>
