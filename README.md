@@ -49,8 +49,10 @@ won't upload all the activities I make, but you can find exams and resumes in th
 Progress
 
                    8          12        16         20       24            29          34            39          44  
-🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟨🟨⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
-                      |---------------------------------------------|---------------------------------------------|
-                                                                    36   
-
+🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟨⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
+                                |------------------------------------|--------------------------------------------|
+                                                                     32   
+⚪ Optativas (cuadradito mas chico)
+🔳 Actividad de Formación complementaria 
+◻️ Humanísticas 
 ```
