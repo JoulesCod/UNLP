@@ -71,3 +71,20 @@ Desaprobados: 3 personas
 - ...
 
 ### Promoción
+```javascript
+const mensaje = ETC (corto promoción)"
+Presentados: 54 personas"
+Aprobados (A-C):  31 personas"
+Personas con A:1, B:9, C:21
+Desaprobados (D): 23 personas
+;
+```
+```javascript
+const mensaje = ETP (largo promoción)"
+Presentados: 29 personas"
+Aprobados (A-C): 24 personas"
+  Personas con Nota 6: 15 alumnos
+Desaprobados (D): 5 personas
+;
+```
+Entonces, de las 31 personas que aprobaron el ETC, se presentaron 29 al ETP => no es tan común desaprobar el módulo 2 y por lo tanto no poder promocionar <br>
