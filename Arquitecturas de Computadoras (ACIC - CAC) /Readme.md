@@ -75,7 +75,7 @@ Desaprobados: 3 personas
 const mensaje = ETC (corto promoción)"
 Presentados: 54 personas"
 Aprobados (A-C):  31 personas"
-Personas con A:1, B:9, C:21
+  Personas con A:1, B:9, C:21
 Desaprobados (D): 23 personas
 ;
 ```
