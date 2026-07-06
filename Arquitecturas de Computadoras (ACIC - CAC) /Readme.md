@@ -69,3 +69,5 @@ Desaprobados: 3 personas
 ```
 ### Flotante 
 - ...
+
+### Promoción
