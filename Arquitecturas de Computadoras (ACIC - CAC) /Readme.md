@@ -13,7 +13,7 @@ taambien los de inge suelen ser 8 puntos y los de lic 4 o 5 (los viejos de lic t
 
 ### CURSADA
 - se aprueba teniendo los dos parciales prácticos (MSX88 (VonSim) y Winmips) aprobados en alguna de las fechas (con 12/20 ptos)
-- fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (de una de las dos)
+- fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (CREO q se pueden dar los dos módulos)
 - 60% DE ASISTENCIA A LAS CLASES PRÁCTICAS 
 
 ### Promoción --> 
