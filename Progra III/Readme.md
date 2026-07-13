@@ -23,12 +23,13 @@ Se puede usar visual (vs) para las prácticas, total el examen es en papel
     - Señor de no tan buen humor: no fuí a ninguna de sus clases
 - AYUDANTES PRÁCTICAS:
     - Mati: ES EL MEJOR, LA TIENE CLARÍSIMA, es bueno, es el que después revisa todos los parciales para que tengan notas parejas
-    - Cata: tambien muy buena onda y con muchos conocimientos
-    - Jose: ... mmm
+    - Catalina Brochero: tambien muy buena onda y con muchos conocimientos
+    - Jose Arcidiacono: ... mmm
     - Otro señor: una vez nos habló mal
 CONCLUSIÓN:
 - QUIERO QUE ME CORRIJA: Mati <3
-- IRÍA A LAS TEORÍAS DE: Laura 
+- IRÍA A LAS TEORÍAS DE: Laura
+- Los ayudantes puede que te den digan si aprobaste antes de que suban las notas, si vas a la clase práctica
 
 # EXÁMENES
 ### EXAMEN DE ARBOLES:
