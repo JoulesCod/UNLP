@@ -4,16 +4,7 @@ Recomiendan una porque los ayudantes son de esa ingeniería <br>
 y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carrera, en mi comisión no <br>
 
 # COMISIÓN MC4 
-- recomendada?: NO... <br>
-Desordenada, tardan en dar parciales, la profe de teoría explica todo mezclado, <br>
-Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
-La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mquinaste vos mismo esta ok <br>
-
-### Profesores: todos me caen re bien... pero te hacen sufrir
-- La profesora (ANDREA) da clases en informática así q suele llegar tarde
-- A mi las teorías se me hacen un poco tediosas
-- Al comienzo van un millon de personas (no se por q) y cuesta hacer consultas 
-- En el SIU a los de computación nos dan re poco cupo para este horario de las 12, muy seguro tengan que despues pedir el cambio a la comisión
+Los profes caen muy bien, pero te hacen sufrír
 
 ### PARCIALITOS, ESTRELLITAS Y ASISTENCIA COMISIÓN MC4: 
 - El 1er parcialito lo pudieron dar todos los de la comición
