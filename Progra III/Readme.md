@@ -17,7 +17,7 @@ Se puede usar visual (vs) para las prácticas, total el examen es en papel
 ## PROFES 
 - No conosco mucho a los que dan las teorías porque habré ido a máximo 3... (materia promocionada), pero las tres chicas (señoras) son muy buenas, aunque a veces se hace medio larga y se va por las ramas la explicación (de la rubia mas grande)
 - PROFES TEORÍAS
-    - Vanesa: estricta pero justa, creo que ella hace los parciales 
+    - Vanessa (Aybar Rosales): estricta pero justa, creo que ella hace los parciales 
     - Laura: bella señora, 
     - La otra señora rubia: todo ok, una vez dijo: "Boludeces no eh"
     - Señor de no tan buen humor: no fuí a ninguna de sus clases
