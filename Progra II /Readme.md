@@ -16,6 +16,6 @@ https://www.youtube.com/@unlpprogramacion2672
 - Ayudante: Yani
 - Ayudante: Martu
 - Ayudante: Oli
-. Ayudante: Juli
+- Ayudante: Juli
 <br>
 Si estas solo en tu grupo (generalmente no se permite pero puede pasar) no tenes que hacer la parte teórica, ya que su único propósito es ver que los dos integrantes entienden lo que se hizo en el código <br>
