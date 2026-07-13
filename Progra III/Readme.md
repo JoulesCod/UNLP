@@ -19,7 +19,7 @@ Se puede usar visual (vs) para las prácticas, total el examen es en papel
 - PROFES TEORÍAS
     - Vanessa (Aybar Rosales): estricta pero justa, creo que ella hace los parciales 
     - Laura: bella señora, 
-    - La otra señora rubia: todo ok, una vez dijo: "Boludeces no eh"
+    - María Alejandra Schiavoni (la que es rubia mas grande): todo ok, una vez dijo: "Boludeces no eh"
     - Señor de no tan buen humor: no fuí a ninguna de sus clases
 - AYUDANTES PRÁCTICAS:
     - Mati: ES EL MEJOR, LA TIENE CLARÍSIMA, es bueno, es el que después revisa todos los parciales para que tengan notas parejas
