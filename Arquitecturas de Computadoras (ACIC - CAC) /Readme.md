@@ -36,6 +36,15 @@ Mi opinion:
 - el exámenes del módulo 1 estuvo bien, el del módulo 2 me pareció largo para el tiempo que tuvimos (1:30hs)
 - las prácticas son buenas, la 6 (la de dibujar) ni hizo falta, no apareció en el examen
 
+## PROFES 
+PROFE TEORÍAS: 
+- Horacio Villagarcía: a mi personalmente me cae bien, sabe muchísimo, pero tembien por eso es muy estricto (corrije las promociones y los finales)
+AYUDANTES PRÁCTICAS
+- El [no tan] lindo --> Joaquin:
+- El rubio:
+- El jtp que usa lentes y se ve inteligente:
+- El de buso: 
+
 # ESTADÍSTICAS 
 ### Módulo 1
 ```javascript
