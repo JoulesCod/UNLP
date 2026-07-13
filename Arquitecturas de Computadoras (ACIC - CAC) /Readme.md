@@ -39,11 +39,11 @@ Mi opinion:
 ## PROFES 
 PROFE TEORÍAS: 
 - Horacio Villagarcía: a mi personalmente me cae bien, sabe muchísimo, pero tembien por eso es muy estricto (corrije las promociones y los finales)
-AYUDANTES PRÁCTICAS
-- El [no tan] lindo --> Joaquin:
-- El rubio:
-- El jtp que usa lentes y se ve inteligente:
-- El de buso: 
+AYUDANTES PRÁCTICAS:
+- El [no tan] lindo (si es pero estoy en pareja) --> Joaquín Miranda: Sabe, es cool, 
+- El rubio --> Joaquin Stella: -
+- El jtp que usa lentes y se ve inteligente --> Diego Encinas: CRACK
+- El de buso --> Lucas Maccallini:  -
 
 # ESTADÍSTICAS 
 ### Módulo 1
