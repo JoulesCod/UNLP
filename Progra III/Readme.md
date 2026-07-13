@@ -17,15 +17,15 @@ Se puede usar visual (vs) para las prácticas, total el examen es en papel
 ## PROFES 
 - No conosco mucho a los que dan las teorías porque habré ido a máximo 3... (materia promocionada), pero las tres chicas (señoras) son muy buenas, aunque a veces se hace medio larga y se va por las ramas la explicación (de la rubia mas grande)
 - PROFES TEORÍAS
-    - Vanessa Aybar Rosales: estricta pero justa, creo que ella hace los parciales 
-    - Laura Fava: bella señora, es una dama, corre realeza en sus venas 
-    - María Alejandra Schiavoni (la que es rubia mas grande): todo ok, una vez dijo: "Boludeces no eh"
-    - Señor de no tan buen humor (Pablo José Iuliano): no fuí a ninguna de sus clases
+    - **Vanessa** Aybar Rosales: estricta pero justa, creo que ella hace los parciales 
+    - **Laura** Fava: bella señora, es una dama, corre realeza en sus venas 
+    - María **Alejandra** Schiavoni (la que es rubia mas grande): todo ok, una vez dijo: "Boludeces no eh"
+    - Señor de no tan buen humor (**Pablo** José Iuliano): no fuí a ninguna de sus clases
 - AYUDANTES PRÁCTICAS:
-    - Matias Fluxa: ES EL MEJOR, LA TIENE CLARÍSIMA, es bueno, es el que después revisa todos los parciales para que tengan notas parejas
-    - Catalina Brochero: tambien muy buena onda y con muchos conocimientos
-    - Jose Arcidiacono: ... mmm
-    - Otro señor (Markos Alonso Ocampo): una vez nos habló mal
+    - **Matias** Fluxa: ES EL MEJOR, LA TIENE CLARÍSIMA, es bueno, es el que después revisa todos los parciales para que tengan notas parejas
+    - **Catalina** Brochero: tambien muy buena onda y con muchos conocimientos
+    - **Jose** Arcidiacono: ... mmm
+    - Otro señor (**Markos** Alonso Ocampo): una vez nos habló mal
 CONCLUSIÓN:
 - QUIERO QUE ME CORRIJA: Mati <3
 - IRÍA A LAS TEORÍAS DE: Laura
