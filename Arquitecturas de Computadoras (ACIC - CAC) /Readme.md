@@ -38,7 +38,8 @@ Mi opinion:
 
 ## PROFES 
 PROFE TEORÍAS: 
-- Horacio Villagarcía: a mi personalmente me cae bien, sabe muchísimo, pero tembien por eso es muy estricto (corrije las promociones y los finales) <br>
+- Horacio Villagarcía: a mi personalmente me cae bien, sabe muchísimo, pero tembien por eso es muy estricto (corrije las promociones y los finales)
+
 AYUDANTES PRÁCTICAS:
 - El [no tan] lindo (si es pero estoy en pareja) --> Joaquín Miranda: Sabe, es cool, tiene tatuajes, flow y vibes facheras 
 - El rubio --> Joaquin Stella: habla bajito
