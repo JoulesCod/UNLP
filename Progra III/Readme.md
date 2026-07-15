@@ -31,7 +31,7 @@ CONCLUSIÓN:
 - IRÍA A LAS TEORÍAS DE: Laura
 - Los ayudantes puede que te den digan si aprobaste antes de que suban las notas, si vas a la clase práctica
 
-# EXÁMENES
+# EXÁMENES (masacre)
 ### EXAMEN DE ARBOLES:
 BUENO, ayer cursé este parcial. <br>
 - No se pusieron recontra creativos, el parcial fue similar a uno que había hecho creado por IA, la consigna es super clara. 
