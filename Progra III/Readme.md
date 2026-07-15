@@ -64,7 +64,7 @@ const mensaje = 1er Fecha"
 Presentados: 69 personas
 Aprobaron con 4-5: 4 personas"
 Aprobaron con 6 o más: 15 personas"
-Desaprobaron: 50 personas
+Desaprobaron: 45 personas
 ;
 ```
 
