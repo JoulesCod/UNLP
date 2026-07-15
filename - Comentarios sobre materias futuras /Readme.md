@@ -16,12 +16,7 @@
 - HORARIOS: Lunes y Jueves(??? miercoles??) / Jueves(??) y viernes --> de 8-11 o 12-14
 
 ### Concepros de sist operativos (CSO) --> EN SU CARPETA
-
-### Taller de Lenguages 2 -->
-- cátedra de P3 (se adhieren?),
-- TODO PROYECTO, no hay parciales.
-- Vanesa jtp,
-- Laura teoría
+### Taller de Lenguages 2 --> EN SU CARPETA
 
 # 3er AÑO
 ## 1er Cuatri
