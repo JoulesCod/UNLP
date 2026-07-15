@@ -21,7 +21,7 @@ voy a averiguar que onda la comisión MC8 que es la otra que abren para este hor
 
 ## PODES UNIRTE A LOS CLASSROOMS DE OTRAS COMISIONES (aunque no formes parte) PARA TENER MAS CONTENIDO!!!
 Los mejores classrooms para estar: <br>
-- MC7 (Raul Rossignoli): Sube ejercicios resuelto del libro, ejercicios estra y VIDEOS EXPLICATIVOS (WHATTTTTT)
+- MC7 (Raul Rossignoli): Sube ejercicios resueltos del libro, ejercicios estra y VIDEOS EXPLICATIVOS (WHATTTTTT)
 - MC6 (Pastor Verónica - Mariela Natalia Nieto): suben ejercicios para hacer del libro (hay veces q los ejercicos del libro son banda, y que te marquen cuales sirven posta esta bueno) y ejercicios resueltos, tambien comunican mucho como van avanzando con los temas. 
 - MC3 (Victoria Vampa - Keiko Fushimi): Muchos ejercicios extra para practicar
 
