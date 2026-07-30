@@ -12,6 +12,9 @@ El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el p
 # COMISIÓN MC4 
 Los profes caen muy bien, pero te hacen sufrír
 
+## VALOR PUNTOS (MC4)
+<img width="1138" height="144" alt="image" src="https://github.com/user-attachments/assets/50a338ba-f00e-4f37-ad0d-b8da1027a64f" />
+
 ### PARCIALITOS, ESTRELLITAS Y ASISTENCIA COMISIÓN MC4: 
 - El 1er parcialito lo pudieron dar todos los de la comición
 - El 2do parcialito lo dieron las personas que asistieron a las 3 clases anteriores 
