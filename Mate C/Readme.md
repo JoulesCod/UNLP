@@ -4,7 +4,7 @@ Recomiendan una porque los ayudantes son de esa ingeniería <br>
 y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carrera, en mi comisión no <br>
 
 ## MI OPINIÓN
-Los parciales son largísimos, hay gente que los mete de una, pero yo no podría ni si la recursaea 50 veces. <br> 
+Los parciales son largísimos, hay gente que los mete de una, pero yo no podría ni si la recursara 50 veces. <br> 
 Entonces, metanle a los parcialitos, y en los parciales asegúrense puntos en vez de hacer un poco de cada uno, total como todos los ejercicios tienen que estar aprobados. No vale la pena hacer un poco de cada uno y por falta de tiempo no aprobar ninguno. <br>
 El módulo 1 se lleva dentro de todo bien, el módulo 2 llegas mas justo con los temas (yo el día antes del parcial aprendiendo cosas). <br>
 El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el parcial es bastante mas largo.
