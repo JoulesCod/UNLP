@@ -1,4 +1,4 @@
-> [WARNING]
+> [!WARNING]
 > parciales en papel
 
 # OPINION 
@@ -25,7 +25,7 @@ recomiendo mucho entender BIEN la consigna, que suele ser el verdadero desafío 
 si aprobas en 1er fecha --> tp de promoción, no seas bolas, metele ganas que es la nota que te queda <br>
 aprobar 2d fecha --> examen de promoción, sirve todo el contenido de CADP y lo del final de esta materia pero no te toman hacer ningún código. <br>
 aprobar 3er fecha --> vas a final  <br>
-> [WARNING]
+> [!ATENCION]
 > La promo cambiaron un poco desde que la rendí, ahora hay parcialitos teóricos que hay que aprobar durante la cursada 
 
 ### PARCIAL PROMOCIÓN
