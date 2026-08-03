@@ -27,6 +27,6 @@ EL parcial del módulo 2 estuvo ok, hay muchos mas parciales para practicar <br>
 - se pueden cambiar los colores de code::blocks  <br>
 justo la versión que yo descargué no deja poner la interfás en modo oscuro, pero hay algunas versiones que si  <br>
 
-<img width="480" height="480" alt="gif" src="[https://github.com/user-attachments/assets/73d72031-d69f-40c4-8069-cfb13c5a597b](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif)" />
+<img width="480" height="480" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" />
 
 
