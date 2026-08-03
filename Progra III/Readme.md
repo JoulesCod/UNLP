@@ -2,7 +2,8 @@
 > EVALUACIONES EN PAPEL
 
 ### OPINIÓN
-<img width="180" height="180" alt="FireDragonGIF" src="https://github.com/user-attachments/assets/71ecd6d2-bbfe-48cc-9ca6-f45140b95c66" />  Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <
+<img align="left" src="https://github.com/user-attachments/assets/71ecd6d2-bbfe-48cc-9ca6-f45140b95c66" width="180">
+Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <
 <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 
