@@ -1,8 +1,9 @@
-> [!WARNING]
+<img width="245" height="150" alt="gameofthronesfireGIF" src="https://github.com/user-attachments/assets/4bada86a-db01-42eb-ac38-55b4a560cd01" />> [!WARNING]
 > EVALUACIONES EN PAPEL
 
 ### OPINIÓN
-Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
+<img width="480" height="480" alt="FireDragonGIF" src="https://github.com/user-attachments/assets/71ecd6d2-bbfe-48cc-9ca6-f45140b95c66" />  Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <
+<br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 
 ### DATA
