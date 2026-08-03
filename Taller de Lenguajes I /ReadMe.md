@@ -23,6 +23,7 @@ NO OLVIDARSE DE AGREGAR '\O' si es necesario  <br>
 ### MÓDULO 2
 EL parcial del módulo 2 estuvo ok, hay muchos mas parciales para practicar <br>
 
+
 <img width="180" height="180" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" /> materia cute del semestre
 <br>
 <br>
