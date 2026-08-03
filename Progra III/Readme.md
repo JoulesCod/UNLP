@@ -7,7 +7,16 @@ Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark><
 <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 
-
+<table>
+<tr>
+<td width="240">
+<img src="https://github.com/user-attachments/assets/71ecd6d2-bbfe-48cc-9ca6-f45140b95c66" width="180">
+</td>
+<td valign="top">
+Es definitivamente la materia más difícil del cuatrimestre...
+</td>
+</tr>
+</table>
 
 
 ### DATA
