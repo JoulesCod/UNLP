@@ -1,6 +1,22 @@
+> [WARNING]
+> parciales en papel
+
+# OPINION 
+<table>
+<tr>
+<td width="200">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlqZmlyZW83dHFnYmxtOWpobXRkYWtqbWptenM1bm52N3kzcWZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hdDLLnPYrZAEU/giphy.gif" width="180">
+</td>
+<td valign="top">
+<br>
+NO ES DIFICIL, si te armás bien las estructuras el único desafío es entender bien la consigna <br>
+</td>
+</tr>
+</table>
+
 # PARCIALES
 (parciales en papel)
-PARA PARCIALES DE LA CURSADA, PARCIAL DE PROMOCIÓN Y FINAL SE PUEDEN USAR PARCIALES DE CADP (Lisenciatura en sistemas) por falta de parciales de nuestra carrera, pensar que nuestro parcial va a ser mas dificil. 
+PARA PARCIALES DE LA CURSADA, PARCIAL DE PROMOCIÓN Y FINAL SE PUEDEN USAR PARCIALES DE CADP (Lisenciatura en sistemas) por falta de parciales de nuestra carrera, pensar que nuestro parcial va a ser mas dificil. <br>
 Cuando estés en progra 2, el parcial de progra 1 te va a parecer un bo lu dez. 
 Son super estrictos en la corrección, el código tiene que casi estar listo para correr y no hacer cosas innecesarias
 recomiendo mucho entender BIEN la consigna, que suele ser el verdadero desafío ya que después los módulos que se usan son siempre la misma base.
