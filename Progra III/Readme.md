@@ -1,4 +1,4 @@
-<img width="245" height="150" alt="gameofthronesfireGIF" src="https://github.com/user-attachments/assets/4bada86a-db01-42eb-ac38-55b4a560cd01" />> [!WARNING]
+>> [!WARNING]
 > EVALUACIONES EN PAPEL
 
 ### OPINIÓN
