@@ -4,7 +4,7 @@
 ### OPINIÓN
 <table>
 <tr>
-<td width="240">
+<td width="200">
 <img src="https://github.com/user-attachments/assets/71ecd6d2-bbfe-48cc-9ca6-f45140b95c66" width="180">
 </td>
 <td valign="top">
