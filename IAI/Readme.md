@@ -10,4 +10,4 @@ Y si te va bien te sacás de encima ir todos los viernes, y te podes centrar dir
 videos explicativos: 
 (este es de Informática asi que solo vean los que tienen que ver con R-info) https://www.youtube.com/watch?v=1sYOXbQalwE&list=PLLuqkgNymP2O31A8dexjSWuKbp6mZvDl_
 
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBxNjN6YmRvc2ZtYTFmcWcxMG0yZXV2cWc3NnNmNWJndjE0a3k2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkQsbKSmrB5Kwu12mE/giphy.gif
