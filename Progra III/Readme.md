@@ -9,7 +9,7 @@
 </td>
 <td valign="top">
 <br>
-Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar).
+Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
 </td>
 </tr>
