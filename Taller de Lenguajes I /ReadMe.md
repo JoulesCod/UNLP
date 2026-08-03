@@ -1,10 +1,5 @@
-<img width="180" height="180" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" /> materia cute del semestre
-<br>
-<br>
-
 > [!WARNING]
 > EVALUACIONES EN PAPEL
-
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
@@ -27,6 +22,11 @@ NO OLVIDARSE DE AGREGAR '\O' si es necesario  <br>
 
 ### MÓDULO 2
 EL parcial del módulo 2 estuvo ok, hay muchos mas parciales para practicar <br>
+
+<img width="180" height="180" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" /> materia cute del semestre
+<br>
+<br>
+
 
 ## DATA:
 - se pueden cambiar los colores de code::blocks  <br>
