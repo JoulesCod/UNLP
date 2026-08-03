@@ -1,9 +1,10 @@
-> [!WARNING]
-> EVALUACIONES EN PAPEL
-
 <img width="180" height="180" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" /> materia cute del semestre
 <br>
 <br>
+
+> [!WARNING]
+> EVALUACIONES EN PAPEL
+
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
