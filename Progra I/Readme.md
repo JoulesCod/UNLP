@@ -4,8 +4,8 @@
 # OPINION 
 <table>
 <tr>
-<td width="200">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlqZmlyZW83dHFnYmxtOWpobXRkYWtqbWptenM1bm52N3kzcWZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hdDLLnPYrZAEU/giphy.gif" width="180">
+<td width="150">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlqZmlyZW83dHFnYmxtOWpobXRkYWtqbWptenM1bm52N3kzcWZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hdDLLnPYrZAEU/giphy.gif" width="100">
 </td>
 <td valign="top">
 <br>
