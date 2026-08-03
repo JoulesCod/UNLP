@@ -34,7 +34,7 @@ https://www.youtube.com/@arquitecturadecomputadoras505
 
 Mi opinion: 
 - el exámenes del módulo 1 estuvo bien, el del módulo 2 me pareció largo para el tiempo que tuvimos (1:30hs)
-- las prácticas son buenas, la 6 (la de dibujar) ni hizo falta, no apareció en el examen
+- las prácticas son buenas, la 6 (la de dibujar) ni hizo falta, no apareció en el examen <br>
 <img width="180" height="180" alt="gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxxMDF6Ynd4M2I1YzhtYjF2NWY1ZGJkdnFkeXZjYjFpM2s5bWd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xwiN0J5ecb39EaosSl/giphy.gif" /> ... yo no la pasé bien (emocionalmente), pero para muchos fue chill, así que fingimos demencia
 
 
