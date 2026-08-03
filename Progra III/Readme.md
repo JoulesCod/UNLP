@@ -11,6 +11,8 @@
 <br>
 Es definitivamente la <mark><mark>materia más difícil del cuatrimestre</mark></mark>, pero también la menos importante, solo tienen correlativas en las optativas (revisar). <br>
 las prácticas estan muy buenas, hacer muchos parciales ayuda <br>
+    <br>
+(este gif representa mi experiencia, puede que como le di mas atención que a otras, sabiendo que era la mas dificil, no la pasé tan mal como otros)
 </td>
 </tr>
 </table>
