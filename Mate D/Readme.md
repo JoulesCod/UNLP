@@ -1,5 +1,4 @@
 # Comentarios de personas que ya hicieron la materia:
-### Mate D -->
 - ir con Cintia (profe buena, explica claro y con colores)
 - los temas son bastante mecánicos 
 - en la pag de cátedras hay parciales resueltos
