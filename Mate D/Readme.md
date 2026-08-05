@@ -9,7 +9,7 @@
 ÚNICOS GRUPOS POSIBLES POR HORARIO: <br>
 <img width="899" height="248" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
 
-## COMENTARIOS DE PROFES GRUPO 4:
+### COMENTARIOS DE PROFES GRUPO 4:
 PA: Cintia Perrone <br>
 .... 🐉 Excelente predisposición
 .... 🐉 profe buena, explica claro y con colores
@@ -17,7 +17,7 @@ JTP: Sergio Rodríguez Ruíz <br>
 AD: Francisco Plaza <br>
 AA: Avril Denegri <br>
 
-## COMENTARIOS DE PROFES GRUPO 3:
+### COMENTARIOS DE PROFES GRUPO 3:
 PT: Gastón Argeri <br>
 JTP: Luis Gómez <br>
 AD: Dolores Corva <br>
