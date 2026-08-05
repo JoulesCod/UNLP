@@ -1,3 +1,6 @@
+ACABO DE PROMOCIONAR LA METRIA... WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO <img width="576" height="582" alt="DanceDragonGIF" src="https://github.com/user-attachments/assets/e4992e24-266a-4c30-b45b-760415f9e65c" />
+
+
 NO ASUSTARSE AL VER LOS HORARIOS PARA INSCRIBIRSE <br>
 En la tabla aparece para cada comisión una ingeniería RECOMENDADA, lo que no significa que no puedas anotarte si no son de esa inge <br>
 Recomiendan una porque los ayudantes son de esa ingeniería <br>
