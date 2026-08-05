@@ -49,10 +49,13 @@ won't upload all the activities I make, but you can find exams and resumes in th
 Progress
 
                    8          12        16         20       24            29          34            39          44  
-🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟨⬜⬜⬜⬜ ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
+🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟩🟨🟨🟨🟨 ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
                                 |----------------------------------------.----------------------------------------|
                                                                          32   
+🟩 materias aprobadas
+🟨 materias cursando
 ⚪ Optativas 
 🔳 Actividad de Formación complementaria 
 ◻️ Humanísticas (cuadradito mas chico)
+⬜ materias por cursar
 ```
