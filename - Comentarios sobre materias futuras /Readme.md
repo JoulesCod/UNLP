@@ -2,12 +2,6 @@
 # 2do AÑO
 ## 2do Cuatri
 
-### Mate D -->
-- ir con Cintia (profe buena, explica claro y con colores)
-- los temas son bastante mecánicos 
-- en la pag de cátedras hay parciales resueltos
-- HORARIOS: martes y jueves 11-14 
-
 ### Física 2 -->
 - **Gulich** NO,
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
