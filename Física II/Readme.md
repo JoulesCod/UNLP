@@ -1,0 +1,5 @@
+- **Gulich** NO,
+- **Joaquin Mendoza** toma lo que da y los lab suben nota
+- **Forte** hace parciales como los viejos.
+- LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
+- HORARIOS: Lunes y Jueves(??? miercoles??) / Jueves(??) y viernes --> de 8-11 o 12-14
