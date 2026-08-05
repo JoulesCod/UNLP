@@ -1,3 +1,4 @@
+# Comentario de alumnos que ya la cursaron
 - **Gulich** NO,
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
 - **Forte** hace parciales como los viejos.
