@@ -11,8 +11,8 @@
 
 ### COMENTARIOS DE PROFES GRUPO 4:
 PA: Cintia Perrone <br>
-.... 🐉 Excelente predisposición
-.... 🐉 profe buena, explica claro y con colores
+.... 🐉 Excelente predisposición <br>
+.... 🐉 profe buena, explica claro y con colores <br>
 JTP: Sergio Rodríguez Ruíz <br>
 AD: Francisco Plaza <br>
 AA: Avril Denegri <br>
@@ -24,9 +24,9 @@ AD: Dolores Corva <br>
 AA: Juan Ruggiero <br>
 Comentarios generales comisión <br>
 .... 🚩 De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase <br>
-.... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema.
+.... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema. <br>
 
-CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE LOS PROFESORES!!!
+CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE LOS PROFESORES!!! <br>
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055
