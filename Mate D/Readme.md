@@ -21,10 +21,13 @@ JTP: Luis Gómez <br>
 AD: Dolores Corva <br>
 AA: Juan Ruggiero <br>
 Comentarios generales comisión <br>
-.... 🚩De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase <br>
-....🐲🐉
+.... 🚩 De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase <br>
+.... 🐉 
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055
 
 <br>
+
+# FECHAS ❀ 2do cuatri 2026 ❀
+<img width="550" height="211" alt="image" src="https://github.com/user-attachments/assets/eb563cca-9c93-42e6-83e4-58bb53475d1f" />
