@@ -21,7 +21,8 @@ JTP: Luis Gómez <br>
 AD: Dolores Corva <br>
 AA: Juan Ruggiero <br>
 Comentarios generales comisión
-  - De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase 
+  ❀ De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase 
+  ❀
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055
