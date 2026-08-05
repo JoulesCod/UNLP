@@ -48,10 +48,11 @@ won't upload all the activities I make, but you can find exams and resumes in th
 ```txt id="k3kmb9"
 Progress
 
-                   8          12        16         20       24            29          34            39          44  
+ int      1er año             12        16         20        24         28+1        33+1        37+1+1    41+1+1+1
 🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟩🟨🟨🟨🟨 ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
                                 |----------------------------------------.----------------------------------------|
                                                                          32   
+Total = 37 materias + 2 optativas(mínimo) + 4 Complementarias + 1 humanística 
 🟩 materias aprobadas
 🟨 materias cursando
 ⚪ Optativas 
