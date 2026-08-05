@@ -1,3 +1,10 @@
+# Comentarios de personas que ya hicieron la materia:
+### Mate D -->
+- ir con Cintia (profe buena, explica claro y con colores)
+- los temas son bastante mecánicos 
+- en la pag de cátedras hay parciales resueltos
+- HORARIOS: martes y jueves 11-14 
+
 # Stalkeando profes (para ver en que grupo me inscribo)
 ÚNICOS GRUPOS POSIBLES POR HORARIO: <br>
 <img width="1006" height="143" alt="image" src="https://github.com/user-attachments/assets/e17812cb-3a75-419b-b0ce-beb880895a2f" /> <br>
