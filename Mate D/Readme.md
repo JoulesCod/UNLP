@@ -12,6 +12,12 @@ AD: Francisco Plaza
 AA: Avril Denegri 
 - 
 
+## COMENTARIOS DE PROFES GRUPO 4:
+PT: Gastón Argeri; 
+JTP: Luis Gómez; 
+AD: Dolores Corva; 
+AA: Juan Ruggiero.
+
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055
 
