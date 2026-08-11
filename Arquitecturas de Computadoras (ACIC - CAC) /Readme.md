@@ -12,7 +12,7 @@ En inge tenemos esta materia en el 1er cuatri del segundo año, so its the other
 
 2. SI LOS PARCIALES DICEN "ARQUITECTURA DE COMPUTADORAS" ES DE LICENCIATURA, SI DICE "CONCEPTOS DE ARQUITECTURA DE COMPUTADORAS" ES DE INGE (muchos no tengo) <br>
 a partir de 2024 los de inge tambien se llaman Arqui de compus, pero esos los voy a poner medio aparte <br>
-taambien los de inge suelen ser 8 puntos y los de lic 4 o 5 (los viejos de lic tienen mas puntos) <br>
+   mbien los de inge suelen ser 8 puntos y los de lic 4 o 5 (los viejos de lic tienen mas puntos) <br>
 
 
 ### CURSADA
