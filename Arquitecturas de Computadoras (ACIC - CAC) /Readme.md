@@ -5,6 +5,8 @@
 > [!IMPORTANT]
 > Email Horacio: hvw@lidi.info.unlp.edu.ar <br>
 > pag oficial lic: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/
+> cartelera inge: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=335&
+> (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar anets la info en la página de lic)
 
 Distinguir si es de Inge o Lic:
 1. Licenciatura tiene Arquitectura de Computadoras (AC) en el segundo cuatri del 1er año, los parciales que tienen fecha durante el 1er cuatri son de recursantes <br>
