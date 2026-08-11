@@ -6,9 +6,9 @@ hay que prestar mucha atención a errores boludos  <br>
 Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate C es lo primero q se ve,. <br>
 
 > [!IMPORTANT]
-> jefa de cátedra: Dra. Viviana Angélica Costa
-> Email: vacosta@ing.unlp.edu.ar
-> pag mate B (cátedras): https://www1.ing.unlp.edu.ar/catedras/F0302/
+> jefa de cátedra: Dra. Viviana Angélica Costa <br>
+> Email: vacosta@ing.unlp.edu.ar <br>
+> pag mate B (cátedras): https://www1.ing.unlp.edu.ar/catedras/F0302/ <br>
 
 # PROFES 
 - profe: RIVERA, Ana Lucia --> Ana... está loca, y es exigente, pero es buena y explica muy bien <br>
