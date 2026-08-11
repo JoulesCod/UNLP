@@ -6,6 +6,11 @@ En la tabla aparece para cada comisión una ingeniería RECOMENDADA, lo que no s
 Recomiendan una porque los ayudantes son de esa ingeniería <br>
 y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carrera, en mi comisión no <br>
 
+> [!IMPORTANT]
+> jefe de cátedra: Dr. Raúl Rossignoli <br>
+> Email: raul.rossignoli@ing.unlp.edu.ar <br>
+> cátedras: https://www1.ing.unlp.edu.ar/catedras/F0304/ <br>
+
 ## MI OPINIÓN
 Los parciales son largísimos, hay gente que los mete de una, pero yo no podría ni si la recursara 50 veces. <br> 
 Entonces, metanle a los parcialitos, y en los parciales asegúrense puntos en vez de hacer un poco de cada uno, total como todos los ejercicios tienen que estar aprobados. No vale la pena hacer un poco de cada uno y por falta de tiempo no aprobar ninguno. <br>
