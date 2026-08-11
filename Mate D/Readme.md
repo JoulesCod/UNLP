@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> jefe de cátedra: Prof. Gastón Argeri <br>
+> E-mail: matematicad@ing.unlp.edu.ar <br>
+> pag: https://www1.ing.unlp.edu.ar/catedras/F1306/ <br>
+
 # Comentarios de personas que ya hicieron la materia:
 - ir con Cintia (profe buena, explica claro y con colores)
 - los temas son bastante mecánicos 
