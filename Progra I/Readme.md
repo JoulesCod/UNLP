@@ -31,7 +31,7 @@ si aprobas en 1er fecha --> tp de promoción, no seas bolas, metele ganas que es
 aprobar 2d fecha --> examen de promoción, sirve todo el contenido de CADP y lo del final de esta materia pero no te toman hacer ningún código. <br>
 aprobar 3er fecha --> vas a final  <br>
 > [!IMPORTANT]
-> La promo cambió un poco desde que la rendí, ahora hay parcialitos teóricos que hay que aprobar durante la cursada si queres promocionar 
+> La promo cambió un poco desde que la rendí, ahora hay parcialitos teóricos que hay que aprobar durante la cursada, si queres promocionar 
 
 ### PARCIAL PROMOCIÓN
 El examen de promoción no es recontra dificil, yo empezaría con el V o F, después el tiempo y memoria (practicar bien (mi resumen lo metí en la parte del final)). <br> 
