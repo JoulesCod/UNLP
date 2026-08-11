@@ -2,6 +2,9 @@
 > EVALUACIONES EN PAPEL <br>
 > 60% de asistencia a las prácticas <br>
 
+> [!INFORMATION]
+> Email Horacio: hvw@lidi.info.unlp.edu.ar
+
 Distinguir si es de Inge o Lic:
 1. Licenciatura tiene Arquitectura de Computadoras (AC) en el segundo cuatri del 1er año, los parciales que tienen fecha durante el 1er cuatri son de recursantes <br>
 En inge tenemos esta materia en el 1er cuatri del segundo año, so its the other way arround. <br>
