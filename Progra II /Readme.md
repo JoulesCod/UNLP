@@ -1,6 +1,10 @@
 > [!IMPORTANT]
 > EVAUACIONES EN COMPUTADORA
 
+> [!IMPORTANT]
+> Jefe de Cátedra: Dr. Alejandro Héctor González <br>
+> E-mail: programacion2unlp@gmail.com <br>
+
 ### VIDEOS CÁTEDRA:
 https://www.youtube.com/@unlpprogramacion2672 
 
