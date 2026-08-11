@@ -8,7 +8,7 @@ y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carre
 
 > [!IMPORTANT]
 > jefe de cátedra: Dr. Raúl Rossignoli <br>
-> Email: raul.rossignoli@ing.unlp.edu.ar <br>
+> E-mail: raul.rossignoli@ing.unlp.edu.ar <br>
 > cátedras: https://www1.ing.unlp.edu.ar/catedras/F0304/ <br>
 
 ## MI OPINIÓN
