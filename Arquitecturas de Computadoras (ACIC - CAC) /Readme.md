@@ -4,6 +4,7 @@
 
 > [!IMPORTANT]
 > Email Horacio: hvw@lidi.info.unlp.edu.ar <br>
+> pag oficial: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/
 
 Distinguir si es de Inge o Lic:
 1. Licenciatura tiene Arquitectura de Computadoras (AC) en el segundo cuatri del 1er año, los parciales que tienen fecha durante el 1er cuatri son de recursantes <br>
