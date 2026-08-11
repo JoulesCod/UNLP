@@ -2,9 +2,9 @@
 > parciales en papel
 
 > [!IMPORTANT]
-> Jefa de Cátedra: Dra. Cecilia Verónica Sanz
-> E-mail: csanz@lidi.info.unlp.edu.ar
-> Profe Teorías: Virginia Ainchil (no se hace cargo de los parciales de la cursada, si de los finales)
+> Jefa de Cátedra: Dra. Cecilia Verónica Sanz <br>
+> E-mail: csanz@lidi.info.unlp.edu.ar <br>
+> Profe Teorías: Virginia Ainchil (no se hace cargo de los parciales de la cursada, si de los finales) <br>
 
 # OPINION 
 <table>
