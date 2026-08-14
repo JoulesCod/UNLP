@@ -1,3 +1,6 @@
+>[!INFORMATION]
+> E-mail consultas: iso@info.unlp.edu.ar
+<br>
 # Comentarios de personas que ya la cursaron 
 ### Concepros de sist operativos (CSO) --> APRENDER BASH EN LAS VACAS DE INVIERNO
 - La cursamos con licenciatura (=> en la teoría somos banda de gente) --> en  LIC es ISO
@@ -8,3 +11,4 @@
 - a la mañana explican mal --> se puede faltar
 - toman final (antes no), o sea, promocionabas o la recursabas
 - parciales teóricos múltiples choise
+
