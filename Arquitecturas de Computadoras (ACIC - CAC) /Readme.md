@@ -20,7 +20,7 @@
 ### CURSADA
 - se aprueba teniendo los dos parciales prácticos (MSX88 (VonSim) y Winmips) aprobados en alguna de las fechas (con 12/20 ptos)
 - fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (se pueden dar los dos módulos)
-- 60% DE ASISTENCIA A LAS CLASES PRÁCTICAS 
+- 60% DE ASISTENCIA A LAS CLASES PRÁCTICAS (la lista es un papelito que circula por el aula)
 
 ### Promoción --> 
 - Aprobar 1er parcial en la 1era fecha (nota min: 12/20) 
