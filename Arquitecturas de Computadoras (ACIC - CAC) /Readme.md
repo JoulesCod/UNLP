@@ -9,13 +9,13 @@
 
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar anets la info en la página de lic) <br>
 
-Distinguir si es de Inge o Lic:
-1. Licenciatura tiene Arquitectura de Computadoras (AC) en el segundo cuatri del 1er año, los parciales que tienen fecha durante el 1er cuatri son de recursantes <br>
-En inge tenemos esta materia en el 1er cuatri del segundo año, so its the other way arround. <br>
+> Distinguir si es de Inge o Lic:
+> 1. Licenciatura tiene Arquitectura de Computadoras (AC) en el segundo cuatri del 1er año, los parciales que tienen fecha durante el 1er cuatri son de recursantes <br>
+> En inge tenemos esta materia en el 1er cuatri del segundo año, so its the other way arround. <br>
 
-2. SI LOS PARCIALES DICEN "ARQUITECTURA DE COMPUTADORAS" ES DE LICENCIATURA, SI DICE "CONCEPTOS DE ARQUITECTURA DE COMPUTADORAS" ES DE INGE (muchos no tengo) <br>
-a partir de 2024 los de inge tambien se llaman Arqui de compus, pero esos los voy a poner medio aparte <br>
-   tambien los de inge suelen ser 8 puntos y los de lic 4 o 5 (los viejos de lic tienen mas puntos) <br>
+> 2. SI LOS PARCIALES DICEN "ARQUITECTURA DE COMPUTADORAS" ES DE LICENCIATURA, SI DICE "CONCEPTOS DE ARQUITECTURA DE COMPUTADORAS" ES DE INGE (muchos no tengo) <br>
+> a partir de 2024 los de inge tambien se llaman Arqui de compus, pero esos los voy a poner medio aparte <br>
+>   tambien los de inge suelen ser 8 puntos y los de lic 4 o 5 (los viejos de lic tienen mas puntos) <br>
 
 
 ### CURSADA
