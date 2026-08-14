@@ -3,7 +3,7 @@
 > 60% de asistencia a las prácticas <br>
 
 > [!IMPORTANT]
-> Email Horacio: hvw@lidi.info.unlp.edu.ar <br>
+> E-mail Horacio: hvw@lidi.info.unlp.edu.ar <br>
 > pag oficial lic: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/ <br>
 > cartelera inge: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=335& <br>
 
@@ -19,7 +19,7 @@
 
 ### CURSADA
 - se aprueba teniendo los dos parciales prácticos (MSX88 (VonSim) y Winmips) aprobados en alguna de las fechas (con 12/20 ptos)
-- fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (CREO q se pueden dar los dos módulos)
+- fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (se pueden dar los dos módulos)
 - 60% DE ASISTENCIA A LAS CLASES PRÁCTICAS 
 
 ### Promoción --> 
