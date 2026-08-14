@@ -114,9 +114,9 @@ Desaprobados (D): 5 personas
 ;
 ```
 Entonces, de las 31 personas que aprobaron el ETC, se presentaron 29 al ETP => no es tan común desaprobar el módulo 2 y por lo tanto no poder promocionar <br>
-Cantidad de recursantes: 32
-- Por no aprobar el Módulo 1: 3 alumnos + 26 //quienes desaprobaron o no se presentaron al M1 y ya no continuaron con la materia
+Cantidad de recursantes: 35
+- Por no aprobar el Módulo 1: 7 alumnos (aprobaron solo M2) + 11 (q desaprobaron y dejaron la materia) + 14 (ni se presentaron al M1 y dejaron la materia) = 32
 - Por no aprobar el Módulo 2: 2 alumnos
 - Por no aprobar ninguno de los dos: 1
-- 
-- Dejaron la materia: 26 
+==> Dejaron la materia: 25
+> estas estadísticas las sacó la IA, pueda haber errores 
