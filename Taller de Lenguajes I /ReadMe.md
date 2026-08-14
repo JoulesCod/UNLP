@@ -1,5 +1,8 @@
 > [!WARNING]
-> EVALUACIONES EN PAPEL
+> EVALUACIONES EN PAPEL <br>
+
+>[!IMPORTANT]
+> E-mail: tallerleng1@gmail.com
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
