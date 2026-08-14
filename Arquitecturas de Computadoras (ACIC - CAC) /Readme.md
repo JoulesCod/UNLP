@@ -118,4 +118,5 @@ Cantidad de recursantes: 32
 - Por no aprobar el Módulo 1: 3 alumnos + 26 > quienes desaprobaron o no se presentaron al M1 y ya no continuaron con la materia
 - Por no aprobar el Módulo 2: 2 alumnos
 - Por no aprobar ninguno de los dos: 1
+- 
 - Dejaron la materia: 26 
