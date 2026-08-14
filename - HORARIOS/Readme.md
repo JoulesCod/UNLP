@@ -1,5 +1,8 @@
 En la mayoría de los casos las materias de ingeniería siempre tienen tres horarios posibles en el mismo día, en las imágenes figuran las que cursé yo
 Las de informática son horarios únicos y solo somos de IC 
 
-Página de la UNLP donde pueden encontrar los horarios de las materias de informática (son las reservas de las aulas):
+## Página de la UNLP donde pueden encontrar los horarios de las materias de informática: 
+reservas de las aulas:
 https://gestiondeaulas.info.unlp.edu.ar/reservas/consulta/xaniocarrera#consulta_por_anio_carrera_form_type[carrera]=3&consulta_por_anio_carrera_form_type[anio]=20&consulta_por_anio_carrera_form_type[periodo][from]=09%2F03%2F2026&consulta_por_anio_carrera_form_type[periodo][to]=08%2F08%2F2026&
+pag oficiál:
+https://gestiondocente.info.unlp.edu.ar/cursadas/
