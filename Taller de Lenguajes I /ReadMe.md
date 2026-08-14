@@ -1,6 +1,6 @@
 > [!WARNING]
 > EVALUACIONES EN PAPEL <br>
-> Si rendiste el final de progra 2 DESPUÉS de haberte inscripto en la materia (en febrero), para cargarte la promoción vas a tener que inscribirte a un final (ideal en el de agosto) y así te pueden subir la nota. Cosas del SIU que no permiten hacerlo de otra manera.
+> ⭐⭐⭐ Si rendiste el final de progra 2 DESPUÉS de haberte inscripto en la materia (en febrero), para cargarte la promoción vas a tener que inscribirte a un final (ideal en el de agosto) y así te pueden subir la nota. Cosas del SIU que no permiten hacerlo de otra manera.
 
 >[!IMPORTANT]
 > E-mail: tallerleng1@gmail.com
