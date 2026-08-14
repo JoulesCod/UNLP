@@ -1,4 +1,4 @@
->[!INFORMATION]
+>[!IMPORTANT]
 > E-mail consultas: iso@info.unlp.edu.ar
 <br>
 # Comentarios de personas que ya la cursaron 
