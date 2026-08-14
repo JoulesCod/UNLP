@@ -1,5 +1,5 @@
-## Información de contacto: https://ic.info.unlp.edu.ar/informacion-de-contacto/
-
+### Información de contacto (IC): https://ic.info.unlp.edu.ar/informacion-de-contacto/
+<br>
 > (Comentarios que me dieron personas que ya cursaron estas materias)
 # 3er AÑO
 ## 1er Cuatri
