@@ -89,8 +89,13 @@ Desaprobados: 3 personas
 ;
 ```
 ### Flotante 
-- ...
-
+```javascript
+const mensaje = flotante"
+Presentados: 8 personas"
+Aprobados:  5 personas"
+Desaprobados: 3 personas
+;
+```
 ### Promoción
 ```javascript
 const mensaje = ETC (corto promoción)"
@@ -109,3 +114,8 @@ Desaprobados (D): 5 personas
 ;
 ```
 Entonces, de las 31 personas que aprobaron el ETC, se presentaron 29 al ETP => no es tan común desaprobar el módulo 2 y por lo tanto no poder promocionar <br>
+Cantidad de recursantes: 32
+- Por no aprobar el Módulo 1: 3 alumnos + 26 > quienes desaprobaron o no se presentaron al M1 y ya no continuaron con la materia
+- Por no aprobar el Módulo 2: 2 alumnos
+- Por no aprobar ninguno de los dos: 1
+- Dejaron la materia: 26 
