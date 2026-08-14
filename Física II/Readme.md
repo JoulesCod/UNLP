@@ -12,3 +12,6 @@ primeros semestres <br>
 segundos semestres <br>
 <img width="1801" height="281" alt="Distribucio docente 2025-2 (2)" src="https://github.com/user-attachments/assets/78e603e8-ea85-42ff-b61e-0912ec5668a8" />
 <img width="1656" height="291" alt="image" src="https://github.com/user-attachments/assets/a67a5ee7-b60e-4a1d-8177-d50175618095" />
+
+## RECOPILACIÓN OPINIONES PROFES
+https://docs.google.com/spreadsheets/d/1GRAHihuNWW_NxqBvIXe5romZB5JDK2Aroh-hxbELIso/edit?gid=0#gid=0
