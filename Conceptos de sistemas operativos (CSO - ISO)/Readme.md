@@ -1,5 +1,7 @@
 >[!IMPORTANT]
-> E-mail consultas: iso@info.unlp.edu.ar
+> E-mail consultas: iso@info.unlp.edu.ar <br>
+> 2 turnos (mañana y tarde) donde se ven los mismos contenidos teóricos y prácticos. Pueden elegir el que se ajuste a sus horarios. <br>
+> Plataforma Linti: https://catedras.linti.unlp.edu.ar/ <br>
 
 # Comentarios de personas que ya la cursaron 
 ### Concepros de sist operativos (CSO) --> APRENDER BASH EN LAS VACAS DE INVIERNO
