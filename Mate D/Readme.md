@@ -18,10 +18,10 @@ PA: Cintia Perrone <br>
 .... 🐉 profe buena, explica claro y con colores <br>
 .... 🐉 Muy buena onda <br>
 .... 🚩 Toma lista (pero no por asistencia obligatoria) <br>
-JTP: Sergio Rodríguez Ruíz    |   AD: Francisco Plaza   |   AA: Avril Denegri <br>
+JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
 
 ### COMENTARIOS DE PROFES GRUPO 3:
-PT: Gastón Argeri  |  JTP: Luis Gómez  |  AD: Dolores Corva  |  AA: Juan Ruggiero <br>
+PT: Gastón Argeri ---- JTP: Luis Gómez ---- AD: Dolores Corva ---- AA: Juan Ruggiero <br>
 Comentarios generales comisión <br>
 .... 🚩 De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase <br>
 .... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema. <br>
