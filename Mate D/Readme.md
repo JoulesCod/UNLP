@@ -4,10 +4,8 @@
 > pag: https://www1.ing.unlp.edu.ar/catedras/F1306/ <br>
 
 # Comentarios de personas que ya hicieron la materia:
-- ir con Cintia (profe buena, explica claro y con colores)
 - los temas son bastante mecánicos 
 - en la pag de cátedras hay parciales resueltos
-- HORARIOS: martes y jueves 11-14
 - Muchos temas poco tiempo
 
 # Stalkeando profes (para ver en que grupo me inscribo)
