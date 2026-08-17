@@ -37,7 +37,7 @@ CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE 
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055
-
+classroom G4: v7sdi7fq
 <br>
 
 # FECHAS ❀ 2do cuatri 2026 ❀
