@@ -11,7 +11,7 @@
 - Muchos temas poco tiempo
 
 # Stalkeando profes (para ver en que grupo me inscribo)
-ÚNICOS GRUPOS POSIBLES POR HORARIO: <br>
+ÚNICOS GRUPOS POSIBLES POR HORARIO (para mí): <br>
 <img width="899" height="248" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
 
 ### COMENTARIOS DE PROFES GRUPO 4:
