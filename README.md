@@ -30,7 +30,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 <p align="center">
 
-| Año     | Estado         | Avance                                    | = | (1er semestre) | (2do semestre) |
+| Año     | Estado         | Avance                                    | = | >(1er semestre) | >(2do semestre) |
 | ------- | -------------- | ----------------------------------------- | -- |-------------- | --------------- |
 | 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) | = | ![](https://progress-bar.xyz/100/?title=) | ![](https://progress-bar.xyz/100/?title=) |
 | 2do Año |  📍Cursando | ![](https://progress-bar.xyz/45/?title=)  | = | ![](https://progress-bar.xyz/95/?title=) | ![](https://progress-bar.xyz/0/?title=) |
