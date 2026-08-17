@@ -17,7 +17,7 @@ PA: Cintia Perrone <br>
 .... 🐉 Excelente predisposición <br>
 .... 🐉 profe buena, explica claro y con colores <br>
 .... 🐉 Muy buena onda <br>
-.... 🚩 Toma lista (pero no por asistencia obligatoria)
+.... 🚩 Toma lista (pero no por asistencia obligatoria) <br>
 JTP: Sergio Rodríguez Ruíz    |   AD: Francisco Plaza   |   AA: Avril Denegri <br>
 
 ### COMENTARIOS DE PROFES GRUPO 3:
