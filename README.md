@@ -39,11 +39,12 @@ won't upload all the activities I make, but you can find exams and resumes in th
 | 5to Año | -      | ![](https://progress-bar.xyz/0/?title=)  |
 
 </p>
-(divido año en 4 --> primer cuatri (50%), segundo cuatri (50%), y mas o menos dós módulos por cuatri (25% por módulo), ej: aprobé todos los modulos 1 del primer cuatri => 25%)
+Año completo (con finales incluidos) = 100%
+1 semestre (con finales incluidos) = 50%
+1er módulo de todas las materias = 25% --> si desapruebo algún modulo de alguna materia = -5%
+si me queda algún final --> -5%
 </p>
-(si me falta un final no voy a poner el año al 100%, probablemente le saque 5% por final o flotante)
-<br>
-<br>
+
 
 ```txt id="k3kmb9"
 Progress
