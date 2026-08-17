@@ -50,10 +50,10 @@ si me queda algún final --> -5% <br>
 Progress
 
  int      1er año             12        16         20        24         28+1        33+1        37+1+1    41+1+1+1
-🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟩🟨🟨🟨🟨 ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  
+🟩🟩 🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟩🟨🟨🟨🟨 ⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🔳⬜⬜⬜⬜🔳 ⬜⬜⬜⚪🔳⬜⬜⚪◻️🔳  --> 12/44
                                 |----------------------------------------.----------------------------------------|
                                                                          32   
-Total = 37 materias + 2 optativas(mínimo) + 4 Complementarias + 1 humanística 
+Total = 37 materias + 2 optativas(mínimo) + 4 Complementarias + 1 humanística = 44
 🟩 materias aprobadas
 🟨 materias cursando
 ⚪ Optativas 
