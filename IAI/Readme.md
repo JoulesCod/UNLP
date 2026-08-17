@@ -8,7 +8,8 @@ Creo q se aprueba con 6
 Y si te va bien te sacás de encima ir todos los viernes, y te podes centrar directo en Mate Pi (que tambien recomiendo dar en Agosto (yo no lo pude dar ahí por tema de tiempos pero me dijeron que es re chill))
 
 videos explicativos: 
-(este es de Informática asi que solo vean los que tienen que ver con R-info) https://www.youtube.com/watch?v=1sYOXbQalwE&list=PLLuqkgNymP2O31A8dexjSWuKbp6mZvDl_
+(este es de Informática asi que solo vean los que tienen que ver con R-info) <br>
+https://www.youtube.com/watch?v=1sYOXbQalwE&list=PLLuqkgNymP2O31A8dexjSWuKbp6mZvDl_
 
 <img width="320" height="200" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBxNjN6YmRvc2ZtYTFmcWcxMG0yZXV2cWc3NnNmNWJndjE0a3k2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkQsbKSmrB5Kwu12mE/giphy.gif" />
 
