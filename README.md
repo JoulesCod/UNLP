@@ -30,13 +30,13 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 <p align="center">
 
-| Año     | Estado         | Avance                                    | (1er semestre) | (2do semestre) |
-| ------- | -------------- | ----------------------------------------- | -------------- | --------------- |
-| 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) | ![](https://progress-bar.xyz/100/?title=) | ![](https://progress-bar.xyz/100/?title=) |
-| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/45/?title=)  | ![](https://progress-bar.xyz/95/?title=) | ![](https://progress-bar.xyz/0/?title=) |
-| 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
-| 4to Año | -    | ![](https://progress-bar.xyz/0/?title=)   |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
-| 5to Año | -      | ![](https://progress-bar.xyz/0/?title=)  |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
+| Año     | Estado         | Avance                                    | _ | (1er semestre) | (2do semestre) |
+| ------- | -------------- | ----------------------------------------- | -- |-------------- | --------------- |
+| 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) | _ | ![](https://progress-bar.xyz/100/?title=) | ![](https://progress-bar.xyz/100/?title=) |
+| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/45/?title=)  | _ | ![](https://progress-bar.xyz/95/?title=) | ![](https://progress-bar.xyz/0/?title=) |
+| 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  | _ |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
+| 4to Año | -    | ![](https://progress-bar.xyz/0/?title=)   | _ |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
+| 5to Año | -    | ![](https://progress-bar.xyz/0/?title=)  | _ |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
 
 </p>
 Año completo (con finales incluidos) = 100% <br>
