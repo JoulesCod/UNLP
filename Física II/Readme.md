@@ -1,7 +1,7 @@
-# Comisión G22 - Palacios Luis Emilio
 > [!IMPORTANT]
 > pag cátedras: http://www.ing.unlp.edu.ar/catedras/F0305/
 
+# Comisión G22 - Palacios Luis Emilio
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
 - JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar
 - Ayudantes:
