@@ -27,7 +27,7 @@ Materias Correlativas: Matemática B, Física I <br>
 
 # Videos Explicativos 
 Mosquera-Taylor: <br>
-- ttps://drive.google.com/open?id=1SYrEygzWzpONaIlUuqTtaZZYN7 h d_-YVD
+- https://drive.google.com/open?id=1SYrEygzWzpONaIlUuqTtaZZYN7 h d_-YVD
 - https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
 
 
