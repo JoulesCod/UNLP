@@ -27,8 +27,8 @@ Materias Correlativas: Matemática B, Física I <br>
 
 # Videos Explicativos 
 Mosquera-Taylor: <br>
-- https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
-- https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
+- Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
+- Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
 
 
 ---
