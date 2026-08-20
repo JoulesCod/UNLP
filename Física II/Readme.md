@@ -2,9 +2,10 @@
 > pag cátedras: http://www.ing.unlp.edu.ar/catedras/F0305/
 
 ### Clasrooms 
-- G22:
-- G28:
-- G26: 
+- G22: uury2pd6
+- G23: aeptvlrg
+- G28 (2025): vkiw6dh
+- G26 (2026) : 66xk2vrp / n5b32rrf
 
 # Comisión G22 - Palacios Luis Emilio
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
