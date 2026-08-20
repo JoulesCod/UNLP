@@ -5,9 +5,9 @@
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
 - JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar
 - Ayudantes:
--     Ing. Eduardo Amoreo
--     Lic. Leonela Novarino
--     Lic. Iara Pintos
+  -  Ing. Eduardo Amoreo
+  -  Lic. Leonela Novarino
+  -  Lic. Iara Pintos
 
 Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB 7 + 8
 
