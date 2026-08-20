@@ -1,9 +1,22 @@
+# Comisión G22 - Palacios Luis Emilio
+> [!IMPORTANT]
+> pag cátedras: http://www.ing.unlp.edu.ar/catedras/F0305/
+
+- Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
+- JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar
+- Ayudantes:
+-     Ing. Eduardo Amoreo
+-     Lic. Leonela Novarino
+-     Lic. Iara Pintos
+
+Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB 7 + 8
+
+(todo lo de acá abajo lo subí antes de empezar la cursada)
 # Comentario de alumnos que ya la cursaron
 - **Gulich** NO,
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
 - **Forte** hace parciales como los viejos.
 - LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
-- HORARIOS: Lunes y Jueves(??? miercoles??) / Jueves(??) y viernes --> de 8-11 o 12-14
 
 ## Horarios de diferentes años para comparar
 primeros semestres <br>
