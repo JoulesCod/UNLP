@@ -25,6 +25,12 @@ Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
+# Videos Explicativos 
+Mosquera-Taylor: <br>
+- ttps://drive.google.com/open?id=1SYrEygzWzpONaIlUuqTtaZZYN7 h d_-YVD
+- https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
+
+
 ---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
 # Comentario de alumnos que ya la cursaron
