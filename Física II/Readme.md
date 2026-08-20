@@ -11,7 +11,7 @@
 Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 
 ## Condiciones de Cursada y Aprobación:
--2 exámenes parciales (1 recuperación c/u + 1 Exámen “Flotante”)
+- 2 exámenes parciales (1 recuperación c/u + 1 Exámen “Flotante”)
   - calificación: 0-100 pts. (significa en el redondeo final de 0 a 10)
 - promoción: 60-100 pts.
 - aprobado (TP, rinde examen Final): 40-59 pts.
