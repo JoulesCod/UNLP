@@ -10,6 +10,7 @@
   -  Lic. Iara Pintos
 Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 
+---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
 # Comentario de alumnos que ya la cursaron
 - **Gulich** NO,
