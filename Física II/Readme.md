@@ -52,20 +52,13 @@ Materias Correlativas: Matemática B, Física I <br>
 - LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
 
 <details>
-  <summary><b>Práctica</b></summary>
+  <summary><b> ## Horarios de diferentes años para comparar </b></summary>
   <ul>
     <li>
       <details>
         <summary>Explicaciones</summary>
-        <p>Contenido desplegable aquí...</p>
-      </details>
-    </li>
-    <li><a href="https://link-a-tu-archivo">Resumen materia</a></li>
-  </ul>
-</details>
-
-## Horarios de diferentes años para comparar
-primeros semestres <br>
+        <p>
+          primeros semestres <br>
 <img width="1855" height="223" alt="Grupos-horarios y cupos (1)" src="https://github.com/user-attachments/assets/4219f8c2-7c2b-4622-8e31-96b43df001cb" />
 <img width="1884" height="340" alt="dist docente 2026-1" src="https://github.com/user-attachments/assets/4b59a6c5-c3a7-4211-a713-5e091e7efc2c" />
 segundos semestres <br>
@@ -73,6 +66,13 @@ segundos semestres <br>
 <img width="1656" height="291" alt="image" src="https://github.com/user-attachments/assets/a67a5ee7-b60e-4a1d-8177-d50175618095" />
 (el horario lo subieron la noche anterior a las inscripciones (y los grupos son iguales que el año pasado), son un amor <3)
 <img width="1656" height="291" alt="image" src="https://github.com/user-attachments/assets/d8a46d21-2abd-4094-ad77-81eae066cf37" />
+        </p>
+      </details>
+    </li>
+  </ul>
+</details>
+
+
 
 
 
