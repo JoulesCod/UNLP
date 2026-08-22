@@ -51,12 +51,12 @@ Materias Correlativas: Matemática B, Física I <br>
 - **Forte** hace parciales como los viejos.
 - LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
 
+## Horarios de diferentes años para comparar
 <details>
-  <summary><b> ## Horarios de diferentes años para comparar </b></summary>
+  <summary><b> ,,, </b></summary>
   <ul>
     <li>
       <details>
-        <summary>Explicaciones</summary>
         <p>
           primeros semestres <br>
 <img width="1855" height="223" alt="Grupos-horarios y cupos (1)" src="https://github.com/user-attachments/assets/4219f8c2-7c2b-4622-8e31-96b43df001cb" />
