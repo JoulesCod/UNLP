@@ -31,7 +31,10 @@ Materias Correlativas: Matemática B, Física I <br>
 <summary><b>Física II - 2020 - turno mañana</b></summary>
 <p>https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD</p>
 </details>
-- Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
+<details>
+<summary><b>Física II - 2020 - turno tarde-noche</b></summary>
+<p>https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU</p>
+</details>
 
 ### Clases grabadas por Damián Gulich:
 - https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
