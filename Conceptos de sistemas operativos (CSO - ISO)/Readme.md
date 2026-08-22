@@ -1,3 +1,7 @@
+>[!WARNING]
+> Parciales caen sábados
+> Materia junto a Licenciatura en informática 
+
 >[!IMPORTANT]
 > E-mail consultas: iso@info.unlp.edu.ar <br>
 > 2 turnos (mañana y tarde) donde se ven los mismos contenidos teóricos y prácticos. Pueden elegir el que se ajuste a sus horarios. <br>
