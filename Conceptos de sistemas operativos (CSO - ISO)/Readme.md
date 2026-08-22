@@ -1,6 +1,6 @@
 >[!WARNING]
-> Parciales caen sábados
-> Materia junto a Licenciatura en informática 
+> Parciales caen sábados <br>
+> Materia junto a Licenciatura en informática <br>
 
 >[!IMPORTANT]
 > E-mail consultas: iso@info.unlp.edu.ar <br>
