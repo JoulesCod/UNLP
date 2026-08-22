@@ -68,3 +68,12 @@ segundos semestres <br>
 
 ### RECOPILACIÓN OPINIONES PROFES
 https://docs.google.com/spreadsheets/d/1GRAHihuNWW_NxqBvIXe5romZB5JDK2Aroh-hxbELIso/edit?gid=0#gid=0
+
+<details>
+  <summary><b> Contenidos </b></summary>
+  <ul>
+    <li>
+      Física 
+    </li>
+  </ul>
+</details>
