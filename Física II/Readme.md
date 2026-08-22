@@ -36,8 +36,10 @@ Materias Correlativas: Matemática B, Física I <br>
 <p>https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU</p>
 </details>
 
-### Clases grabadas por Damián Gulich:
-- https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
+### Clases grabadas por Damián Gulich: <details>
+<summary><b> </b></summary>
+<p>https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO</p>
+</details>
 
 ### Videos E. Vilche 2023:
 - https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
