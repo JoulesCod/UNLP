@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > pag cátedras: http://www.ing.unlp.edu.ar/catedras/F0305/
 
-### Clasrooms 
+### Clasrooms de física 2
 - G22: uury2pd6
 - G23: aeptvlrg
 - G28 (2025): vkiw6dh
@@ -43,7 +43,7 @@ Materias Correlativas: Matemática B, Física I <br>
 
 ---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
-# Comentario de alumnos que ya la cursaron
+# Comentario de alumnos que ya cursaron física 2
 - **Gulich** NO,
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
 - **Forte** hace parciales como los viejos.
@@ -66,14 +66,6 @@ segundos semestres <br>
   </ul>
 </details>
 
-### RECOPILACIÓN OPINIONES PROFES
+### RECOPILACIÓN OPINIONES PROFES Física 2
 https://docs.google.com/spreadsheets/d/1GRAHihuNWW_NxqBvIXe5romZB5JDK2Aroh-hxbELIso/edit?gid=0#gid=0
 
-<details>
-  <summary><b> Contenidos </b></summary>
-  <ul>
-    <li>
-      Física 
-    </li>
-  </ul>
-</details>
