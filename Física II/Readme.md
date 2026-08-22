@@ -36,7 +36,8 @@ Materias Correlativas: Matemática B, Física I <br>
 <p>https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU</p>
 </details>
 
-### Clases grabadas por Damián Gulich: <details>
+### Clases grabadas por Damián Gulich:
+<details>
 <summary><b> </b></summary>
 <p>https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO</p>
 </details>
