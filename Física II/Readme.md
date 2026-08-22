@@ -53,10 +53,10 @@ Materias Correlativas: Matemática B, Física I <br>
 
 ## Horarios de diferentes años para comparar
 <details>
-  <summary><b> ,,, </b></summary>
+  <summary><b> ver </b></summary>
   <ul>
     <li>
-          primeros semestres <br>
+primeros semestres <br>
 <img width="1855" height="223" alt="Grupos-horarios y cupos (1)" src="https://github.com/user-attachments/assets/4219f8c2-7c2b-4622-8e31-96b43df001cb" />
 <img width="1884" height="340" alt="dist docente 2026-1" src="https://github.com/user-attachments/assets/4b59a6c5-c3a7-4211-a713-5e091e7efc2c" />
 segundos semestres <br>
