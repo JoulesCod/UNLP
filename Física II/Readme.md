@@ -28,6 +28,10 @@ Materias Correlativas: Matemática B, Física I <br>
 # Videos Explicativos 
 ### Mosquera-Taylor:
 - Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
+- <details>
+  <summary><b>Física II - 2020 - turno mañana</b></summary>
+  <p>[Contenido que se muestra al desplegar.](https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD)</p>
+</details>
 - Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
 
 ### Clases grabadas por Damián Gulich:
