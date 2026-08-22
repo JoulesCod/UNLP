@@ -42,14 +42,9 @@ Materias Correlativas: Matemática B, Física I <br>
 <p>https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO</p>
 </details>
 
-### Videos E. Vilche 2023:
-- https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
-
-### Clases grabadas por Aníbal Medina 2020:
-- https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
-
-### Videos Andrea Paola
-- https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
+### Videos E. Vilche 2023: https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
+### Clases grabadas por Aníbal Medina 2020: https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
+### Videos Andrea Paola: https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
 
 
 ---
