@@ -68,9 +68,5 @@ segundos semestres <br>
   </ul>
 </details>
 
-
-
-
-
-## RECOPILACIÓN OPINIONES PROFES
+### RECOPILACIÓN OPINIONES PROFES
 https://docs.google.com/spreadsheets/d/1GRAHihuNWW_NxqBvIXe5romZB5JDK2Aroh-hxbELIso/edit?gid=0#gid=0
