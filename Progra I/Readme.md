@@ -6,6 +6,15 @@
 > E-mail: csanz@lidi.info.unlp.edu.ar <br>
 > Profe Teorías: Virginia Ainchil (no se hace cargo de los parciales de la cursada, si de los finales) <br>
 
+<details>
+  <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
+  <ul>
+Programacíon I - Ingeniería en computación - IC <br>
+Taller de Programación - Licencatura en sistemas - LIC <br>
+Taller de Programación - Analista Programador Universitario - APU <br>
+  </ul>
+</details>
+
 # OPINION 
 <table>
 <tr>
