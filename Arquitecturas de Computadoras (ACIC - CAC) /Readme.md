@@ -10,13 +10,11 @@
 <details>
   <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
   <ul>
-    <li>
 Arquitectura de Computadoras - Ingeniería en computación - IC <br>
 Coceptos de Arquitectura de Computadoras - Ingeniería en computación - IC <br>
 Arquitectura de Computadoras - Licencatura en sistemas - LIC <br>
 Organización de Computadoras - Analista Programador Universitario - APU <br>
 Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
-    </li>
   </ul>
 </details>
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar antes la info en la página de lic) <br>
