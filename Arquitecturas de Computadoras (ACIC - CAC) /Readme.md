@@ -11,9 +11,9 @@
   <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
   <ul>
     <li>
-Arquitectura de Computadoras - Ingeniería en computación <br>
-Coceptos de Arquitectura de Computadoras - Ingeniería en computación <br>
-Arquitectura de Computadoras - Licencatura en sistemas <br>
+Arquitectura de Computadoras - Ingeniería en computación - IC <br>
+Coceptos de Arquitectura de Computadoras - Ingeniería en computación - IC <br>
+Arquitectura de Computadoras - Licencatura en sistemas - LIC <br>
 Organización de Computadoras - Analista Programador Universitario - APU <br>
 Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
     </li>
