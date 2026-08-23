@@ -10,6 +10,8 @@
 Arquitectura de Computadoras - Ingeniería en computación <br>
 Coceptos de Arquitectura de Computadoras - Ingeniería en computación <br>
 Arquitectura de Computadoras - Licencatura en sistemas <br>
+Organización de Computadoras - Analista Programador Universitario - APU <br>
+Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar antes la info en la página de lic) <br>
 
 > Distinguir si es de Inge o Lic:
