@@ -7,6 +7,9 @@
 > pag oficial lic: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/ <br>
 > cartelera inge: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=335& <br>
 
+Arquitectura de Computadoras - Ingeniería en computación <br>
+Coceptos de Arquitectura de Computadoras - Ingeniería en computación <br>
+Arquitectura de Computadoras - Licencatura en sistemas <br>
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar antes la info en la página de lic) <br>
 
 > Distinguir si es de Inge o Lic:
