@@ -11,7 +11,7 @@
 <details>
   <summary><b> La Materia es equivalente entre las siguienes carreras (en este caso la damos todos juntos): </b></summary>
   <ul>
- Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación <br>
+ Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación - IC<br>
 Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LIC <br>
   </ul>
 </details>
