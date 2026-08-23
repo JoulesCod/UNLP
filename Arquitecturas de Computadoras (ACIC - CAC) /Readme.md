@@ -17,6 +17,7 @@ Organización de Computadoras - Analista Programador Universitario - APU <br>
 Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
   </ul>
 </details>
+
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar antes la info en la página de lic) <br>
 
 > Distinguir si es de Inge o Lic:
