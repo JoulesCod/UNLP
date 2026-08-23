@@ -8,9 +8,13 @@
 > Plataforma Linti: https://catedras.linti.unlp.edu.ar/ <br>
 > Cartelera: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=129&
 
-### Materia (en este caso la damos todos juntos) 
-- Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación
-- Introducción a sistemas Operativos (ISO) - Licensiatura en sistemas 
+<details>
+  <summary><b> La Materia es equivalente entre las siguienes carreras (en este caso la damos todos juntos): </b></summary>
+  <ul>
+ Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación <br>
+Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LIC <br>
+  </ul>
+</details>
 
 # Comentarios de personas que ya la cursaron 
 ### Concepros de sist operativos (CSO) --> APRENDER BASH EN LAS VACAS DE INVIERNO
