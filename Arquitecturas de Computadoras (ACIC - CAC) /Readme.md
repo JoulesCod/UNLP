@@ -7,11 +7,18 @@
 > pag oficial lic: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/ <br>
 > cartelera inge: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=335& <br>
 
+<details>
+  <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
+  <ul>
+    <li>
 Arquitectura de Computadoras - Ingeniería en computación <br>
 Coceptos de Arquitectura de Computadoras - Ingeniería en computación <br>
 Arquitectura de Computadoras - Licencatura en sistemas <br>
 Organización de Computadoras - Analista Programador Universitario - APU <br>
 Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
+    </li>
+  </ul>
+</details>
 > (los finales creo q inge y lic los dan en la misma fecha, lo digo porque suelen acualizar antes la info en la página de lic) <br>
 
 > Distinguir si es de Inge o Lic:
