@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> El equivalente de esta materia en licenciaturas y APU es "Orientación a Objetos 1" (OO1)
+> El equivalente de esta materia en licenciaturas y APU es "Orientación a Objetos 1" (OO1) <br>
 > lenguaje: Java
 
 # Comentarios de gente que ya la cursó
