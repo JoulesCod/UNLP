@@ -2,6 +2,7 @@
 > parciales en papel
 
 > [!IMPORTANT]
+> lenguaje: Pascal <br>
 > Jefa de Cátedra: Dra. Cecilia Verónica Sanz <br>
 > E-mail: csanz@lidi.info.unlp.edu.ar <br>
 > Profe Teorías: Virginia Ainchil (no se hace cargo de los parciales de la cursada, si de los finales) <br>
