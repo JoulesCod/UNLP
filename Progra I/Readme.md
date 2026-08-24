@@ -10,7 +10,7 @@
   <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
   <ul>
 Programacíon I - Ingeniería en computación - IC <br>
-Taller de Programación - Licencatura en sistemas - LIC <br>
+Conceptros de Algoritmos, Datos y Programas (CADP) - Licencatura en sistemas - LIC <br>
 Taller de Programación - Analista Programador Universitario - APU <br>
   </ul>
 </details>
