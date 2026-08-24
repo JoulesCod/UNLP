@@ -6,6 +6,8 @@
 > E-mail Horacio: hvw@lidi.info.unlp.edu.ar <br>
 > pag oficial lic: https://weblidi.info.unlp.edu.ar/catedras/arquitectura/ <br>
 > cartelera inge: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=335& <br>
+> Lenguaje: Assembly, en MSX68 y en Winmips
+
 
 <details>
   <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
