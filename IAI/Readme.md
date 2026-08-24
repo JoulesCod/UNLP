@@ -1,5 +1,7 @@
 Materia introductoria IAI, o tambien lamada... AYAYAY (AIAIAI) 💃
 
+lenguaje (?): R-info
+
 DENLA LIBRE, ES UNA BO LU DEZ
 si mal no recuerdo no había preguntas teóricas en el parcial y el código era super chiquito, desp había un par de ejercicios prácticos, como te ponían un par de instrucciones y preguntaban para dónde quedaba mirando el robot
 Yo lo dí libre en diciembre, si lo desaprobás lo podes volver a dar en enero, no me acuerdo si había q anotarse an algún lado para hacerlo.
