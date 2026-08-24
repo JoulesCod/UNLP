@@ -18,8 +18,11 @@ Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LIC <br>
 
 Ejercicios: https://app.notion.com/p/Pr-ctica-1-3c3a3c3dbb468011a74fe90e8f8f7520?source=copy_link
 
+# Profes / cátedra
+ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...) me re enganché con la materia, explica super interesante <br>
+
 # Comentarios de personas que ya la cursaron 
-### Concepros de sist operativos (CSO) --> APRENDER BASH EN LAS VACAS DE INVIERNO
+### Concepros de sist operativos (CSO) 
 - La cursamos con licenciatura (=> en la teoría somos banda de gente) --> en  LIC es ISO
 - materia tipo arqui,
 - aprueba con 6 min,
