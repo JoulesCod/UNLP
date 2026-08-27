@@ -22,6 +22,7 @@ Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 - promoción: 60-100 pts.
 - aprobado (TP, rinde examen Final): 40-59 pts.
 - desaprobado: 0-39 pts.  <br>
+
 Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
