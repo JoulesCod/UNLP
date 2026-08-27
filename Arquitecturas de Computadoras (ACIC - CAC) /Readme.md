@@ -16,7 +16,7 @@ Arquitectura de Computadoras - Ingeniería en computación - IC <br>
 Coceptos de Arquitectura de Computadoras - Ingeniería en computación - IC <br>
 Arquitectura de Computadoras - Licencatura en sistemas - LIC <br>
 Organización de Computadoras - Analista Programador Universitario - APU <br>
-Arquitectura de COmputadoras - Analista Programador Universitario - APU <br>
+Arquitectura de Computadoras - Analista Programador Universitario - APU <br>
   </ul>
 </details>
 
