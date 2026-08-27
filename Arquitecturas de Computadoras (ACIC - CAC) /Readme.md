@@ -1,6 +1,6 @@
 > [!WARNING]
 > EVALUACIONES EN PAPEL <br>
-> 60% de asistencia a las prácticas <br>
+> 60% de asistencia a las prácticas (🤌) <br>
 
 > [!IMPORTANT]
 > E-mail Horacio: hvw@lidi.info.unlp.edu.ar <br>
