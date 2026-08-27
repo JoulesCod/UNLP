@@ -13,7 +13,7 @@
 - Ayudantes:
   -  Ing. Eduardo Amoreo
   -  Lic. Leonela Novarino
-  -  Lic. Iara Pintos
+  -  Lic. Iara Pintos <br>
 Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 
 ## Condiciones de Cursada y Aprobación:
