@@ -7,15 +7,13 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## MATERIAS 
 ## 1er Año 
 <table align="center">
-  
-</table>
-
-<table align="center">
   <tr>
     <td align="center" width="10%">
-      <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
-      <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
-      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+      <a href="./Ruta-De-Tu-Carpeta">
+        <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
+        <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
+        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+      </a>
     </td>
     <td align="center" width="10%">
       <h3>💻 CADP</h3>
@@ -61,6 +59,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
   </tr>
 </table>
 
+## IA
 <table>
 <tr>
 <td valign="midle">
