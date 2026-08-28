@@ -5,7 +5,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
 ## MATERIAS POR AÑO 
-<h2 align="center"> 1er Año </h2>  
+<h2 align="center"> ✦ · ───────── · 1er Año · ───────── · ✦ </h2> 
 <table align="center">
   <tr>
     <td align="center" width="30%" valign="top">
@@ -86,68 +86,84 @@ won't upload all the activities I make, but you can find exams and summaries in 
 </table>
 
  
-<h2 align="center"> 2do Año </h2>
+<h2 align="center"> ✦ · ───────── · 2do Año · ───────── · ✦ </h2>
 <table align="center">
   <tr>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20III">
-        <img src="https://img.shields.io/badge/👑-Progra III-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 🥝
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20III">
+          <img src="https://img.shields.io/badge/Progra III-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Programación III: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Java-3E9B8A?style=flat-square&logo=Java" />
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20C">
-        <img src="https://img.shields.io/badge/🧮-Mate_C-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 🧮
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20C">
+          <img src="https://img.shields.io/badge/Mate_C-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Matemática C: <br> (1er semestre) <br> </p>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
-        <img src="https://img.shields.io/badge/🖨️- ACIC--CAC-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 🖨️
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
+          <img src="https://img.shields.io/badge/ACIC--CAC-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Arqui. de Computadoras: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-3E9B8A?style=flat-square&logo=Assembly" />
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20I%20">
-        <img src="https://img.shields.io/badge/💻-Taller_I-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 💻
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20I%20">
+          <img src="https://img.shields.io/badge/Taller_I-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Taller de Lenguajes I: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-C-3E9B8A?style=flat-square&logo=C" />
     </td>
   
   <tr>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20II">
-        <img src="https://img.shields.io/badge/💡- Taller_II-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 💡
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20II">
+          <img src="https://img.shields.io/badge/Taller_II-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Taller de Lenguages II: (2do semestre) </p>
         <img src="https://img.shields.io/badge/Language-Java-3E9B8A?style=flat-square&logo=Java" />
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20D">
-        <img src="https://img.shields.io/badge/🍣-Mate_D-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> 🍣
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20D">
+          <img src="https://img.shields.io/badge/Mate_D-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Matemática D: <br> (2do semestre) <br> </p>
     </td>
     <td align="center" width="25%" valign="top">
+      <h1> 🐧
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Conceptos%20de%20sistemas%20operativos%20(CSO%20-%20ISO)">
-        <img src="https://img.shields.io/badge/🐧- CSO-3E9B8A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CSO-3E9B8A?style=for-the-badge" />
       </a>
+      </h1>
         <p> Conceptos de Sist. Operativos: (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Bash-3E9B8A?style=flat-square&logo=Bash" />
     </td>
     <td align="center" width="25%" valign="top"> 
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20II">
-        <img src="https://img.shields.io/badge/⚔️-Física_II-3E9B8A?style=for-the-badge" />
-      </a>
+      <h1> ⚔️
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20II">
+          <img src="https://img.shields.io/badge/Física_II-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
         <p> Física II: <br> (2do semestre) <br> </p>
     </td>
   </tr>
 </table>
 
-## IA
+# IA
 <table>
 <tr>
 <td valign="midle">
