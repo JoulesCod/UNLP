@@ -9,10 +9,11 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <table align="center">
   <tr>
     <td align="center" width="30%">
-      <h1>🤖</h1>
+      <h1>🤖
       <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
         <img src="https://img.shields.io/badge/IAI-8A2BE2?style=for-the-badge" />
       </a>
+      </h1>
         <p> Introducción a la Informática: <br> Curso de ingreso de Ing en Computación UNLP (parte de informática) </p>
         <img src="https://img.shields.io/badge/Language-R--Info-8A2BE2?style=flat-square&logo=R-info" />
     </td>
