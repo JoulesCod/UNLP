@@ -29,7 +29,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
   
   <tr>
     <td align="center" width="30%">
-      <h1> 💻- 
+      <h1> 💻
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
           <img src="https://img.shields.io/badge/Progra I-8A2BE2?style=for-the-badge" />
         </a>
@@ -38,7 +38,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/Language-Pascal-8A2BE2?style=flat-square&logo=Pascal" />
     </td>
     <td align="center" width="30%">
-      <h1> 🧮-
+      <h1> 🧮
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20A">
           <img src="https://img.shields.io/badge/Mate_A-8A2BE2?style=for-the-badge" />
         </a>
@@ -46,7 +46,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <p> Matemática A: <br> (1er semestre) <br> </p>
     </td>
     <td align="center" width="30%">
-      </h1> 👨‍🦽‍➡️-
+      <h1> 👨‍🦽‍➡️
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
           <img src="https://img.shields.io/badge/FAC-8A2BE2?style=for-the-badge" />
         </a>
@@ -58,28 +58,28 @@ won't upload all the activities I make, but you can find exams and summaries in 
   
   <tr>
     <td align="center" width="30%">
-      <h1> 💸-
+      <h1> 
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
           <img src="https://img.shields.io/badge/Progra II-8A2BE2?style=for-the-badge" />
         </a>
-      </h1>
+      💸 </h1>
         <p> Programación II: (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Pascal,_Java,_R--info-8A2BE2?style=flat-square&logo=Pascal" />
     </td>
     <td align="center" width="30%">
-      <h1> 📱-
+      <h1> 
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20B">
           <img src="https://img.shields.io/badge/Mate_B-8A2BE2?style=for-the-badge" />
         </a>
-      </h1>
+      📱</h1>
         <p> Matemática B: <br> (2do semestre) <br> </p>
     </td>
     <td align="center" width="30%">
-      <h1> 🛶-
+      <h1> 
         <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20I">
           <img src="https://img.shields.io/badge/Física_I-8A2BE2?style=for-the-badge" />
         </a>
-      </h1>
+      🛶 </h1>
         <p> Física I: <br> (2do semestre) <br> </p>
     </td>
   </tr>
