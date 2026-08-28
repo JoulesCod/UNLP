@@ -5,7 +5,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
 ## MATERIAS POR AÑO 
-<h2 align="center"> ✦ · ───────── · 1er Año · ───────── · ✦ </h2> 
+<h3 align="center"> ✦ · ───────── · 1er Año · ───────── · ✦ </h3> 
 <table align="center">
   <tr>
     <td align="center" width="30%" valign="top">
@@ -86,7 +86,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 </table>
 
  
-<h2 align="center"> ✦ · ───────── · 2do Año · ───────── · ✦ </h2>
+<h3 align="center"> ✦ · ───────── · 2do Año · ───────── · ✦ </h3>
 <table align="center">
   <tr>
     <td align="center" width="25%" valign="top">
