@@ -47,7 +47,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
     </td>
     <td align="center" width="30%" valign="top">
       <h1> 👨‍🦽‍➡️
-        <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Fundamentos%20de%20Arquitectura%20de%20Computadoras%20(FAC)">
           <img src="https://img.shields.io/badge/FAC-8A2BE2?style=for-the-badge" />
         </a>
       </h1>
