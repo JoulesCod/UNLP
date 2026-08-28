@@ -34,7 +34,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20A">
         <img src="https://img.shields.io/badge/🧮-Mate_A-blue?style=for-the-badge" />
       </a>
-        <p> Matemática A: <br> (1er semestre) <br> Junto a el resto de ingenierías </p>
+        <p> Matemática A: <br> (1er semestre) <br> </p>
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
