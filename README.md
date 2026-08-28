@@ -7,13 +7,10 @@ won't upload all the activities I make, but you can find exams and resumes in th
 ## MATERIAS 
 <p align="center">
   <a href="https://github.com/JoulesCod/1er-Semestre">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=1er-Semestre&theme=tokyonight" width="32%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=IAI&theme=tokyonight" width="32%" />
   </a>
   <a href="https://github.com/JoulesCod/CADP">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=CADP&theme=tokyonight" width="32%" />
-  </a>
-  <a href="https://github.com/JoulesCod/OC">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=OC&theme=tokyonight" width="32%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Mate_Pi&theme=tokyonight" width="32%" />
   </a>
 </p>
 
