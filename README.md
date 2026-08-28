@@ -50,9 +50,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/💸-Progra II-blue?style=for-the-badge" />
       </a>
         <p> Programación II: (2do semestre)</p>
-        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=Pascal" />
-        <img src="https://img.shields.io/badge/Language-Java-blue?style=flat-square&logo=Java" />
-        <img src="https://img.shields.io/badge/Language-R--Info-blue?style=flat-square&logo=R-info" />
+        <img src="https://img.shields.io/badge/Language-Pascal_Java_R--info-blue?style=flat-square&logo=Pascal" />
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20B">
