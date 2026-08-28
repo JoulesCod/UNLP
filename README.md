@@ -176,6 +176,8 @@ won't upload all the activities I make, but you can find exams and summaries in 
   - Es más rápido que el chat.
   <br>
   - Lo único que jode es que no podés mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda, si queres que te resuelva algo, mencionar el nombre (tiene menos sentido del contexto). 
+  - CON GEMINI PLUS GRATIS PARA ESTUDIANTES todo se resuelve <br> 
+  https://gemini.google/es/students/?hl=es
 <br>
   <h4> 🟪 PAG DE APUNTES RECOMENDADA: NOTION </h4>
   - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
