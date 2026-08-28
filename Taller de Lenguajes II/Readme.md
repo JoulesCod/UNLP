@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > El equivalente de esta materia en licenciaturas y APU es "Orientación a Objetos 1" (OO1) <br>
-> lenguaje: Java
+> lenguaje: Java <br>
 > la cátedra es la misma de Progra III, pero la mayoría de los profes son distintos 
 
 # TEMA APROBAR / PROMOCIONAR 
