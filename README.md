@@ -89,12 +89,12 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
         <img src="https://img.shields.io/badge/🖨️- ACIC--CAC-red?style=for-the-badge" />
       </a>
-        <p> Arquitectura de Computadoras: (1er semestre) </p>
+        <p> Arqui. de Computadoras: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-red?style=flat-square&logo=Assembly" />
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20I%20">
-        <img src="https://img.shields.io/badge/💻-TL I-red?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/💻-Taller I-red?style=for-the-badge" />
       </a>
         <p> Taller de Lenguajes I: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-C-red?style=flat-square&logo=C" />
@@ -118,7 +118,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Conceptos%20de%20sistemas%20operativos%20(CSO%20-%20ISO)">
         <img src="https://img.shields.io/badge/🐧- CSO-red?style=for-the-badge" />
       </a>
-        <p> Conceptos de Sistemas Operativos: (2do semestre)</p>
+        <p> Conceptos de Sist. Operativos: (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Bash-red?style=flat-square&logo=Bash" />
     </td>
     <td align="center" width="25%"> 
