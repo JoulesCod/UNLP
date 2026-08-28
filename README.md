@@ -135,7 +135,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
           <img src="https://img.shields.io/badge/Taller_II-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Taller de Lenguages II: <br> (2do semestre) </p>
+        <p> Taller de Lenguajes II:<br>(2do semestre) </p>
         <img src="https://img.shields.io/badge/Language-Java-3E9B8A?style=flat-square&logo=Java" />
     </td>
     <td align="center" width="23%" valign="top">
