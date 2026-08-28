@@ -10,17 +10,17 @@ won't upload all the activities I make, but you can find exams and summaries in 
   <tr>
     <td align="center" width="10%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
-        <img src="https://img.shields.io/badge/🤖-          IAI          -8A2BE2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🤖-IAI-8A2BE2?style=for-the-badge" />
       </a>
         <p> Introducción a la Informática: <br> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
         <img src="https://img.shields.io/badge/Language-R--Info-8A2BE2?style=flat-square&logo=R-info" />
     </td>
     <td align="center" width="10%">
-      <h3>💻 CADP</h3>
-      <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
-      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
+        <img src="https://img.shields.io/badge/2️⃣➕2️⃣-Mate_Pi-8A2BE2?style=for-the-badge" />
+      </a>
+        <p> Matemática Para Ingeniería: <br> Curso de ingreso de Ingeniería en Computación UNLP (parte de ingeniería) </p>
     </td>
-  </tr>
   
   <tr>
     <td align="center" width="33%">
