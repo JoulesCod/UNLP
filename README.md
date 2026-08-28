@@ -8,11 +8,20 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## 1er Año 
 <table align="center">
   <tr>
+    <td align="center" width="33%">
+      <a href="./IAI">
+        <h3>🤖 IAI <br> (Introducción a la Informática)</h3>
+        <p>Curso de ingreso de Ingeniería en Computación UNLP (parte de informática)</p>
+        <img src="https://img.shields.io/badge/Language-R__Info-blue?style=flat-square" />
+      </a>
+    </td>
+
+  <tr>
     <td align="center" width="10%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
         <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
         <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
-        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+        <img src="https://img.shields.io/badge/Language-R_Info-blue?style=flat-square&logo=R-info" />
       </a>
     </td>
     <td align="center" width="10%">
