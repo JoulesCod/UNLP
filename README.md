@@ -9,7 +9,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 
 ## MATERIAS POR AÑO 
 <h3 align="center"> ✦ · ───────── · 1er Año · ───────── · ✦ </h3> 
-<table align="center" with="90%">
+<table align="center" width="90%">
   <tr>
     <td align="center" width="30%" valign="top">
       <h1>🤖
