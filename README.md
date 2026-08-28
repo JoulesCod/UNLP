@@ -42,6 +42,10 @@ won't upload all the activities I make, but you can find exams and summaries in 
   </tr>
 </table>
 
+<a href="./1er-Semestre">
+  <h3>📚 1er-Semestre</h3>
+</a>
+
 <table>
 <tr>
 <td valign="midle">
