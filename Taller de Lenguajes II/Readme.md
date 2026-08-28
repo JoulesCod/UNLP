@@ -12,7 +12,7 @@
   <td valign="midle">
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d44d1f43-74e0-4854-a6a8-8a5e446d6014" /> <br>
 la individual es el punto 3 de la práctica 1, <br>
-que se entrega en la primera semana, 
+que se entrega en la primera semana, <br>
 es sin nota y para aclarar errores frecuentes <br>
   </td>
 </tr>
