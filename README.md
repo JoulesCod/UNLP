@@ -7,6 +7,10 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## MATERIAS 
 ## 1er Año 
 <table align="center">
+  
+</table>
+
+<table align="center">
   <tr>
     <td align="center" width="10%">
       <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
@@ -19,53 +23,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
     </td>
   </tr>
-</table>
-    
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚡ OC</h3>
-      <p>Prácticas resueltas y modelos de parciales de Organización de Computadoras.</p>
-      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>📚 2do-Semestre</h3>
-      <p>Segundo semestre de: Analista Programador Universitario (UNLP).</p>
-      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Taller-Programacion</h3>
-      <p>Prácticas resueltas de Taller de Programación.</p>
-      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🏗️ Arquitectura-Computadoras</h3>
-      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
-      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Arquitectura-Computadoras</h3>
-      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
-      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Arquitectura-Computadoras</h3>
-      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
-      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<a href="./1er-Semestre">
-  <h3>📚 1er-Semestre</h3>
-</a>
-
-<table align="center">
+  
   <tr>
     <td align="center" width="33%">
       <h3>📚 1er-Semestre</h3>
@@ -83,6 +41,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="33%">
       <h3>📚 2do-Semestre</h3>
