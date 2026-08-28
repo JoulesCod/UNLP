@@ -5,6 +5,7 @@
 
 # TEMA APROBAR / PROMOCIONAR 
 <img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/a23d5c61-5268-42ce-84da-5ca4e6a7c96f" />
+<img width="685" height="314" alt="image" src="https://github.com/user-attachments/assets/1fc34a99-a78c-467f-b672-89d3635a1f38" />
 
 
 
