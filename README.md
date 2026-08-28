@@ -8,16 +8,6 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## 1er Año 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
-        <h3></h3>
-        <img src="https://img.shields.io/badge/🤖 IAI <br> (Introducción a la Informática)-blue?style=flat-square" />
-        <p>Curso de ingreso de Ingeniería en Computación UNLP (parte de informática)</p>
-        <img src="https://img.shields.io/badge/Language-R--Info-blue?style=flat-square" />
-      </a>
-    </td>
-
-  <tr>
     <td align="center" width="10%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
         <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
@@ -65,6 +55,29 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <h3>🏗️ Arquitectura-Computadoras</h3>
       <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
       <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="./IAI">
+        <img src="https://img.shields.io/badge/IAI%20--%20INTRODUCCI%C3%93N%20A%20LA%20INFORM%C3%81TICA-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <img src="https://img.shields.io/badge/%E2%98%85-1-black?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="./CADP">
+        <img src="https://img.shields.io/badge/CADP-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <img src="https://img.shields.io/badge/%E2%98%85-4-black?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="./OC">
+        <img src="https://img.shields.io/badge/ORGANIZACI%C3%93N%20DE%20COMPUTADORAS-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <img src="https://img.shields.io/badge/%E2%98%85-7-black?style=flat-square" />
+      </a>
     </td>
   </tr>
 </table>
