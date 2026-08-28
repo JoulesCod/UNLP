@@ -11,6 +11,7 @@
   </td>
   <td valign="midle">
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d44d1f43-74e0-4854-a6a8-8a5e446d6014" />
+la individual es el punto 3 de la práctica 1, que se entrega en la primera semana, es sin nota y para aclarar errores frecuentes 
   </td>
 </tr>
 </table>
