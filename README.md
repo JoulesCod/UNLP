@@ -27,7 +27,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
         <img src="https://img.shields.io/badge/💻-Progra I-blue?style=for-the-badge" />
       </a>
-        <p> Programación I: <br> (1er semestre) </p>
+        <p> Programación I: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=Pascal" />
     </td>
     <td align="center" width="30%">
