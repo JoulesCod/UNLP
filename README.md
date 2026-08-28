@@ -8,12 +8,12 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## 1er Año 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="10%">
       <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
       <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
       <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="10%">
       <h3>💻 CADP</h3>
       <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
       <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
@@ -64,6 +64,43 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <a href="./1er-Semestre">
   <h3>📚 1er-Semestre</h3>
 </a>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📚 1er-Semestre</h3>
+      <p>Primer semestre de: Analista Programador Universitario (UNLP).</p>
+      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 CADP</h3>
+      <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
+      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ OC</h3>
+      <p>Prácticas resueltas y modelos de parciales de Organización de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📚 2do-Semestre</h3>
+      <p>Segundo semestre de: Analista Programador Universitario (UNLP).</p>
+      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Taller-Programacion</h3>
+      <p>Prácticas resueltas de Taller de Programación.</p>
+      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🏗️ Arquitectura-Computadoras</h3>
+      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <table>
 <tr>
