@@ -10,7 +10,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
     <td align="center" width="33%">
       <h3>🤖 IAI (Introducción a la Informática) </h3>
       <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
-      <img src="https://github.com/JoulesCod/UNLP/tree/main/IAI" />
+      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
     </td>
     <td align="center" width="33%">
       <h3>💻 CADP</h3>
