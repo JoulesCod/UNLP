@@ -40,9 +40,10 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
         <img src="https://img.shields.io/badge/👨‍🦽‍➡️- FAC-blue?style=for-the-badge" />
       </a>
-        <p> Arquitectura de Computadoras: <br> (1er semestre) </p>
+        <p> Fundamentos de Arquitectura de Computadoras: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-blue?style=flat-square&logo=Assembly" />
     </td>
+  </tr>
   
   <tr>
     <td align="center" width="30%">
