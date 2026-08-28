@@ -1,6 +1,6 @@
 # UNLP
 </p>
-won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
+won't upload all the activities I make, but you can find exams and summaries in the most organized possible way
 <p>
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
