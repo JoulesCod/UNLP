@@ -4,6 +4,31 @@ won't upload all the activities I make, but you can find exams and resumes in th
 <p>
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
+## MATERIAS 
+<p align="center">
+  <a href="https://github.com/JoulesCod/1er-Semestre">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=1er-Semestre&theme=tokyonight" width="32%" />
+  </a>
+  <a href="https://github.com/JoulesCod/CADP">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=CADP&theme=tokyonight" width="32%" />
+  </a>
+  <a href="https://github.com/JoulesCod/OC">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=OC&theme=tokyonight" width="32%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JoulesCod/2do-Semestre">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=2do-Semestre&theme=tokyonight" width="32%" />
+  </a>
+  <a href="https://github.com/JoulesCod/Taller-Programacion">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Taller-Programacion&theme=tokyonight" width="32%" />
+  </a>
+  <a href="https://github.com/JoulesCod/Arquitectura-Computadoras">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Arquitectura-Computadoras&theme=tokyonight" width="32%" />
+  </a>
+</p>
+
 <table>
 <tr>
 <td valign="midle">
