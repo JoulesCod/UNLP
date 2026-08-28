@@ -9,7 +9,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <table align="center">
   <tr>
     <td align="center" width="10%">
-      <a href="./Ruta-De-Tu-Carpeta">
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
         <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
         <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
         <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
