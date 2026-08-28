@@ -5,9 +5,10 @@
 
 # TEMA APROBAR / PROMOCIONAR 
 
+|---|
 |<img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/a23d5c61-5268-42ce-84da-5ca4e6a7c96f" />
 |<img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/a23d5c61-5268-42ce-84da-5ca4e6a7c96f" />| 
-|---|
+
 
 
 # Comentarios de gente que ya la cursó
