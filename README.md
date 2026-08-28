@@ -5,12 +5,6 @@ won't upload all the activities I make, but you can find exams and resumes in th
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
 ## MATERIAS 
-<p align="center">
-  <a href="https://github.com/JoulesCod/UNLP/tree/main">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=tokyonight" width="32%" />
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
