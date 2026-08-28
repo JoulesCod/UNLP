@@ -6,25 +6,47 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 ## MATERIAS 
 <p align="center">
-  <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=IAI&theme=tokyonight" width="32%" />
-  </a>
-  <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Mate_Pi&theme=tokyonight" width="32%" />
+  <a href="https://github.com/JoulesCod/UNLP/tree/main">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=UNLP&theme=tokyonight" width="32%" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JoulesCod/2do-Semestre">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=2do-Semestre&theme=tokyonight" width="32%" />
-  </a>
-  <a href="https://github.com/JoulesCod/Taller-Programacion">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Taller-Programacion&theme=tokyonight" width="32%" />
-  </a>
-  <a href="https://github.com/JoulesCod/Arquitectura-Computadoras">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Arquitectura-Computadoras&theme=tokyonight" width="32%" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📚 1er-Semestre</h3>
+      <p>Primer semestre de: Analista Programador Universitario (UNLP).</p>
+      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 CADP</h3>
+      <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
+      <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ OC</h3>
+      <p>Prácticas resueltas y modelos de parciales de Organización de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📚 2do-Semestre</h3>
+      <p>Segundo semestre de: Analista Programador Universitario (UNLP).</p>
+      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Taller-Programacion</h3>
+      <p>Prácticas resueltas de Taller de Programación.</p>
+      <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🏗️ Arquitectura-Computadoras</h3>
+      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <table>
 <tr>
