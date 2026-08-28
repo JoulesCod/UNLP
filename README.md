@@ -5,10 +5,11 @@ won't upload all the activities I make, but you can find exams and summaries in 
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
 ## MATERIAS 
+## 1er Año 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🤖 IAI (Introducción a la Informática) </h3>
+      <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
       <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
       <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
     </td>
@@ -17,13 +18,16 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
       <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
     </td>
+  </tr>
+</table>
+    
+<table align="center">
+  <tr>
     <td align="center" width="33%">
       <h3>⚡ OC</h3>
       <p>Prácticas resueltas y modelos de parciales de Organización de Computadoras.</p>
       <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <h3>📚 2do-Semestre</h3>
       <p>Segundo semestre de: Analista Programador Universitario (UNLP).</p>
@@ -33,6 +37,21 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <h3>🛠️ Taller-Programacion</h3>
       <p>Prácticas resueltas de Taller de Programación.</p>
       <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏗️ Arquitectura-Computadoras</h3>
+      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🏗️ Arquitectura-Computadoras</h3>
+      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
+      <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
     </td>
     <td align="center" width="33%">
       <h3>🏗️ Arquitectura-Computadoras</h3>
