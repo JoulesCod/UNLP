@@ -62,7 +62,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20I">
-        <img src="https://img.shields.io/badge/⚔️-Física_I-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🛶-Física_I-blue?style=for-the-badge" />
       </a>
         <p> Física I: <br> (2do semestre) <br> </p>
     </td>
@@ -72,28 +72,27 @@ won't upload all the activities I make, but you can find exams and summaries in 
 ## 2do Año 
 <table align="center">
   <tr>
-    <td align="center" width="30%">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20I%20">
+    <td align="center" width="25%">
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20III">
         <img src="https://img.shields.io/badge/👑-Progra III-red?style=for-the-badge" />
       </a>
         <p> Programación III: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=Java" />
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20C">
         <img src="https://img.shields.io/badge/🧮-Mate_C-red?style=for-the-badge" />
       </a>
         <p> Matemática C: <br> (1er semestre) <br> </p>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
         <img src="https://img.shields.io/badge/🖨️- ACIC--CAC-red?style=for-the-badge" />
       </a>
         <p> Arquitectura de Computadoras: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-red?style=flat-square&logo=Assembly" />
     </td>
-  </tr>
-  <td align="center" width="30%">
+    <td align="center" width="25%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20I%20">
         <img src="https://img.shields.io/badge/💻-TL I-red?style=for-the-badge" />
       </a>
@@ -102,24 +101,31 @@ won't upload all the activities I make, but you can find exams and summaries in 
     </td>
   
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20II">
+        <img src="https://img.shields.io/badge/💡- Taller II-red?style=for-the-badge" />
+      </a>
+        <p> Taller de Lenguages II: (2do semestre) </p>
+        <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=Java" />
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20D">
+        <img src="https://img.shields.io/badge/🍣-Mate_D-red?style=for-the-badge" />
+      </a>
+        <p> Matemática D: <br> (2do semestre) <br> </p>
+    </td>
+    <td align="center" width="25%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Conceptos%20de%20sistemas%20operativos%20(CSO%20-%20ISO)">
         <img src="https://img.shields.io/badge/🐧- CSO-red?style=for-the-badge" />
       </a>
         <p> Conceptos de Sistemas Operativos: (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Bash-red?style=flat-square&logo=Bash" />
     </td>
-    <td align="center" width="30%">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20B">
-        <img src="https://img.shields.io/badge/📱-Mate_B-blue?style=for-the-badge" />
+    <td align="center" width="25%"> 
+      <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20II">
+        <img src="https://img.shields.io/badge/⚔️-Física_II-blue?style=for-the-badge" />
       </a>
-        <p> Matemática D: <br> (2do semestre) <br> </p>
-    </td>
-    <td align="center" width="30%">
-      <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20I">
-        <img src="https://img.shields.io/badge/⚔️-Física_I-blue?style=for-the-badge" />
-      </a>
-        <p> Física I: <br> (2do semestre) <br> </p>
+        <p> Física II: <br> (2do semestre) <br> </p>
     </td>
   </tr>
 </table>
