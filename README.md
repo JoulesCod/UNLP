@@ -90,7 +90,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 
  
 <h3 align="center"> ✦ · ───────── · 2do Año · ───────── · ✦ </h3>
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td align="center" width="25%" valign="top">
       <h1> 🥝
