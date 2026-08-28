@@ -19,7 +19,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
         <img src="https://img.shields.io/badge/2️⃣➕2️⃣-Mate_Pi-8A2BE2?style=for-the-badge" />
       </a>
-        <p> Matemática Para Ingeniería: <br> Curso de ingreso de Ingeniería en Compu UNLP (parte de ingeniería) <br> </p>
+        <p> Matemática Para Ingeniería: <br> Curso de ingreso de Ing en Computación UNLP (parte de ingeniería) <br> </p>
     </td>
   
   <tr>
