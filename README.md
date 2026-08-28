@@ -6,10 +6,10 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 ## MATERIAS 
 <p align="center">
-  <a href="https://github.com/JoulesCod/1er-Semestre">
+  <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=IAI&theme=tokyonight" width="32%" />
   </a>
-  <a href="https://github.com/JoulesCod/CADP">
+  <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=JoulesCod&repo=Mate_Pi&theme=tokyonight" width="32%" />
   </a>
 </p>
