@@ -3,7 +3,8 @@
 won't upload all the activities I make, but you can find exams and summaries in the most organized possible way
 <p>
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
-
+<!-- ===================================================================================================================================================================== -->
+<!-- ===================================================================================================================================================================== -->
 ## MATERIAS POR AÑO 
 <h3 align="center"> ✦ · ───────── · 1er Año · ───────── · ✦ </h3> 
 <table align="center">
@@ -162,7 +163,8 @@ won't upload all the activities I make, but you can find exams and summaries in 
     </td>
   </tr>
 </table>
-
+<!-- ===================================================================================================================================================================== -->
+<!-- ===================================================================================================================================================================== -->
 # IA
 <table>
 <tr>
@@ -175,7 +177,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
   <br>
   - Es más rápido que el chat.
   <br>
-  - Lo único que jode es que no podés mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda, si queres que te resuelva algo, mencionar el nombre (tiene menos sentido del contexto). 
+  - Lo único que jode es que no podés mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda, si queres que te resuelva algo, mencionar el nombre (tiene menos sentido del contexto). <br>
   - CON GEMINI PLUS GRATIS PARA ESTUDIANTES todo se resuelve <br> 
   https://gemini.google/es/students/?hl=es
 <br>
@@ -187,7 +189,8 @@ won't upload all the activities I make, but you can find exams and summaries in 
 </td>
 </tr>
 </table>
-
+<!-- ===================================================================================================================================================================== -->
+<!-- ===================================================================================================================================================================== -->
 ## 📚 Progreso en la Carrera
 
 <p align="center">
