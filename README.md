@@ -92,7 +92,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <h3 align="center"> ✦ · ───────── · 2do Año · ───────── · ✦ </h3>
 <table align="center">
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="24%" valign="top">
       <h1> 🥝
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20III">
           <img src="https://img.shields.io/badge/Progra III-3E9B8A?style=for-the-badge" />
@@ -129,7 +129,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
     </td>
   
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="24%" valign="top">
       <h1> 💡
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20II">
           <img src="https://img.shields.io/badge/Taller_II-3E9B8A?style=for-the-badge" />
