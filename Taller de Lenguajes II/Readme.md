@@ -4,10 +4,11 @@
 > la cátedra es la misma de Progra III, pero la mayoría de los profes son distintos 
 
 # TEMA APROBAR / PROMOCIONAR 
+
+<p align="center">
 <img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/a23d5c61-5268-42ce-84da-5ca4e6a7c96f" />
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/1fc34a99-a78c-467f-b672-89d3635a1f38" />
-
-
+</p>
 
 # Comentarios de gente que ya la cursó
 - cátedra de P3 (se adhieren?),
