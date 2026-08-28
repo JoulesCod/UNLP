@@ -10,10 +10,10 @@ won't upload all the activities I make, but you can find exams and summaries in 
   <tr>
     <td align="center" width="10%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/IAI">
-        <h3>🤖 IAI <br> (Introducción a la Informática) </h3>
+        <img src="https://img.shields.io/badge/IAI-Introducción_a_la_Informática-8A2BE2?style=for-the-badge" />
+      </a>
         <p> Curso de ingreso de Ingeniería en Computación UNLP (parte de informática) </p>
         <img src="https://img.shields.io/badge/Language-R_Info-blue?style=flat-square&logo=R-info" />
-      </a>
     </td>
     <td align="center" width="10%">
       <h3>💻 CADP</h3>
@@ -59,73 +59,6 @@ won't upload all the activities I make, but you can find exams and summaries in 
   </tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 IAI <br> (Introducción a la Informática)</h3>
-      <p>Curso de ingreso de Ingeniería en Computación UNLP (parte de informática)</p>
-      <a href="./IAI">
-        <img src="https://img.shields.io/badge/Language-R__Info-blue?style=flat-square" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 CADP</h3>
-      <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
-      <a href="./CADP">
-        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <!-- Celda vacía para completar la fila -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📚 1er-Semestre</h3>
-      <p>Primer semestre de: Analista Programador Universitario (UNLP).</p>
-      <a href="./1er-Semestre">
-        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 CADP</h3>
-      <p>Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas.</p>
-      <a href="./CADP">
-        <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=pascal" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚡ OC</h3>
-      <p>Prácticas resueltas y modelos de parciales de Organización de Computadoras.</p>
-      <a href="./OC">
-        <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📚 2do-Semestre</h3>
-      <p>Segundo semestre de: Analista Programador Universitario (UNLP).</p>
-      <a href="./2do-Semestre">
-        <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Taller-Programacion</h3>
-      <p>Prácticas resueltas de Taller de Programación.</p>
-      <a href="./Taller-Programacion">
-        <img src="https://img.shields.io/badge/Language-Java-red?style=flat-square&logo=java" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Arquitectura-Computadoras</h3>
-      <p>Prácticas resueltas y modelos de parciales de Arquitectura de Computadoras.</p>
-      <a href="./Arquitectura-Computadoras">
-        <img src="https://img.shields.io/badge/Topic-Assembly-orange?style=flat-square" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## IA
 <table>
