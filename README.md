@@ -112,7 +112,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
           <img src="https://img.shields.io/badge/ACIC--CAC-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Arqui. de Computadoras: (1er semestre) </p>
+        <p> Arqui. de Computadoras: <br> (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-3E9B8A?style=flat-square&logo=Assembly" />
     </td>
     <td align="center" width="22%" valign="top">
@@ -121,7 +121,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
           <img src="https://img.shields.io/badge/Taller_I-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Taller de Lenguajes I: (1er semestre) </p>
+        <p> Taller de Lenguajes I: <br> (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-C-3E9B8A?style=flat-square&logo=C" />
     </td>
   
@@ -132,7 +132,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
           <img src="https://img.shields.io/badge/Taller_II-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Taller de Lenguages II: (2do semestre) </p>
+        <p> Taller de Lenguages II: <br> (2do semestre) </p>
         <img src="https://img.shields.io/badge/Language-Java-3E9B8A?style=flat-square&logo=Java" />
     </td>
     <td align="center" width="22%" valign="top">
@@ -149,7 +149,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/CSO-3E9B8A?style=for-the-badge" />
       </a>
       </h1>
-        <p> Conceptos de Sist. Operativos: (2do semestre)</p>
+        <p> Conceptos de Sist. Operativos: <br> (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Bash-3E9B8A?style=flat-square&logo=Bash" />
     </td>
     <td align="center" width="22%" valign="top"> 
