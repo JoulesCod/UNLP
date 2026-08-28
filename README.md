@@ -19,7 +19,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
         <img src="https://img.shields.io/badge/2️⃣➕2️⃣-Mate_Pi-8A2BE2?style=for-the-badge" />
       </a>
-        <p> Matemática Para Ingeniería: <br> Curso de ingreso de Ingeniería en Computación UNLP (parte de ingeniería) </p>
+        <p> Matemática Para Ingeniería: <br> Curso de ingreso de Ingeniería en Compu UNLP (parte de ingeniería) </p>
     </td>
   
   <tr>
@@ -27,20 +27,20 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
         <img src="https://img.shields.io/badge/💻-Progra I-blue?style=for-the-badge" />
       </a>
-        <p> Programación I: <br> +++ </p>
+        <p> Programación I: <br> (1er semestre) <br> </p>
         <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=Pascal" />
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20A">
         <img src="https://img.shields.io/badge/🧮-Mate_A-blue?style=for-the-badge" />
       </a>
-        <p> Matemática A: <br> +++ </p>
+        <p> Matemática A: <br> (1er semestre) <br> </p>
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Arquitecturas%20de%20Computadoras%20(ACIC%20-%20CAC)%20">
         <img src="https://img.shields.io/badge/👨‍🦽‍➡️- FAC-blue?style=for-the-badge" />
       </a>
-        <p> Arquitectura de Computadoras: <br> +++ </p>
+        <p> Arquitectura de Computadoras: <br> (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-blue?style=flat-square&logo=Assembly" />
     </td>
   
