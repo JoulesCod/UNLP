@@ -6,6 +6,18 @@
 > Jefe de Cátedra: Dr. Alejandro Héctor González <br>
 > E-mail: programacion2unlp@gmail.com <br>
 
+<details>
+  <summary><b> materias de otras carreas de info q creo q vemos temas que coinciden (por si quieren encontrar mas material) </b></summary>
+  <ul>
+    <li>
+- Algoritmos, Datos y Programas (CADP) --> Pascal
+- Orientación a Objetos 1 (OO1) --> la parte de java 
+- Conceptos de Concurrencia o Programación Concurrente --> R-info (?)
+    </li>
+  </ul>
+</details>
+
+
 ### VIDEOS CÁTEDRA:
 https://www.youtube.com/@unlpprogramacion2672 
 
