@@ -49,7 +49,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
         <img src="https://img.shields.io/badge/💸-Progra II-blue?style=for-the-badge" />
       </a>
-        <p> Programación II </p>
+        <p> Programación II: (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Pascal-blue?style=flat-square&logo=Pascal" />
         <img src="https://img.shields.io/badge/Language-Java-blue?style=flat-square&logo=Java" />
         <img src="https://img.shields.io/badge/Language-R--Info-blue?style=flat-square&logo=R-info" />
@@ -58,13 +58,13 @@ won't upload all the activities I make, but you can find exams and summaries in 
       <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20B">
         <img src="https://img.shields.io/badge/📱-Mate_B-blue?style=for-the-badge" />
       </a>
-        <p> Matemática B: <br> +++ </p>
+        <p> Matemática B: <br> (2do semestre) <br> </p>
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20I">
         <img src="https://img.shields.io/badge/⚔️-Física_I-blue?style=for-the-badge" />
       </a>
-        <p> Física I: <br> +++ </p>
+        <p> Física I: <br> (2do semestre) <br> </p>
     </td>
   </tr>
 </table>
