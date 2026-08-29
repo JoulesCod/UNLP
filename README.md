@@ -117,7 +117,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
           <img src="https://img.shields.io/badge/ACIC--CAC-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Arqui. de Computadoras: <br> (1er semestre) </p>
+        <p> Arquitectura de Computadoras: <br> (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-3E9B8A?style=flat-square&logo=Assembly" />
     </td>
     <td align="center" width="20%" valign="top">
@@ -154,7 +154,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/CSO-3E9B8A?style=for-the-badge" />
       </a>
       </h1>
-        <p> Conceptos de Sist. Operativos: <br> (2do semestre)</p>
+        <p> Conceptos de Sistemas Operativos: <br> (2do semestre)</p>
         <img src="https://img.shields.io/badge/Language-Bash-3E9B8A?style=flat-square&logo=Bash" />
     </td>
     <td align="center" width="20%" valign="top"> 
