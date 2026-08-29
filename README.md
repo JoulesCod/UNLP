@@ -59,9 +59,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <p> Fundamentos de Arquitectura de Computadoras: (1er semestre) </p>
         <img src="https://img.shields.io/badge/Language-Assembly-8A2BE2?style=flat-square&logo=Assembly" />
     </td>
-  </tr>
-  
-  <tr>
+    <!----====================================================---->
     <td align="center" width="30%" valign="top">
       <h1> 💸
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
