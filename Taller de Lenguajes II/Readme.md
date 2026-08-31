@@ -11,6 +11,7 @@
   </td>
   <td valign="midle">
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d44d1f43-74e0-4854-a6a8-8a5e446d6014" /> <br>
+ la individual es un examen individual, con nota, que incluye la práctica 1, 2 y 3 --> fecha 19 de septiembre
   </td>
 </tr>
 </table>
@@ -20,7 +21,3 @@
 - TODO PROYECTO, no hay parciales.
 - Vanesa jtp,
 - Laura teoría
-
-<!-- la individual es el punto 3 de la práctica 1, <br>
-que se entrega en la primera semana, <br>
-es sin nota y para aclarar errores frecuentes <br> -->
