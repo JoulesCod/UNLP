@@ -15,9 +15,3 @@
   </td>
 </tr>
 </table>
-
-# Comentarios de gente que ya la cursó
-- cátedra de P3 =>se adhieren a paros 
-- TODO PROYECTO, no hay parciales.
-- Vanesa jtp,
-- Laura teoría
