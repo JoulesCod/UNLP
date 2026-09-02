@@ -2,7 +2,7 @@
 ### Decidí ser feliz durante el semestre (no preparé la promoción), acompañenme a sufrir preparando el final...
 (cuando lo haya hecho lo comparo con la experiencia de mis compañeros (ya presencié su sufrimiento) y digo que me parece mejor) <br>
 
-<mark><mark><mark>**10/8/2026**</mark></mark></mark> <br>
+<mark><mark><mark>**15/8/2026**</mark></mark></mark> <br>
 Bueno, claramente prepararlo en las vacas de invierno es muy tranquilo, me parece importante igual ser constante todos los días porque es muy fácil que te gane la vagancia estando de vacaciones. <br>
 
 <mark><mark><mark>**19/8/2026**</mark></mark></mark> --> (fecha del final) <br>
