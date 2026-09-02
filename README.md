@@ -104,7 +104,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/Language-Java-3E9B8A?style=flat-square&logo=Java" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h1> 🧮
+      <h1>🧦
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20C">
           <img src="https://img.shields.io/badge/Mate_C-3E9B8A?style=for-the-badge" />
         </a>
