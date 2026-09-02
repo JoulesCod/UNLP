@@ -38,8 +38,8 @@ Arquitectura de Computadoras - Analista Programador Universitario - APU <br>
 ### Promoción --> 
 - Aprobar 1er parcial en la 1era fecha (nota min: 12/20) 
 - Aprobar parcial corto teórico (de los contenidos vistos hasta el momento)
-- Aprobar 2do parcial en la 1era fecha (nota min 12/20)
-- Aprobar examen largo teórico (tiene recu)
+- Aprobar 2do parcial en la 1era fecha (nota min: 12/20)
+- Aprobar examen largo teórico (tiene recu) (nota min: 6)
 
 ### FINAL
 - Tener cursada aprobada
