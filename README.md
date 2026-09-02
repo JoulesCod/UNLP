@@ -23,7 +23,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
         <img src="https://img.shields.io/badge/Language-R--Info-8A2BE2?style=flat-square&logo=R-info" />
     </td>
     <td align="center" width="30%" valign="top">
-      <h1> 2️⃣➕2️⃣
+      <h1> 🚼
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Mate%20Pi">
           <img src="https://img.shields.io/badge/Mate_Pi-8A2BE2?style=for-the-badge" />
         </a>
