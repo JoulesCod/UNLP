@@ -14,8 +14,8 @@ Ah, y me dijo que esos párrafos los tengo que poder escribir cada uno en 15min 
 Bueno, ya lo dí y lo aprobé, claramente lo preparé super relajada, yo personalmente no tengo drama de estudiar en las vacaciones <br>
 Pero, si no te gusta estudiar en la vacas o queres sacartelo de encima, teniendo a mano estos modelos de parcial que subí no debería haber problema en aprobar la promoción, obvio va a ser mas estresante, no solo tenes que preparar parciales extra sino que estas obligado a aprobar los exámenes prácticos a la primera, que aunque no sean recontra terribles, suma al estrés. <br>
 
-¿La pasé mejor que mis compañeros que la promocionaron? Si <br>
-¿Mientras estudiaba para el final pensaba que la hubiera promocionado y ya no tendría que estar estudiando? Tambien <br>
-¿Si volviera a cursar la materia q haría? Daría el final (opinión personal) <br>
+¿La pasé mejor que mis compañeros que la promocionaron? -- Si <br>
+¿Mientras estudiaba para el final pensaba que la hubiera promocionado y ya no tendría que estar estudiando? -- Tambien <br>
+¿Si volviera a cursar la materia q haría? -- Daría el final (opinión personal) <br>
 
 si la decidis promocionar diría que siempre tengas en mente que no hay que preocuparse tanto porque igual el final no es mas dificil que la promo.
