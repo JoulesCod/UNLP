@@ -21,6 +21,10 @@ Ejercicios: https://app.notion.com/p/Pr-ctica-1-3c3a3c3dbb468011a74fe90e8f8f7520
 # Profes / cátedra
 ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...) me re enganché con la materia, explica super interesante <br>
 
+# VIDEOS CONTENIDOS
+- Teoría: https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP
+- Práctica: https://www.youtube.com/playlist?list=PL3a_0yafSm3jj4N3fa3rhjo-1R2tU9A4g
+
 # Comentarios de personas que ya la cursaron 
 ### Concepros de sist operativos (CSO) 
 - La cursamos con licenciatura (=> en la teoría somos banda de gente) --> en  LIC es ISO
