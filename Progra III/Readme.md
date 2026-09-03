@@ -38,8 +38,8 @@ Se puede usar visual (vs) para las prácticas, total el examen es en papel
 - AYUDANTES PRÁCTICAS:
     - **Matias** Fluxa: ES EL MEJOR, LA TIENE CLARÍSIMA, es bueno, es el que después revisa todos los parciales para que tengan notas parejas
     - **Catalina** Brochero: tambien muy buena onda y con muchos conocimientos
-    - **Jose** Arcidiacono: ... mmm
-    - Otro señor (**Markos** Alonso Ocampo): una vez nos habló mal
+    - **Jose** Arcidiacono: ... 
+    - **Markos** Alonso Ocampo: te hace pensar  
 
 CONCLUSIÓN:
 - QUIERO QUE ME CORRIJA: Mati <3
