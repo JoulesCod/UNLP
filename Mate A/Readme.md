@@ -25,8 +25,8 @@ y otra vez llevó el pelo recogido (se hizo una colita de pelo), unos chicos le 
 pedían promedio 6 para la promoción, podes sacarte un 8 y un 4 <br>
 
 frases que nos llevamos de la cursada: (Autor: Sanservino) <br>
-- Te falta álgebra pibe. <br>
-- No hables como verdulera <br>
+-- Te falta álgebra pibe. <br>
+-- No hables como verdulera <br>
   (jajajasjkalsjldasjlaskhjaksjaajjajaja)
 
 chau. <br>
