@@ -19,3 +19,5 @@ Pero, si no te gusta estudiar en la vacas o queres sacartelo de encima, teniendo
 ¿Si volviera a cursar la materia q haría? -- Daría el final (opinión personal) <br>
 
 si la decidis promocionar diría que siempre tengas en mente que no hay que preocuparse tanto porque igual el final no es mas dificil que la promo.
+
+CONCLUSIÓN FINAL: si el examen es teórico y sabes la cant de preguntas, preparar respuestas dentro del tiempo que tenés 
