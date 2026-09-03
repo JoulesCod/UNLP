@@ -18,6 +18,9 @@ Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate 
 
 
 # COMISIÓN B8: (horario: 12hs - 16hs)
+> [!WARNING]
+> No podes usar tu calculadora en los parciales, circulan un par de ellos
+
 Me encanta como trabajan. <br>
 Es una comisión muy exigente respecto a justificación pero constantemente te repitén como quieren que lo hagas. <br>
 AMÉ LA ORGANIZACIÓN, al comienzo de la clase Mili hace un repaso y ejercicios del tema de la clase anterior y a las 14 en punto empieza la explicación práctica, el resto del tiempo consulta. <br>
