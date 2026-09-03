@@ -15,7 +15,7 @@ Yo estuve en la comisión A12: <br>
 - x: HERNANDEZ, Rocio --> meh
 - Ayudante diplomada (?): Milagros --> YO LA AMO, al principo no me pareció tan buena onda pero LITERAL es la reina de la justificación, mas clara imposible, repite mil veces cómo hay que justificar las cosas.
 
-## COMISIÓN EN GENERAL:
+## COMISIÓN A12 EN GENERAL:
 No me gustó que no hacían ninguna explicaciones en el pizarrón. <br>
 cada tanto algún ejemplo pero nada mas,  <br>
 a Sanservino (alias: einstein (se parece)) no se le entiende nada, va tipo flash y vos te quedas 😐🫠. (los ejemplos de Mili son lo mas) <br>
