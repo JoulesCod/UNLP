@@ -30,7 +30,7 @@ NO ES DIFICIL, si te armás bien las estructuras el único desafío es entender 
 </table>
 
 # PARCIALES
-(parciales en papel)
+(parciales en papel)  <br>
 PARA PARCIALES DE LA CURSADA, PARCIAL DE PROMOCIÓN Y FINAL SE PUEDEN USAR PARCIALES DE CADP (Lisenciatura en sistemas) por falta de parciales de nuestra carrera, pensar que nuestro parcial va a ser mas dificil. <br>
 Cuando estés en progra 2, el parcial de progra 1 te va a parecer un bo lu dez.  <br>
 Son super estrictos en la corrección, el código tiene que casi estar listo para correr y no hacer cosas innecesarias <br>
