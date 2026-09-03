@@ -24,6 +24,7 @@ ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...
 # VIDEOS CONTENIDOS
 - Teoría: https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP
 - Práctica: https://www.youtube.com/playlist?list=PL3a_0yafSm3jj4N3fa3rhjo-1R2tU9A4g
+- otro: https://www.youtube.com/@introduccionalossistemasop2527/videos
 
 # Comentarios de personas que ya la cursaron 
 ### Concepros de sist operativos (CSO) 
