@@ -2,6 +2,7 @@
 > pag cátedras: http://www.ing.unlp.edu.ar/catedras/F0305/
 
 ### Classrooms de física 2
+- G20: atsusm4e
 - G22: uury2pd6
 - G23: aeptvlrg
 - G28 (2025): vkiw6dh
