@@ -28,7 +28,7 @@ Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
 # Videos Explicativos 
-## De un profe particular de física que explica copado (ingeniero de la UNLP)
+### De un profe particular de física que explica copado (ingeniero de la UNLP)
 https://www.focusce.com.ar/materias/fisica 
 
 ### Mosquera-Taylor
