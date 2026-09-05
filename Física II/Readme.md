@@ -28,6 +28,9 @@ Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
 # Videos Explicativos 
+## De un profe particular de física que explica copado (ingeniero de la UNLP)
+https://www.focusce.com.ar/materias/fisica 
+
 ### Mosquera-Taylor
 - Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
 - Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
