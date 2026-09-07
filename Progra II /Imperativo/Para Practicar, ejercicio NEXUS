@@ -1,0 +1,17 @@
+El Problema del Organigrama de la Empresa "Nexus" 
+
+La empresa de tecnología "Nexus" está desarrollando un nuevo sistema de gestión de personal. 
+Actualmente, tienen un organigrama que se actualiza manualmente y quieren automatizar este proceso. 
+El desafío principal es que la jerarquía de la empresa no es estricta; es decir, un mánager puede tener múltiples reportes directos, y en ocasiones, diferentes personas en el mismo nivel jerárquico tienen el mismo puesto o salario. 
+Por ejemplo, puede haber varios "Ingenieros de Software Senior" o varias personas ganando 80,000 dólares al año. 
+
+El sistema debe permitir lo siguiente: 
+- Ingresar nuevos empleados: Cada empleado tiene los siguientes datos: 
+  - ID del empleado: Un número entero único. 
+  - Nombre completo: Una cadena de texto. 
+  - Puesto: Una cadena de texto. 
+  - Salario: Un número decimal. 
+  - ID del mánager: El ID del empleado de su mánager directo (podría ser nulo si es el CEO). 
+- Buscar empleados por salario: el sistema debe ser capaz de encontrar a todos los empleados que ganan un salario específico en el menor tiempo posible. 
+- Actualizar salarios: es necesario poder modificar el salario de un empleado existente y que el sistema se reestructure automáticamente para mantener la eficiencia de las búsquedas. 
+- Generar un informe de salarios: se debe poder imprimir una lista de todos los salarios en la empresa, ordenados de menor a mayor. 
