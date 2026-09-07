@@ -1,6 +1,6 @@
 > [!IMPORTANT]
-> EVAUACIONES EN COMPUTADORA
-> lenguajes: Pascal, Java y R-info <br>
+> EVAUACIONES EN COMPUTADORA <br>
+> lenguajes: Pascal, Java y R-info <br> <br>
 
 > [!IMPORTANT]
 > Jefe de Cátedra: Dr. Alejandro Héctor González <br>
