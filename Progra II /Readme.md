@@ -31,7 +31,7 @@ https://www.youtube.com/@unlpprogramacion2672
 - Jtp: Leandro 
 - Ayudante: Gio
 - Ayudante: Yani
-- Ayudante: Martu
+- ~~Ayudante: Martu (no more)~~
 - Ayudante: Oli
 - Ayudante: Juli
 <br>
