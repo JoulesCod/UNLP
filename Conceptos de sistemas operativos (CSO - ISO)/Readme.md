@@ -20,7 +20,7 @@ Ejercicios: https://app.notion.com/p/Pr-ctica-1-3c3a3c3dbb468011a74fe90e8f8f7520
 
 # Profes / cátedra
 TURNO MAÑANA <br>
-Me pomgo una mano en el corazón cuando digo que no se les entiende nada... no se como hacen la verdad <br>
+Me pongo una mano en el corazón cuando digo que no se les entiende nada... no se como hacen la verdad <br>
 
 TURNO NOCHE <br>
 ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...) me re enganché con la materia, explica super interesante <br>
