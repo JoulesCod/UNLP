@@ -38,6 +38,6 @@ ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...
 - estudiar de parcial,
 - VER teorías en YouTube,
 - a la mañana explican mal --> se puede faltar
-- toman final (antes no), o sea, promocionabas o la recursabas
+- toman final (antes no, o sea, promocionabas o la recursabas)
 - parciales teóricos múltiples choise
 
