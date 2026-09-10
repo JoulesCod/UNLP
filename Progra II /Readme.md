@@ -28,7 +28,8 @@ https://www.youtube.com/@unlpprogramacion2672
 
 ### PROFESORES 
 - Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes. Es muy bueno, por eso no corrige...
-- Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no 
+- Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no
+- Ayudante: Mariano --> ANTE LA DUDA, PREGUNTALE A MARIANO #MARIANOFOREVER
 - Ayudante: Gio  --> de las mas exigentes
 - Ayudante: Yani --> de las mas exigentes
 - ~~Ayudante: Martu (no more)~~
