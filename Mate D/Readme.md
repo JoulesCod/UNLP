@@ -13,7 +13,7 @@
 <img width="720" height="180" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
 
 ### COMENTARIOS DE PROFES GRUPO 4:
-PA: Cintia Perrone <br>
+PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
 .... 🐉 Excelente predisposición <br>
 .... 🐉 profe buena, explica claro y con colores <br>
 .... 🐉 Muy buena onda <br>
