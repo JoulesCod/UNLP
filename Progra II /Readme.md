@@ -27,13 +27,13 @@ https://www.youtube.com/@unlpprogramacion2672
 - R-INFO... ... ... ES UNA *******, terrible, horrible, era tan facil que hicieron el peor entorno del universo, tenes que ir de tu casa al quiosco del frente pero esta lleno de zombies, de la nada aparece un dragón, y el mundo se termina. 
 
 ### PROFESORES 
-- Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes.
-- Jtp: Leandro 
-- Ayudante: Gio
-- Ayudante: Yani
+- Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes. Es muy bueno, por eso no corrige...
+- Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no 
+- Ayudante: Gio  --> de las mas exigentes
+- Ayudante: Yani --> de las mas exigentes
 - ~~Ayudante: Martu (no more)~~
-- Ayudante: Oli
-- Ayudante: Juli
-- Ayudante: Luciano
+- Ayudante: Oli --> Regularmente exigente
+- Ayudante: Juli --> Menos exigente en las correciones 
+- Ayudante: Luciano --> ??
 <br>
 Si estas solo en tu grupo (generalmente no se permite pero puede pasar) no tenes que hacer la parte teórica, ya que su único propósito es ver que los dos integrantes entienden lo que se hizo en el código <br>
