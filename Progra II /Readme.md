@@ -32,7 +32,7 @@ https://www.youtube.com/@unlpprogramacion2672
 - Ayudante: Mariano --> ANTE LA DUDA, PREGUNTALE A MARIANO #MARIANOFOREVER
 - Ayudante: Gio  --> de las mas exigentes
 - Ayudante: Yani --> de las mas exigentes
-- ~~Ayudante: Martu (no more)~~
+- ~~Ayudante: Martu (no more) --> exigente~~
 - Ayudante: Oli --> Regularmente exigente
 - Ayudante: Juli --> Menos exigente en las correciones 
 - Ayudante: Luciano --> ??
