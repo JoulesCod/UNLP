@@ -22,7 +22,7 @@
 https://www.youtube.com/@unlpprogramacion2672 
 
 ### COMENTARIOS
-- NO DUERMAS CON PASCAL, uno relaja porque ya hiciste todo un cuatri de pascal pero el examen es complejo y hay que comprender bien la consigna. 
+- NO DUERMAS CON PASCAL, uno relaja porque ya hiciste todo un cuatri de pascal pero el examen es complejo y hay que entender bien la consigna. 
 - LO ÚNICO DIFICIL EN JAVA ES QUE ES UN LENGUAJE NUEVO, el parcial no presenta desafíos lógicos, entendé bien cuando el padre es abstracto, y TODO ES UN OBJETO
 - R-INFO... ... ... ES UNA *******, terrible, horrible, era tan facil que hicieron el peor entorno del universo, tenes que ir de tu casa al quiosco del frente pero esta lleno de zombies, de la nada aparece un dragón, y el mundo se termina. 
 
