@@ -27,7 +27,7 @@ https://www.youtube.com/@unlpprogramacion2672
 - R-INFO... ... ... ES UNA *******, terrible, horrible, era tan facil que hicieron el peor entorno del universo, tenes que ir de tu casa al quiosco del frente pero esta lleno de zombies, de la nada aparece un dragón, y el mundo se termina. 
 
 ### PROFESORES 
-- Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes. Es muy bueno, por eso no corrige...
+- Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes. Ale es muy bueno, por eso no corrige... (los finales si)
 - Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no
 - Ayudante: Mariano --> ANTE LA DUDA, PREGUNTALE A MARIANO #MARIANOFOREVER
 - Ayudante: Gio  --> de las mas exigentes
