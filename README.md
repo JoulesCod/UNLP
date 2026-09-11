@@ -64,7 +64,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
   <tr>
     <td align="center" width="30%" valign="top">
       <h1> 💸
-        <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20I">
+        <a href="https://github.com/JoulesCod/UNLP/tree/main/Progra%20II%20">
           <img src="https://img.shields.io/badge/Progra II-8A2BE2?style=for-the-badge" />
         </a>
      </h1>
