@@ -4,6 +4,18 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <p>
 (Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
+## SI GITHUB ANDA MAL:
+<details>
+  <summary><b> y aparece algo así </b></summary>
+  <ul>
+    <li>
+<img width="1155" height="143" alt="image" src="https://github.com/user-attachments/assets/d566a11f-7526-4c85-b2ec-9c297cb2d273" />
+    </li>
+  </ul>
+</details>
+mi recomendación es esperar... lo mas probable es que la página este andando mal por el momento y después de un rato funcione bien
+
+
 <!-- ===================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================== -->
 
