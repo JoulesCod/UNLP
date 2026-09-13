@@ -4,7 +4,7 @@ ACABO DE PROMOCIONAR LA MATERIA... WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 NO ASUSTARSE AL VER LOS HORARIOS PARA INSCRIBIRSE <br>
 En la tabla aparece para cada comisión una ingeniería RECOMENDADA, lo que no significa que no puedas anotarte si no son de esa inge <br>
 Recomiendan una porque los ayudantes son de esa ingeniería <br>
-y dicen que a veces hacen ejemplos o muestran cosas más relacionados a la carrera, en mi comisión no <br>
+y dicen que a veces hacen ejemplos o muestran cosas más relacionadas a la carrera, en mi comisión no <br>
 
 > [!IMPORTANT]
 > jefe de cátedra: Dr. Raúl Rossignoli <br>
