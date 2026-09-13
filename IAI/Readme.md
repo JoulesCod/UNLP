@@ -3,15 +3,15 @@ Materia introductoria IAI, o tambien lamada... AYAYAY (AIAIAI) 💃
 lenguaje (?): R-info
 
 DENLA LIBRE, ES UNA BO LU DEZ
-si mal no recuerdo no había preguntas teóricas en el parcial y el código era super chiquito, desp había un par de ejercicios prácticos, como te ponían un par de instrucciones y preguntaban para dónde quedaba mirando el robot
-Yo lo dí libre en diciembre, si lo desaprobás lo podes volver a dar en enero, no me acuerdo si había q anotarse an algún lado para hacerlo.
-Y si no lo aprobas en ninguna de esas fechas la podes hacér de forma normal, así q no perdés nada.
-Creo q se aprueba con 6
-Y si te va bien te sacás de encima ir todos los viernes, y te podes centrar directo en Mate Pi (que tambien recomiendo dar en Agosto (yo no lo pude dar ahí por tema de tiempos pero me dijeron que es re chill))
+si mal no recuerdo no había preguntas teóricas en el parcial y el código era super chiquito, desp había un par de ejercicios prácticos, como te ponían un par de instrucciones y preguntaban para dónde quedaba mirando el robot. <br>
+Yo lo di libre en diciembre, si lo desaprobás lo podes volver a dar en enero, no me acuerdo si había q anotarse en algún lado para hacerlo. <br>
+Y si no lo aprobas en ninguna de esas fechas lo podés hacér de forma normal, así q no perdés nada. <br>
+Creo q se aprueba con 6. <br>
+Y si te va bien te sacás de encima ir todos los viernes, y te podes centrar directo en Mate Pi (que tambien recomiendo dar en Agosto (yo no lo pude dar ahí por tema de tiempos pero me dijeron que es re chill)) <br>
 
 videos explicativos: 
 (este es de Informática asi que solo vean los que tienen que ver con R-info) <br>
-https://www.youtube.com/watch?v=1sYOXbQalwE&list=PLLuqkgNymP2O31A8dexjSWuKbp6mZvDl_
+https://www.youtube.com/watch?v=1sYOXbQalwE&list=PLLuqkgNymP2O31A8dexjSWuKbp6mZvDl_ <br>
 
 <img width="320" height="200" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBxNjN6YmRvc2ZtYTFmcWcxMG0yZXV2cWc3NnNmNWJndjE0a3k2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkQsbKSmrB5Kwu12mE/giphy.gif" />
 
