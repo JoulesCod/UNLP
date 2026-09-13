@@ -13,7 +13,7 @@ won't upload all the activities I make, but you can find exams and summaries in 
 <img width="1135" height="188" alt="image" src="https://github.com/user-attachments/assets/f1e51ae3-9f6c-4284-a0dd-3c56708dbd44" />
   </ul>
 </details>
-mi recomendación es esperar... lo mas probable es que la página este andando mal por el momento y después de un rato funcione bien
+mi recomendación es esperar... lo mas probable es que la página este andando mal por el momento y después de un rato funcione bien (creo q a veces fallan porque le pongo acentos a los títulos, voy a probar de no poner mas a ver si es eso)
 
 
 <!-- ===================================================================================================================================================================== -->
