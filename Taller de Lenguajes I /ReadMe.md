@@ -10,7 +10,7 @@
 Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
 Cesar: - Chicos si hicieron la práctica les va a ir bien en el parcial - <br>
 
-NO CESAR, NO. TU PARCIL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, ví cómo se apiadaba de nosotros en el brillos de sus ojos... <br>
+NO CESAR, NO. TU PARCIAL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, ví cómo se apiadaba de nosotros en el brillos de sus ojos... <br>
 ... volví despues de las notas... PUEDE, PUEEEEDE que haya exagerado, a la mayoría le fue bien (igual no lo crean a Cesar!!) <br>
 
 # PROFES
@@ -20,7 +20,7 @@ Los profesores son super buena onda, todos me caen bien y saben. No buscan desap
 ### MÓDULO 1
 El recu a veces es mas facil que la 1er fecha, si querés subir nota podes darlo y te queda la nota más alta (por las dudas preguntar si lo siguen haciendo así)  <br>
 Creo q Cesar tiene una obsación con los palindromos... por las dudas siempre estudiaría como hacerlo, y otras funciones como:  <br>
-- Quitar espacios innecesarios del comienzo de una frace  <br>
+- Quitar espacios innecesarios del comienzo de una frase  <br>
 - Poner primeras letras en mayúsculas   <br>
 - Pasar todo a mayúscula / minúscula  <br>
 NO OLVIDARSE DE AGREGAR '\O' si es necesario  <br>
@@ -28,11 +28,9 @@ NO OLVIDARSE DE AGREGAR '\O' si es necesario  <br>
 ### MÓDULO 2
 EL parcial del módulo 2 estuvo ok, hay muchos mas parciales para practicar <br>
 
-
 <img width="180" height="180" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJmY3hqeXhjcHlxMjJqZzN1M2ZxaDZxaXVyc3JsbHBocGZ3cjk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hcProFXbEGklbTY3da/giphy.gif" /> materia cute del semestre
 <br>
 <br>
-
 
 ## DATA:
 - se pueden cambiar los colores de code::blocks  <br>
