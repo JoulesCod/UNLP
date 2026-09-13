@@ -13,7 +13,7 @@ Yo estuve en la comisión A12: <br>
 - Profe: SANSERVINO, Miguel --> es un pancito, no muy exigente corrigiendo, pero al tener personalidad de genio si le preguntas algo puede que te mire con cara de "que pelotudes me estas preguntando"
 - Jtp (jefe de trabajos prácticos): RODRIGUEZ PONTE, Pablo Agustin --> ES UN GENIO EXPLICANDO, podes preguntarle la misma boludez 50 veces y te responde de mil amores 
 - x: HERNANDEZ, Rocio --> meh
-- Ayudante diplomada (?): Milagros --> YO LA AMO, al principo no me pareció tan buena onda pero LITERAL es la reina de la justificación, mas clara imposible, repite mil veces cómo hay que justificar las cosas.
+- Ayudante diplomada (?): Milagros --> YO LA AMO, al principio no me pareció tan buena onda pero LITERAL es la reina de la justificación, mas clara imposible, repite mil veces cómo hay que justificar las cosas.
 
 ## COMISIÓN A12 EN GENERAL:
 No me gustó que no hacían ninguna explicaciones en el pizarrón. <br>
