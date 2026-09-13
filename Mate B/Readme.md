@@ -22,8 +22,8 @@ Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate 
 > No podes usar tu calculadora en los parciales, circulan un par de ellos
 
 Me encanta como trabajan. <br>
-Es una comisión muy exigente respecto a justificación pero constantemente te repitén como quieren que lo hagas. <br>
+Es una comisión muy exigente respecto a justificación pero constantemente te repiten como quieren que lo hagas. <br>
 AMÉ LA ORGANIZACIÓN, al comienzo de la clase Mili hace un repaso y ejercicios del tema de la clase anterior y a las 14 en punto empieza la explicación práctica, el resto del tiempo consulta. <br>
-Las explicaciónes teoricas estan buenas. <br>
+Las explicaciónes teóricas están buenas. <br>
 Tenes que sacarte min 6 (5.50 te la dejan pasar) en cada parcial y tener temas obligatorios entre 60% - 70% (depende el módulo) bien para promocionar. <br>
 Dicen que no dejan usar calculadoras en los parciales pero no es tan así, durante el parcial hacen circular calculadoras de ellos que no calculan integrales. <br>
