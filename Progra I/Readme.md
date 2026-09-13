@@ -1,5 +1,7 @@
 > [!WARNING]
-> parciales en papel
+> parciales en papel <br>
+> 66% de asistencia a la teoría <br>
+> otro porcentaje de asistencia a la práctia 
 
 > [!IMPORTANT]
 > lenguaje: Pascal <br>
