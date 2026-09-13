@@ -7,10 +7,10 @@
 > E-mail: tallerleng1@gmail.com
 
 ### NO CONFÍEN EN CESAR! <br>
-Cesar: - tranqui chicos el parcial va a ser facil, nada que no haya aparecido en la práctica - <br>
+Cesar: - tranqui chicos el parcial va a ser fácil, nada que no haya aparecido en la práctica - <br>
 Cesar: - Chicos si hicieron la práctica les va a ir bien en el parcial - <br>
 
-NO CESAR, NO. TU PARCIAL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, ví cómo se apiadaba de nosotros en el brillos de sus ojos... <br>
+NO CESAR, NO. TU PARCIAL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, vi cómo se apiadaba de nosotros en el brillo de sus ojos... <br>
 ... volví despues de las notas... PUEDE, PUEEEEDE que haya exagerado, a la mayoría le fue bien (igual no lo crean a Cesar!!) <br>
 
 # PROFES
@@ -18,8 +18,8 @@ Los profesores son super buena onda, todos me caen bien y saben. No buscan desap
 
 # OPINIONES
 ### MÓDULO 1
-El recu a veces es mas facil que la 1er fecha, si querés subir nota podes darlo y te queda la nota más alta (por las dudas preguntar si lo siguen haciendo así)  <br>
-Creo q Cesar tiene una obsación con los palindromos... por las dudas siempre estudiaría como hacerlo, y otras funciones como:  <br>
+El recu a veces es más fácil que la 1er fecha, si querés subir nota podes darlo y te queda la nota más alta (por las dudas preguntar si lo siguen haciendo así)  <br>
+Creo q Cesar tiene una obseción con los palindromos... por las dudas siempre estudiaría como hacerlo, y otras funciones como:  <br>
 - Quitar espacios innecesarios del comienzo de una frase  <br>
 - Poner primeras letras en mayúsculas   <br>
 - Pasar todo a mayúscula / minúscula  <br>
