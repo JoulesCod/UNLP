@@ -38,6 +38,6 @@ https://www.youtube.com/@unlpprogramacion2672
 - Ayudante: Luciano --> ??
 <br>
 Si estas solo en tu grupo (generalmente no se permite pero puede pasar) no tenes que hacer la parte teórica, ya que su único propósito es ver que los dos integrantes entienden lo que se hizo en el código => tenes media hr mas para terminar el parcial <br>
-
+<br>
 <img width="320" height="250" alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJtYWpnenRkZzV0NGE4cm5vOTdxaTR5dzk2NWk5djk4c2UzYmhsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sOBHylucKL0BX3C5yA/giphy.gif" />
 esta materia se pasa super rápido, al ser tres módulos el tiempo vuela
