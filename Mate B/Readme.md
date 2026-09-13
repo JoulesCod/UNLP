@@ -1,9 +1,9 @@
-Estudiá en las vacas de invierno... No es en realidad recontra dificil pero para mí el primér módulo fue un montón, mucho nuevo y poco tiempo. <br>
+Estudiá en las vacas de invierno... No es en realidad recontra dificil pero para mí el primer módulo fue un montón, mucho nuevo y poco tiempo. <br>
 Mi Mate Favorito ❤️❤️❤️ <br>
 
-más que dificil son muchos contenidos <br>
+más que difícil son muchos contenidos <br>
 hay que prestar mucha atención a errores boludos  <br>
-Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate C es lo primero q se ve,. <br>
+Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate C es lo primero q se ve. <br>
 
 > [!IMPORTANT]
 > jefa de cátedra: Dra. Viviana Angélica Costa <br>
