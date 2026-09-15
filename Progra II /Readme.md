@@ -1,6 +1,6 @@
 > [!WARNING]
 > SABÍAS QUE CONFIARTE EN EL PARCIAL DE PASCAL AUMENTA UN 80% TU CHANSE DE DESAPROBAR? <br>
-> de las <mark><mark>81 personas = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL en 2025, aprobaron <mark><mark>27 personas = 13.5 grupos</mark></mark>. ==> Aprovo solo el 33.33% = 1/3 de la clase <br>
+> de las <mark><mark>81 personas = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL en 2025, aprobaron <mark><mark>27 personas = 13.5 grupos</mark></mark>. ==> Aprobó solo el 33.33% = 1/3 de la clase <br>
 
 > [!IMPORTANT]
 > EVAUACIONES EN COMPUTADORA <br>
