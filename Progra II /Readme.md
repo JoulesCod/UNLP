@@ -1,5 +1,5 @@
 > [!WARNING]
-> SABÍAS QUE CONFIARTE EN EL PARCIAL DE PASCAL AUMENTE UN 80% TU CHANSE DE DESAPROBAR? <br>
+> SABÍAS QUE CONFIARTE EN EL PARCIAL DE PASCAL AUMENTA UN 80% TU CHANSE DE DESAPROBAR? <br>
 > de las <mark><mark>81 personas = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL, solo  <mark><mark>27 personas = 13.5 grupos</mark></mark> aprobaron. <br>
 
 > [!IMPORTANT]
