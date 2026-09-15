@@ -8,6 +8,7 @@
 - G28 (2025): vkiw6dh
 - G26 (2026) : 66xk2vrp / n5b32rrf
 
+comisión q elegí:
 # Comisión G22 - Palacio Luis Emilio
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
 - JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar
@@ -50,7 +51,7 @@ Materias Correlativas: Matemática B, Física I <br>
 ---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
 # Comentario de alumnos que ya cursaron física 2
-- **Gulich** NO,
+- **Gulich** NO.
 - **Joaquin Mendoza** toma lo que da y los lab suben nota
 - **Forte** hace parciales como los viejos.
 - LA PRÁCTICA NADA Q VER CON LOS PARCIALES, es más difícil (checkear con cada profe)
