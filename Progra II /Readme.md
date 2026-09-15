@@ -1,7 +1,7 @@
 > [!WARNING]
 > SABÍAS QUE CONFIARTE EN EL PARCIAL DE PASCAL AUMENTA UN 80% TU CHANSE DE DESAPROBAR? <br>
-> 2025: de las <mark><mark>81 personas = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL en 2025, aprobaron <mark><mark>27 personas = 13.5 grupos</mark></mark>.
->   ==> Aprobó solo el 33.33% = 1/3 de la clase <br>
+> 2025: de las <mark><mark>81 personas = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL en 2025, aprobaron <mark><mark>27 personas = 13.5 grupos</mark></mark>. <br>
+>.   ==> Aprobó solo el 33.33% = 1/3 de la clase <br>
 > 2026: 
 
 > [!IMPORTANT]
