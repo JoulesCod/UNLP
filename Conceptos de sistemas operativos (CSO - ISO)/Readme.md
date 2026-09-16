@@ -16,8 +16,6 @@ Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LIC <br>
   </ul>
 </details>
 
-Ejercicios: https://app.notion.com/p/Pr-ctica-1-3c3a3c3dbb468011a74fe90e8f8f7520?source=copy_link
-
 # Profes / cátedra
 TURNO MAÑANA <br>
 Me pongo una mano en el corazón cuando digo que no se les entiende nada... no se como hacen la verdad <br>
