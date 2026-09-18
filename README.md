@@ -186,7 +186,7 @@ Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio
 ## Contribuciones
 Si encontrás un error o querés agregar material, podés abrir un issue o enviar un pull request.
 
-> Tener en cuentas que muchos de los materiales estan hechos por mi (u otros alumnos) y pueden tener errores  <br>
+> Tener en cuenta que mucho del material está hecho por mi (u otros alumnos) y puede tener errores  <br>
 > Y los comentarios son opiniones propias basados en mi experiencia durante las cursadas <3
 
 <!-- ===================================================================================================================================================================== -->
