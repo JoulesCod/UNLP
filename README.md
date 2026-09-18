@@ -184,14 +184,22 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
 Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio para carreras de Informática e Ingeniería en Computación de la Universidad Nacional de La Plata (UNLP).
 
 ## Contenido
+<details>
+  <summary><b> view </b></summary>
+  <ul>
 - Arquitectura de Computadores
-- Programación en C
-- Java
-- Matemática
-- Física
-- Pascal
-- R
-
+    - Conceptos de sistemas operatios 
+    - Assembly 
+- Programación
+    - Lenguaje Pascal
+    - Lenguaje C
+    - Lenguaje Java
+    - R.info
+- Materias Base de Ingeniería 
+    - Matemática
+    - Física
+  </ul>
+</details>
 
 ## Contribuciones
 Si encontrás un error o querés agregar material, podés abrir un issue o enviar un pull request.
@@ -200,6 +208,7 @@ Si encontrás un error o querés agregar material, podés abrir un issue o envia
 
 <!-- ===================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================== -->
+---
 
 # IA
 <table>
