@@ -1,8 +1,5 @@
 # UNLP
-</p>
-won't upload all the activities I make, but you can find exams and summaries in the most organized possible way
-<p>
-(Por si no sabés manejar bien github, si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
+won't upload all the activities I make, but you can find exams and summaries in the most organized possible way <br>
 
 ## SI GITHUB ANDA MAL:
 <details>
@@ -180,6 +177,26 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
   </tr>
 </table>
 
+<!-- ===================================================================================================================================================================== -->
+<!-- ===================================================================================================================================================================== -->
+
+# Material de estudio UNLP
+Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio para carreras de Informática e Ingeniería en Computación de la Universidad Nacional de La Plata (UNLP).
+
+## Contenido
+- Arquitectura de Computadores
+- Programación en C
+- Java
+- Matemática
+- Física
+- Pascal
+- R
+
+
+## Contribuciones
+Si encontrás un error o querés agregar material, podés abrir un issue o enviar un pull request.
+
+> Tener en cuentas que muchos de los materiales estan hechos por mi (u otros alumnos) y pueden tener errores y que los comentarios son opiniones propias basados en mi experiencia durante las cursadas <3
 
 <!-- ===================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================== -->
