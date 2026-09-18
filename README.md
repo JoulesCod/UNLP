@@ -183,23 +183,31 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
 # Material de estudio UNLP
 Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio para carreras de Informática e Ingeniería en Computación de la Universidad Nacional de La Plata (UNLP).
 
-## Contenido
+## Materias y contenidos
+
+Este repositorio contiene material de estudio de Arquitectura de Computadores,
+Programación y materias base de Ingeniería de la UNLP.
+
 <details>
-  <summary><b> view </b></summary>
-  <ul>
-- Arquitectura de Computadores <br>
------ Conceptos de sistemas operatios <br>
------ Assembly  <br>
-- Programación <br>
------ Lenguaje Pascal  <br>
------ Lenguaje C  <br>
------ Lenguaje Java  <br>
------ R.info  <br>
-- Materias Base de Ingeniería   <br>
------ Matemática  <br>
------ Física  <br>
------ Electro (próximamente)
-  </ul>
+  <summary><strong>Ver materias</strong></summary>
+
+### Arquitectura de Computadores
+
+- Conceptos de sistemas operativos
+- Assembly
+
+### Programación
+
+- Lenguaje Pascal
+- Lenguaje C
+- Lenguaje Java
+- R
+
+### Materias base de Ingeniería
+
+- Matemática
+- Física
+
 </details>
 
 ## Contribuciones
