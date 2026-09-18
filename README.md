@@ -188,16 +188,17 @@ Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio
   <summary><b> view </b></summary>
   <ul>
 - Arquitectura de Computadores <br>
-    - Conceptos de sistemas operatios <br>
-    - Assembly  <br>
+----- Conceptos de sistemas operatios <br>
+----- Assembly  <br>
 - Programación <br>
-    - Lenguaje Pascal  <br>
-    - Lenguaje C  <br>
-    - Lenguaje Java  <br>
-    - R.info  <br>
+----- Lenguaje Pascal  <br>
+----- Lenguaje C  <br>
+----- Lenguaje Java  <br>
+----- R.info  <br>
 - Materias Base de Ingeniería   <br>
-    - Matemática  <br>
-    - Física  <br>
+----- Matemática  <br>
+----- Física  <br>
+----- Electro (próximamente)
   </ul>
 </details>
 
