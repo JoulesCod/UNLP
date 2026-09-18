@@ -187,24 +187,25 @@ Repositorio con resúmenes, parciales, finales, ejercicios y material de estudio
 <details>
   <summary><b> view </b></summary>
   <ul>
-- Arquitectura de Computadores
-    - Conceptos de sistemas operatios 
-    - Assembly 
-- Programación
-    - Lenguaje Pascal
-    - Lenguaje C
-    - Lenguaje Java
-    - R.info
-- Materias Base de Ingeniería 
-    - Matemática
-    - Física
+- Arquitectura de Computadores <br>
+    - Conceptos de sistemas operatios <br>
+    - Assembly  <br>
+- Programación <br>
+    - Lenguaje Pascal  <br>
+    - Lenguaje C  <br>
+    - Lenguaje Java  <br>
+    - R.info  <br>
+- Materias Base de Ingeniería   <br>
+    - Matemática  <br>
+    - Física  <br>
   </ul>
 </details>
 
 ## Contribuciones
 Si encontrás un error o querés agregar material, podés abrir un issue o enviar un pull request.
 
-> Tener en cuentas que muchos de los materiales estan hechos por mi (u otros alumnos) y pueden tener errores y que los comentarios son opiniones propias basados en mi experiencia durante las cursadas <3
+> Tener en cuentas que muchos de los materiales estan hechos por mi (u otros alumnos) y pueden tener errores  <br>
+> Y los comentarios son opiniones propias basados en mi experiencia durante las cursadas <3
 
 <!-- ===================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================== -->
