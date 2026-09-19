@@ -37,7 +37,7 @@ https://www.youtube.com/@unlpprogramacion2672
 - Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no
 - Ayudante: Mariano --> ANTE LA DUDA, PREGUNTALE A MARIANO #MARIANOFOREVER
 - Ayudante: Gio  --> de las mas exigentes
-- Ayudante: Yani --> de las mas exigentes
+- Ayudante: Yani --> menos exigente
 - ~~Ayudante: Martu (no more) --> exigente~~
 - Ayudante: Oli --> Regularmente exigente
 - Ayudante: Juli --> Menos exigente en las correciones 
