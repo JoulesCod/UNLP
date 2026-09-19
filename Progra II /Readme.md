@@ -36,12 +36,12 @@ https://www.youtube.com/@unlpprogramacion2672
 - Teaoría: Alejandro --> la teoría de las clases es un repaso del video que le corresponda, asi q miren los videos antes. Ale es muy bueno, por eso no corrige... (los finales si)
 - Jtp: Leandro --> mmmm, exigente, es el que decide la nota y la definitiva de si aprobás o no
 - Ayudante: Mariano --> ANTE LA DUDA, PREGUNTALE A MARIANO #MARIANOFOREVER
-- Ayudante: Gio  --> de las mas exigentes
+- Ayudante: Gio  --> mas exigente
 - Ayudante: Yani --> menos exigente
 - ~~Ayudante: Martu (no more) --> exigente~~
 - Ayudante: Oli --> Regularmente exigente
 - Ayudante: Juli --> menos exigente
-- Ayudante: Luciano --> ??
+- Ayudante: Luciano --> menos exigente
 <br>
 Si estas solo en tu grupo (generalmente no se permite pero puede pasar) no tenes que hacer la parte teórica, ya que su único propósito es ver que los dos integrantes entienden lo que se hizo en el código => tenes media hr mas para terminar el parcial <br>
 <br>
