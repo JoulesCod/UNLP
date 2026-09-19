@@ -40,7 +40,7 @@ https://www.youtube.com/@unlpprogramacion2672
 - Ayudante: Yani --> menos exigente
 - ~~Ayudante: Martu (no more) --> exigente~~
 - Ayudante: Oli --> Regularmente exigente
-- Ayudante: Juli --> Menos exigente en las correciones 
+- Ayudante: Juli --> menos exigente
 - Ayudante: Luciano --> ??
 <br>
 Si estas solo en tu grupo (generalmente no se permite pero puede pasar) no tenes que hacer la parte teórica, ya que su único propósito es ver que los dos integrantes entienden lo que se hizo en el código => tenes media hr mas para terminar el parcial <br>
