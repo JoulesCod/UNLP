@@ -2,7 +2,7 @@
 > SABÍAS QUE CONFIARTE EN EL PARCIAL DE PASCAL AUMENTA UN 70% TU CHANCE DE DESAPROBAR? <br>
 > **2025**: de los <mark><mark>81 estudiantes = 41 grupos</mark></mark> que rindieron la 1er fecha de PASCAL, aprobaron <mark><mark>**27 personas = 13.5 grupos**</mark></mark>. <br>
 > ---------- Aprobó el 33.33% = 1/3 de la clase <br>
-> **2026**: <mark><mark>74 estudiantes = 37 grupos</mark></mark>, rindieron la 1er fecha de pasca, aprobaron <mark><mark>**7 grupos = 14 personas**</mark></mark> <br>
+> **2026**: <mark><mark>74 estudiantes = 37 grupos</mark></mark>, rindieron la 1er fecha de pasca, aprobaron <mark><mark>**14 personas = 7 grupos**</mark></mark> <br>
 > ---------- Aprobó el 18.9%, menos de 1/5 de de la clase <br>
 
 > [!IMPORTANT]
