@@ -11,7 +11,7 @@
 comisión q elegí:
 # Comisión G22 - Palacio Luis Emilio
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
-- JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar
+- JTP: Ing. Eduardo Grumel --> egrumel@ciop.unlp.edu.ar / eduardo.grumel@ing.unlp.edu.ar
 - Ayudantes:
   -  Ing. Eduardo Amoreo
   -  Lic. Leonela Novarino
