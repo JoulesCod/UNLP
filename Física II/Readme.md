@@ -47,6 +47,8 @@ Materias Correlativas: Matemática B, Física I <br>
 ### Videos Andrea Paola: 
 - https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
 
+# OTRAS COMISIONES 
+- G26 - Damián Bellante: adhiere a paros docentes
 
 ---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
