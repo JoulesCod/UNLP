@@ -49,7 +49,8 @@ Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
 # OTRAS COMISIONES 
-- G26 - Damián Bellante: adhiere a paros docentes
+- G26 - Damián Bellante: adhiere a paros docentes, da alguna clase virtual
+
 
 ---
 (todo lo de acá abajo lo subí antes de empezar la cursada)
