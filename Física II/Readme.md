@@ -8,6 +8,25 @@
 - G28 (2025): vkiw6dh
 - G26 (2026) : 66xk2vrp / n5b32rrf
 
+# Videos Explicativos 
+### De un profe particular de física que explica copado (ingeniero de la UNLP):
+- https://www.focusce.com.ar/materias/fisica 
+
+### Mosquera-Taylor
+- Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
+- Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
+
+### Clases grabadas por Damián Gulich: 
+- https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
+
+### Videos E. Vilche 2023: 
+- https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
+### Clases grabadas por Aníbal Medina 2020: 
+- https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
+### Videos Andrea Paola: 
+- https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
+
+---
 comisión q elegí:
 # Comisión G22 - Palacio Luis Emilio
 - Profesor: Ing. Luis Emilio Palacio --> luis.palacio@ing.unlp.edu.ar
@@ -28,24 +47,6 @@ Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 
 Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
-
-# Videos Explicativos 
-### De un profe particular de física que explica copado (ingeniero de la UNLP):
-- https://www.focusce.com.ar/materias/fisica 
-
-### Mosquera-Taylor
-- Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
-- Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
-
-### Clases grabadas por Damián Gulich: 
-- https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
-
-### Videos E. Vilche 2023: 
-- https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
-### Clases grabadas por Aníbal Medina 2020: 
-- https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
-### Videos Andrea Paola: 
-- https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
 
 # OTRAS COMISIONES 
 - G26 - Damián Bellante: adhiere a paros docentes
