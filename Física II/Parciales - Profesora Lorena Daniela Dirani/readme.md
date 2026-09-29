@@ -1,3 +1,5 @@
+Email: lorena.dirani@ing.unlp.edu.ar
+
 <details>
   <summary><b> distinguir parciales de Dirani </b></summary>
   <ul>
