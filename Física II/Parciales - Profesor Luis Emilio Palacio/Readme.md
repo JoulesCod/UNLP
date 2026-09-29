@@ -13,5 +13,7 @@ Grupo de Palacio en el 2022: G23 <br>
 <img width="603" height="62" alt="image" src="https://github.com/user-attachments/assets/64348722-36d2-46bd-b232-54fcfa07f890" />
 <br> <br>
 <img width="405" height="56" alt="image" src="https://github.com/user-attachments/assets/0205b4f9-807b-461a-854c-94fc4dd7f0bd" />
+<img width="736" height="126" alt="image" src="https://github.com/user-attachments/assets/f0718b80-2145-4334-9397-86626ae0920d" />
+
   </ul>
 </details>
