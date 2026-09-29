@@ -12,3 +12,10 @@ email: gustavo.forte@ing.unlp.edu.ar
 
   </ul>
 </details>
+
+Grupo
+1s 2025: G31
+2s 2025: G22
+
+1s 2026: G31
+2s 2026: G27
