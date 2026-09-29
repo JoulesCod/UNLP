@@ -9,3 +9,10 @@ Email: lorena.dirani@ing.unlp.edu.ar
 
   </ul>
 </details>
+<br>
+Grupo de Dirani <br>
+1s 2025: G30 <br>
+2s 2025: G26 <br>
+<br>
+1s 2026: G30 <br>
+2s 2026: G26 <br>
