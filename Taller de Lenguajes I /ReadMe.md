@@ -4,7 +4,8 @@
 > ⭐⭐⭐ Si rendiste el final de progra 2 DESPUÉS de haberte inscripto en la materia (en febrero), para cargarte la promoción vas a tener que inscribirte a un final (ideal en el de agosto) y así te pueden subir la nota. Cosas del SIU que no permiten hacerlo de otra manera.
 
 >[!IMPORTANT]
-> E-mail: tallerleng1@gmail.com
+> E-mail: tallerleng1@gmail.com <br>
+> Los parciales que conseguí son oro, apareciendo <3
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser fácil, nada que no haya aparecido en la práctica - <br>
