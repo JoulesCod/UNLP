@@ -5,7 +5,7 @@
 
 >[!IMPORTANT]
 > E-mail: tallerleng1@gmail.com <br>
-> Los parciales que conseguí son oro, apareciendo <3
+> Los parciales que conseguí son oro, aparecienlos <3
 
 ### NO CONFÍEN EN CESAR! <br>
 Cesar: - tranqui chicos el parcial va a ser fácil, nada que no haya aparecido en la práctica - <br>
