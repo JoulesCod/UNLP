@@ -17,8 +17,7 @@
 ### My comments
 - dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
 - memorizar muchos teoremas
-- me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas.
-- file:///C:/Users/Juliana/Downloads/WhatsApp%20Ptt%202026-10-01%20at%2010.39.17%20(mp3cut.net).mp3
+- me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas. file:///C:/Users/Juliana/Downloads/WhatsApp%20Ptt%202026-10-01%20at%2010.39.17%20(mp3cut.net).mp3
 
 
 
