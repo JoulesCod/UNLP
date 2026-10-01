@@ -8,6 +8,14 @@
 - en la pag de cátedras hay parciales resueltos
 - Muchos temas poco tiempo
 
+# Libro y mas Info: 
+https://sedici.unlp.edu.ar/handle/10915/149055 <br>
+classroom G4: v7sdi7fq <br>
+
+# FECHAS ❀ 2do cuatri 2026 ❀
+<img width="550" height="211" alt="image" src="https://github.com/user-attachments/assets/eb563cca-9c93-42e6-83e4-58bb53475d1f" />
+  
+---
 # Stalkeando profes (para ver en que grupo me inscribo)
 ÚNICOS GRUPOS POSIBLES POR HORARIO (para mí): <br>
 <img width="720" height="180" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
@@ -27,10 +35,3 @@ Comentarios generales comisión <br>
 .... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema. <br>
 
 CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE LOS PROFESORES!!! <br>
-
-# Libro y mas Info: 
-https://sedici.unlp.edu.ar/handle/10915/149055 <br>
-classroom G4: v7sdi7fq <br>
-
-# FECHAS ❀ 2do cuatri 2026 ❀
-<img width="550" height="211" alt="image" src="https://github.com/user-attachments/assets/eb563cca-9c93-42e6-83e4-58bb53475d1f" />
