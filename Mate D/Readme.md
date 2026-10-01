@@ -16,6 +16,7 @@ classroom G4: v7sdi7fq <br>
 <img width="550" height="211" alt="image" src="https://github.com/user-attachments/assets/eb563cca-9c93-42e6-83e4-58bb53475d1f" />
   
 ---
+---
 # Stalkeando profes (para ver en que grupo me inscribo)
 ÚNICOS GRUPOS POSIBLES POR HORARIO (para mí): <br>
 <img width="720" height="180" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
