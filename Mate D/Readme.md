@@ -3,15 +3,21 @@
 > E-mail: matematicad@ing.unlp.edu.ar <br>
 > pag: https://www1.ing.unlp.edu.ar/catedras/F1306/ <br>
 
-# Comentarios de personas que ya hicieron la materia:
+> [!WARNING]
+> Justificaciones escritas extensas <br>
+> no te corrigen tus profes, sino el jefe de cátedra, la jtp y unos random mas.
+
+
+### Comentarios de personas que ya hicieron la materia:
 - En la pag de cátedras hay parciales resueltos y finales
 - Todo super bien informado en la cátedra
 - Muchos temas poco tiempo
 - los temas son bastante mecánicos
 
-# My comments
+### My comments
 - dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
-- memorizar muchos teoremas  
+- memorizar muchos teoremas
+- me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas. 
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055 <br>
