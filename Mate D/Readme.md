@@ -4,9 +4,14 @@
 > pag: https://www1.ing.unlp.edu.ar/catedras/F1306/ <br>
 
 # Comentarios de personas que ya hicieron la materia:
-- los temas son bastante mecánicos 
-- en la pag de cátedras hay parciales resueltos
+- En la pag de cátedras hay parciales resueltos y finales
+- Todo super bien informado en la cátedra
 - Muchos temas poco tiempo
+- los temas son bastante mecánicos
+
+# My comments
+- dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
+- memorizar muchos teoremas  
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055 <br>
