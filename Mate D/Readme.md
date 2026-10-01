@@ -5,7 +5,7 @@
 
 > [!WARNING]
 > Justificaciones escritas extensas <br>
-> no te corrigen tus profes, sino el jefe de cátedra, la jtp y unos random mas.
+> no sabés quien te corrige, jefe de cátedra, la jtp y los profes de distintas comisiones random.
 
 
 ### Comentarios de personas que ya hicieron la materia:
@@ -17,7 +17,10 @@
 ### My comments
 - dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
 - memorizar muchos teoremas
-- me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas. 
+- me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas.
+- file:///C:/Users/Juliana/Downloads/WhatsApp%20Ptt%202026-10-01%20at%2010.39.17%20(mp3cut.net).mp3
+
+
 
 # Libro y mas Info: 
 https://sedici.unlp.edu.ar/handle/10915/149055 <br>
