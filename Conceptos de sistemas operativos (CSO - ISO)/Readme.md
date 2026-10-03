@@ -1,6 +1,7 @@
 >[!WARNING]
 > Parciales caen sábados <br>
 > Materia junto a Licenciatura en sistemas <br>
+> Somos como 400 alumnos...
 
 >[!IMPORTANT]
 > E-mail consultas: iso@info.unlp.edu.ar <br>
