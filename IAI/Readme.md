@@ -1,4 +1,4 @@
-Materia introductoria IAI, o tambien lamada... AYAYAY (AIAIAI) 💃
+Materia introductoria IAI, o tambien llamada... AYAYAY (AIAIAI) 💃
 
 lenguaje (?): R-info
 
