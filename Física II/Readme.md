@@ -42,6 +42,15 @@ Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
+### OPINIONES COMISIÓN
+- Leonela explica super bien
+- Los ingenieros explican medio pesado y hay veces que se van por las ramas, yo por lo menos si no habia leído antes el tema no entandía nada de la clase
+- Como esta comisión esta solo durante el segundo cuatri, si recursas vas a tener que anotarte con otro profesor
+- Realimente no va a poner en el parcial ningun ejercicio que no haya ya aparecido en algúna clase o material que hayan enviado
+- Todos super buena gente, a Palacio se le nota la pación y cuanto mas se entusiasma mas por las ramas se va
+- Si preguntas medio que te da pistas de que puede aparecer en el parcial
+- Algún ejercicio que va a aparecer similar en el parcial lo resuelve en la clase anterior 
+
 # OTRAS COMISIONES 
 - G26 - Damián Bellante: adhiere a paros docentes, da alguna clase virtual
 
