@@ -17,3 +17,5 @@ Grupo de Palacio en el 2022: G23 <br>
 
   </ul>
 </details>
+
+Para practicar mas, hacer los ejercicios que los profes mandan resueltos de las prácticas
