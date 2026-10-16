@@ -50,7 +50,7 @@ Materias Correlativas: Matemática B, Física I <br>
 - Todos super buena gente, a Palacio se le nota la pación y cuanto mas se entusiasma mas por las ramas se va
 - Si preguntas medio que te da pistas de que puede aparecer en el parcial
 - Algún ejercicio que va a aparecer similar en el parcial lo resuelve en la clase anterior
-- Intentar aprobar en la 1er fecha que realmente es facl, no toma nada que no haya tirado una pista de que toma 
+- Intentar aprobar en la 1er fecha que realmente es fácil, no toma nada que no haya tirado una pista de que toma 
 
 # OTRAS COMISIONES 
 - G26 - Damián Bellante: adhiere a paros docentes, da alguna clase virtual
