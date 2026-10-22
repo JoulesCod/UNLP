@@ -38,8 +38,8 @@ classroom G4: v7sdi7fq <br>
 ### COMENTARIOS DE PROFES GRUPO 4:
 | comentarios de gente que ya la cursó | MI EXPERIENCIA | 
 | ------------------------------------ | -------------- |
-|.... 🐉 Excelente predisposición | NO ESTOY DE ACUERDO - se te ríe de tus errores |
-|.... 🐉 profe buena, explica claro y con colores | - no tiene ganas de explicar, siempre se atrasa |
+|.... 🐉 Excelente predisposición | NO ESTOY DE ACUERDO <br> se te ríe de tus errores |
+|.... 🐉 profe buena, explica claro y con colores | no tiene ganas de explicar, siempre se atrasa |
 |.... 🐉 Muy buena onda <br> | NO |
 |.... 🚩 Toma lista (pero no por asistencia obligatoria) <br> |       |
 JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
