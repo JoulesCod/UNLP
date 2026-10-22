@@ -37,11 +37,12 @@ classroom G4: v7sdi7fq <br>
 
 ### COMENTARIOS DE PROFES GRUPO 4:
 PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
-.... 🐉 Excelente predisposición <br>
-.... 🐉 profe buena, explica claro y con colores <br>
-.... 🐉 Muy buena onda <br>
+.... 🐉 Excelente predisposición <br> NO ESTOY DE ACUERDO - se te ríe de tus errores 
+.... 🐉 profe buena, explica claro y con colores <br> - no tiene ganas de explicar, siempre se atrasa
+.... 🐉 Muy buena onda <br> - NO
 .... 🚩 Toma lista (pero no por asistencia obligatoria) <br>
 JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
+A MI NO ME GUSTÓ LA COMISIÓN 
 
 ### COMENTARIOS DE PROFES GRUPO 3:
 PT: Gastón Argeri ---- JTP: Luis Gómez ---- AD: Dolores Corva ---- AA: Juan Ruggiero <br>
