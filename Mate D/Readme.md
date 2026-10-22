@@ -42,6 +42,7 @@ classroom G4: v7sdi7fq <br>
 |.... 🐉 profe buena, explica claro y con colores | no tiene ganas de explicar, siempre se atrasa |
 |.... 🐉 Muy buena onda <br> | NO |
 |.... 🚩 Toma lista (pero no por asistencia obligatoria) <br> |       |
+
 JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
 A MI NO ME GUSTÓ LA COMISIÓN 
 
