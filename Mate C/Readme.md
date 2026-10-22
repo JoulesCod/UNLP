@@ -20,10 +20,10 @@ El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el p
 # COMISIÓN MC4 
 Los profes caen muy bien, pero te hacen sufrír
 ### PROFES
-• ANDREA (profe adjunta, la de las teorias), se va por las ramas, no se le entiende la letra, es desordenada en el pizarrón, igual la quiero, es super buena onda y divertida, NO ES EXIGENTE EN LA CORRECIÓN
-• LUCA (Ayudante graduado (?), jtp), le gusta verte sufrir, explica más directo que la profe, es medio malo... CORRIGE EXIGENTE
-• CAMILO (Ayudante graduado (?)), es hippy, no es malo explicando, NO CORRIGE EXIGENTE
-• JUAN (Ayudante graduado), es el que no tiene cara de Juan, PERSONALMENTE el que mas me gusta como explica, para algunos se explaya demaciado, para mi te pone bien en contexto y marca la justificación. CORRIGE UN POCO EXIGENTE
+- ANDREA (profe adjunta, la de las teorias), se va por las ramas, no se le entiende la letra, es desordenada en el pizarrón, igual la quiero, es super buena onda y divertida, NO ES EXIGENTE EN LA CORRECIÓN
+-  LUCA (Ayudante graduado (?), jtp), le gusta verte sufrir, explica más directo que la profe, es medio malo... CORRIGE EXIGENTE
+-   CAMILO (Ayudante graduado (?)), es hippy, no es malo explicando, NO CORRIGE EXIGENTE
+-    JUAN (Ayudante graduado), es el que no tiene cara de Juan, PERSONALMENTE el que mas me gusta como explica, para algunos se explaya demaciado, para mi te pone bien en contexto y marca la justificación. CORRIGE UN POCO EXIGENTE
 
 OTROS COMENTARIOS
 - La profesora (ANDREA) da clases en informática así q suele llegar tarde
@@ -38,7 +38,8 @@ Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y
 La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mauinaste vos mismo esta ok (este no es un comentario de odiada, yo promocione la materia) <br>
 
 OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
-pruebas: <img "360" height="800" alt="IMG-20260811-WA0012" src="https://github.com/user-attachments/assets/fef52042-e5bc-4626-a19c-8d49e98491b1" /> pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. él hace los parciales.
+pruebas: <img "360" height="800" alt="IMG-20260811-WA0012" src="https://github.com/user-attachments/assets/fef52042-e5bc-4626-a19c-8d49e98491b1" /> 
+pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. él hace los parciales.
 
 
 ## VALOR PUNTOS (MC4) 2026
