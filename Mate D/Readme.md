@@ -44,7 +44,7 @@ classroom G4: v7sdi7fq <br>
 |.... 🚩 Toma lista (pero no por asistencia obligatoria) <br> |       |
 
 JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
-A MI NO ME GUSTÓ LA COMISIÓN 
+A MI NO ME GUSTÓ LA COMISIÓN, el único bueno es el ayudante Fran
 
 ### COMENTARIOS DE PROFES GRUPO 3:
 PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
