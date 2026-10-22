@@ -20,7 +20,7 @@ El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el p
 # COMISIÓN MC4 
 Los profes caen muy bien, pero te hacen sufrír
 
-## VALOR PUNTOS (MC4) 
+## VALOR PUNTOS (MC4) 2026
 MÓDULO 1 --> son tres bloques: pto 1y2, 3y4, 5 --> hay que tener el 60% bien de cada uno
 <img width="1017" height="118" alt="Captura de pantalla 2026-07-30 165738" src="https://github.com/user-attachments/assets/f7e82501-e5db-4426-aa1d-86037423c39b" />
 MÓDULO 2 --> hay que tener el 60% bien de cada punto 
