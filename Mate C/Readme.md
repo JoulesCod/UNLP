@@ -38,8 +38,17 @@ Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y
 La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mauinaste vos mismo esta ok (este no es un comentario de odiada, yo promocione la materia) <br>
 
 OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
-pruebas: <img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/9604c207-77bb-4ac2-83b4-e306ca0a2690" />
+<table>
+<tr> 
+  <td valign="midle">
+pruebas: <br>
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/9604c207-77bb-4ac2-83b4-e306ca0a2690" />
+  </td>
+  <td valign="midle">
 pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. él hace los parciales.
+  </td>
+</tr>
+</table>
 
 
 ## VALOR PUNTOS (MC4) 2026
