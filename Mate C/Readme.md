@@ -35,7 +35,7 @@ OTROS COMENTARIOS
 recomendada?: NO... <br>
 Desordenada, tardan en dar las notas de los parciales (mas de 2 semanas los recus), la profe de teoría explica todo mezclado, <br>
 Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
-La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mauinaste vos mismo esta ok (este no es un comentario de odiada, yo promocione la materia) <br>
+La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que maquinaste vos mismo esta ok (este no es un comentario de odiada, promocione la materia, pero no la disfruté, y no porque fuera dificil, los parciales son todos iguales) <br>
 
 ## VALOR PUNTOS (MC4) 2026
 MÓDULO 1 --> son tres bloques: pto 1y2, 3y4, 5 --> hay que tener el 60% bien de cada uno
