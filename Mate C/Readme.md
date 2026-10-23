@@ -38,7 +38,7 @@ Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y
 La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mauinaste vos mismo esta ok (este no es un comentario de odiada, yo promocione la materia) <br>
 
 OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
-pruebas: <img "360" height="800" alt="IMG-20260811-WA0012" src="https://github.com/user-attachments/assets/fef52042-e5bc-4626-a19c-8d49e98491b1" /> 
+pruebas: <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/9604c207-77bb-4ac2-83b4-e306ca0a2690" />
 pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. él hace los parciales.
 
 
