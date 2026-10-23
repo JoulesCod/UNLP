@@ -33,7 +33,7 @@ OTROS COMENTARIOS
 - En el SIU a los de computación nos dan re poco cupo para este horario de las 12, muy seguro tengan que despues pedir el cambio a la comisión
 
 recomendada?: NO... <br>
-Desordenada, tardan en dar parciales, la profe de teoría explica todo mezclado, <br>
+Desordenada, tardan en dar las notas de los parciales (mas de 2 semanas los recus), la profe de teoría explica todo mezclado, <br>
 Los parcialitos los anuncian de una clase a la otra, sin consulta en el medio, y se ponen creativos <br>
 La realidad es que ta vas a terminar enseñando vos mismo la matera, y vas a comsultar si lo que mauinaste vos mismo esta ok (este no es un comentario de odiada, yo promocione la materia) <br>
 
