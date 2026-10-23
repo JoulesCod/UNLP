@@ -44,8 +44,10 @@ OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
 pruebas: <br>
 <img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/9604c207-77bb-4ac2-83b4-e306ca0a2690" />
   </td>
-  <td valign="midle">
-pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. él hace los parciales.
+  <td valign="left">
+    pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), <br>
+    como puede hacer lo que se le canta mete parcialitos por todos lados y varias oportunidades para promocionar. <br>
+    él hace los parciales.
   </td>
 </tr>
 </table>
