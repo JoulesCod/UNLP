@@ -49,7 +49,7 @@ MÓDULO 2 --> hay que tener el 60% bien de cada punto
 - El 4 y 5 las personas que entregaron las tereas (no obligatorias, pero largas) que mandaron por el classroom. --> en dos ocaciones nos dijeron que si entregabamos unas actividades del libro nos daban una estrellita, unos días antes del parcial nos avisan que las personas que entregamos alguna (o las dos) tarea podíamos hacer el parcialito de del "tema" que le correspondía. De esta forma solo tieenen que corregir 20 parciales y no de los 100 pibes q somos en clase. 
 
 voy a averiguar que onda la comisión MC8 que es la otra que abren para este horario (y para los pobres de computación que nos coinciden los horarios con todo) <br>
-OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
+COMISIÓN QUE ME HABLARON BIEN: MC8 <br>
 <table>
 <tr> 
   <td valign="midle">
