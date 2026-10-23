@@ -54,7 +54,7 @@ OTRA COMISIÓN QUE ME HABLARON BIEN: Mc 8 <br>
 <tr> 
   <td valign="midle">
 pruebas: <br>
-<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/9604c207-77bb-4ac2-83b4-e306ca0a2690" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/d96512fe-c839-4aaf-94fa-130766bf61ff" />
   </td>
   <td valign="left">
     pensar que el primer día como llegó tarde le habló mal... (es el jefe de cátedra), <br>
