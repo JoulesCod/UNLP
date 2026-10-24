@@ -6,4 +6,401 @@ ORG 2000h
   MOV AL, 13
   INT 7    
   INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+  MOV BX, OFFSET msj 
+  MOV AL, 13
+  INT 7    
+  INT 0 
+
+
 END
