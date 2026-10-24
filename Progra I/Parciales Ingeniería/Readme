@@ -1,6 +1,11 @@
 La clave para aprobar es hacer bien la consigna 
-
 Los módulos son copiar y pegar los de siempre 
 
+TIPS
 - No hacer una lista extra para guardar los datos si no lo pide 
-- 
+- si hay que guardar en la estructura (Arreglo o lista) la info de, por ej, nombre, género y dni, y en otra estructura guardar solo nombre y género, son DOS REGISTROS DIFERENTES 
+- NO OLVIDARSE DE VACIAR LAS LISTAS AL FINAL 
+
+- Saber sacar un máximo 
+- Obtener los dos máximos
+- Palabra capicúa 
