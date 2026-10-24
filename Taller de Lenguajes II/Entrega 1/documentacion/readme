@@ -1,0 +1,206 @@
+CÓDIGO MERMAID
+
+---
+config:
+  theme: redux-dark-color
+---
+classDiagram
+    class PlataformaStreaming {
+        - String nombrePlataforma
+        - LocalDate fechaLanzamiento
+        - List~UsuarioConsumidor~ usuarios
+        - Catalogo catalogo
+        + agregarUsuario(UsuarioConsumidor u) void
+        + publicarContenido(Contenido c) void
+        + mostrarCatalogo() void
+        + mostrarUsuarios() void
+    }
+    class Catalogo{
+        - List~Contenido~ contenidos
+        + publicarContenido(Contenido c) void
+        + getContenido(String nombre) Contenido
+        + getContenidoMasReproducido() Contenido
+        + getContenidosArtista(String creador) List~Contenido~
+        + filtrarPorGenero(Genero genero) List~Contenido~
+        + buscarContenido(String criterio) List~Contenido~
+        + mostrarCatalogo() void
+    }
+        class Reproductor{
+        + adelantar(int segundos, contenido c) void
+        + pausar(Contenido c): void
+        + reproducirContenido(Contenido c, Plan p, int cant) void
+        + reproducirPublicidad() void
+    }
+
+    class UsuarioConsumidor { 
+        - String id
+        - String nombreUsuario
+        - String email
+        - LocalDate fechaInicioCuenta
+        - Plan plan
+        - Biblioteca biblioteca
+        - List~Reproduccion~ historial
+        + crearPlaylist(String nombre) Playlist
+        + marcarMeGusta(Contenido c) void
+        + reproducirContenido(Contenido c) void
+        + registrarEscucha(Contenido c) void
+        + agregarAPlaylist(Playlist p, Contenido c)
+        + getHistorial() List~Reproduccion~
+    }
+
+    class UsuarioCreador {
+        - List~Contenido~ contenidosPublicados
+        + publicarContenido(Contenido c, PlataformaStreaming p) void
+        + obtenerEstadisticas() String;
+        + getReproduccionesTotales() int
+        + getContenidoMasEscuchado() Contenido
+        + getCantidadMeGustaTotales() int
+        + getRecaudacionTotal() double
+    }
+
+    class Reproduccion {
+        - LocalDateTime fechaReproduccion
+        - Contenido contenidoAsociado
+    }
+
+    class Biblioteca{
+        - List~Playlist~ playlistsGenerales
+        - Playlist playlistMeGusta
+        + crearPlaylist(String nombre, UsuarioConsumidor creador) Playlist
+        + agregarAPlaylist(Playlist p, Contenido c) void
+        + marcarMeGusta(Contenido c) void
+        + eliminarPlaylist(Playlist p) void
+        + getPlaylist(String nombre) Playlist
+    }
+
+    class Contenido { <<abstract>>
+        - String id
+        - String nombre
+        - int duracionEnSegundos
+        - int cantReproducciones
+        - int cantMeGusta
+        - double recaudadoTotal 
+        - LocalDate fechaLanzamiento
+        - Genero genero
+        - UsuarioCreador creador
+        - int reproduccionesMujeres 
+        - int reproduccionesHombres         
+        + reproducirContenido()* void
+        + incrementarReproducciones() void
+        + incrementarMeGusta() void
+        + getGeneroPredominaOyentes() String
+    }
+    class Playlist {
+        - String id
+        - String nombre
+        - creador UsuarioConsumidor
+        - List~Contenido~ contenidos
+        + agregarContenido(Contenido c) void
+        + eliminarContenido(Contenido c) void
+        + getDuracionTotal() int
+    }
+    
+    class Cancion {
+        - String letra
+        - String invitado
+        - boolean esSingle
+        + reproducirContenido() void
+
+    }
+    class Album { 
+        - String id
+        - String nombre
+        - LocalDate fechaLanzamiento
+        - List~Cancion~ canciones
+        + agregarCancion(Cancion c) void
+        + getDuracionTotal() int
+    }
+
+    class Audiolibro {    
+        - String narrador
+        - String sinopsis
+        - int cantCapitulos  
+        + reproducirContenido() void
+    }
+
+    class Podcast{
+        - String id
+        - String nombre
+        - String descripcion
+        - List~EpisodioPodcast~ episodios
+        + agregarEpisodio(EpisodioPodcast e) void
+
+    }
+    class EpisodioPodcast {
+        - int numeroEpisodio
+        - String resumen
+        - String invitado
+        + reproducirContenido() void
+    }
+
+
+    class Plan { <<abstract>>
+        - String nombre
+        - double precioMensual
+        + puedeDescargar() boolean *
+        + tienePublicidad() boolean *
+    }
+    class PlanGratuito{
+        + puedeDescargar() boolean
+        + tienePublicidad() boolean 
+    }
+    class PlanPago {
+        - String tipo 
+        - LocalDateTime fechaInicio 
+        - LocalDateTime fechaVencimiento
+        + puedeDescargar() boolean 
+        + tienePublicidad() boolean 
+    }
+
+    class Genero { <<enumeration>> 
+        ROCK
+        POP
+        TRAP
+        HIP_HOP
+        CLASICOS
+        HISTORIA
+        CIENCIA
+        ENTRETENIMIENTO
+        TERROR
+        POLICIAL
+        POEMAS
+
+    }
+
+
+    PlataformaStreaming "1" *-- "*" UsuarioConsumidor
+    PlataformaStreaming "1" *-- "1" Catalogo
+    Catalogo "1" o-- "*" Contenido
+
+    UsuarioConsumidor <|-- UsuarioCreador
+    UsuarioConsumidor "1" -- "1" Plan 
+
+    UsuarioConsumidor "1" *-- "*" Reproduccion 
+    Reproduccion "*" -- "1" Contenido
+    UsuarioConsumidor "1" *-- "1" Biblioteca
+
+    Biblioteca "1" *-- "*" Playlist
+    Biblioteca "1" *-- "1" Playlist
+
+    Plan <|-- PlanGratuito 
+    Plan <|-- PlanPago 
+
+    UsuarioCreador "1" *-- "*" Contenido
+
+    Album "1" o-- "*" Cancion 
+
+    Playlist "*" o-- "*" Contenido 
+    Playlist "1" -- "1" UsuarioConsumidor
+
+    Podcast "1" o-- "*" EpisodioPodcast
+    
+    Contenido <|-- Cancion 
+    Contenido <|-- EpisodioPodcast
+    Contenido <|-- Audiolibro
+    Contenido "*" -- "1" UsuarioCreador 
+    Contenido "*" -- "1" Genero
