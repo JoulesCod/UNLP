@@ -5,6 +5,7 @@ TIPS
 - No hacer una lista extra para guardar los datos si no lo pide 
 - si hay que guardar en la estructura (Arreglo o lista) la info de, por ej, nombre, género y dni, y en otra estructura guardar solo nombre y género, son DOS REGISTROS DIFERENTES 
 - NO OLVIDARSE DE VACIAR LAS LISTAS AL FINAL 
+- si el dato lo vas a necesitar fuera del procedimiento, pasarlo por referencia (var)
 
 - Saber sacar un máximo 
 - Obtener los dos máximos
