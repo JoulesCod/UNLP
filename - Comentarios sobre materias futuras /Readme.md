@@ -47,6 +47,8 @@
 - ir a teorías
 <img width="381" height="56" alt="image" src="https://github.com/user-attachments/assets/87ab2420-885e-4bec-be0c-4be408dfb9c9" />
 <img width="618" height="26" alt="image" src="https://github.com/user-attachments/assets/9b79d69f-e3e1-4056-9b5d-afb5fb2852a4" />
+<img width="511" height="178" alt="image" src="https://github.com/user-attachments/assets/a5422fae-1931-4e44-916b-79b31fee8cf3" />
+
 
 ### Taller de Arquitectura (TA) -->
 - 2 proyectos (similares q años pasados) + 3 patcialitos siempre los mismos
