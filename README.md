@@ -177,6 +177,79 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
   </tr>
 </table>
 
+<h3 align="center"> ✦ · ───────── · 3er Año (no llegué pero para ir subiendo si encuentro cosas) · ───────── · ✦ </h3>
+ 
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/IDL-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> Introducción a Diseño Lógico (IDL): <br> (1er semestre) </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h1>❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/Proba-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> Probabilidad y Estadística : <br> (1er semestre) <br> </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/CBD-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> Conceptos de Bases de Datos (CBD): <br> (1er semestre) </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/Electro-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> Electrónica y Electrotecnia: <br> (1er semestre) </p>
+    </td>
+  
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/x-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> x:<br>(2do semestre) </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/x-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> x: <br> (2do semestre) <br> </p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h1> ❔❔❔
+      <a href="link">
+        <img src="https://img.shields.io/badge/CSO-3E9B8A?style=for-the-badge" />
+      </a>
+      </h1>
+        <p> x: <br> (2do semestre)</p>
+    </td>
+    <td align="center" width="25%" valign="top"> 
+      <h1> ❔❔❔
+        <a href="link">
+          <img src="https://img.shields.io/badge/x-3E9B8A?style=for-the-badge" />
+        </a>
+      </h1>
+        <p> x: <br> (2do semestre) <br> </p>
+    </td>
+  </tr>
+</table>
+
 <!-- ===================================================================================================================================================================== -->
 <!-- ===================================================================================================================================================================== -->
 
