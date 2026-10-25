@@ -64,6 +64,7 @@
 
 
 <h1 align="center"> ✦ · ───────── · 4to Año · ───────── · ✦ </h1> 
+
 ## 1er cuatri 
 ## 2do cuatri 
 
@@ -77,5 +78,6 @@
 - Ir solo a prácticas, VER VIDEOS
 
 <h1 align="center"> ✦ · ───────── · 5to Año · ───────── · ✦ </h1> 
+
 ## 1er cuatri 
 ## 2do cuatri 
