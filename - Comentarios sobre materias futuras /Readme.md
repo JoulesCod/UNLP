@@ -65,6 +65,11 @@
 # 4to AÑO
 ## 1er cuatri 
 ## 2do cuatri 
+
+### Taller de Proyecto I -->
+<img width="267" height="196" alt="image" src="https://github.com/user-attachments/assets/f1a0e1d2-081b-44a4-b895-e3e97d14803f" />
+
+
 ### Base de datos 
 - FINAL FACIL.
 - Ir solo a prácticas, VER VIDEOS
