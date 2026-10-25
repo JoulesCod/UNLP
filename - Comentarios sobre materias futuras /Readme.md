@@ -1,8 +1,9 @@
 ### Información de contacto (IC): https://ic.info.unlp.edu.ar/informacion-de-contacto/
 
-## Comentarios materias 
+# Comentarios materias 
 > (Comentarios que me dieron personas que ya cursaron estas materias)
-# 3er AÑO
+
+# ----------------------------------------- 3er AÑO -----------------------------------------
 ## 1er Cuatri
 
 ### Electrónica y Electrotecnia  (EE) --> 
@@ -61,20 +62,19 @@
 - proyecto, parcial teórico y parcial practico
 
 
-
-# 4to AÑO
+# ----------------------------------------- 4to AÑO -----------------------------------------
 ## 1er cuatri 
 ## 2do cuatri 
 
 ### Taller de Proyecto I -->
+- Asistencia obligatoria
 <img width="267" height="196" alt="image" src="https://github.com/user-attachments/assets/f1a0e1d2-081b-44a4-b895-e3e97d14803f" />
 <img width="909" height="123" alt="image" src="https://github.com/user-attachments/assets/a7d4d5b2-9b64-4ead-beb8-61958427dc9d" />
-
 
 ### Base de datos 
 - FINAL FACIL.
 - Ir solo a prácticas, VER VIDEOS
 
-# 5to AÑO
+# ----------------------------------------- 5to AÑO -----------------------------------------
 ## 1er cuatri 
 ## 2do cuatri 
