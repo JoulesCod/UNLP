@@ -187,7 +187,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
           <img src="https://img.shields.io/badge/IDL-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Introducción a Diseño Lógico (IDL): <br> (1er semestre) </p>
+        <p> Introducción a Diseño Lógico: <br> (1er semestre) </p>
     </td>
     <td align="center" width="25%" valign="top">
       <h1>❔❔❔
@@ -195,7 +195,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
           <img src="https://img.shields.io/badge/Proba-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Probabilidad y Estadística : <br> (1er semestre) <br> </p>
+        <p> Probabilidad y Estadística: <br> (1er semestre) <br> </p>
     </td>
     <td align="center" width="25%" valign="top">
       <h1> ❔❔❔
@@ -203,7 +203,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
           <img src="https://img.shields.io/badge/CBD-3E9B8A?style=for-the-badge" />
         </a>
       </h1>
-        <p> Conceptos de Bases de Datos (CBD): <br> (1er semestre) </p>
+        <p> Conceptos de Bases de Datos: <br> (1er semestre) </p>
     </td>
     <td align="center" width="25%" valign="top">
       <h1> ❔❔❔
