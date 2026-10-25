@@ -141,7 +141,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
   
   <tr>
     <td align="center" width="25%" valign="top">
-      <h1> 💡
+      <h1> ☕
         <a href="https://github.com/JoulesCod/UNLP/tree/main/Taller%20de%20Lenguajes%20II">
           <img src="https://img.shields.io/badge/Taller_II-3E9B8A?style=for-the-badge" />
         </a>
