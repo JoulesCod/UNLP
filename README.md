@@ -177,7 +177,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
   </tr>
 </table>
 
-<h3 align="center"> ✦ · ───────── · 3er Año (no llegué pero para ir subiendo si encuentro cosas) · ───────── · ✦ </h3>
+<h3 align="center"> ✦ · ───────── · 3er Año (para el año q viene) · ───────── · ✦ </h3>
  
 <table align="center">
   <tr>
