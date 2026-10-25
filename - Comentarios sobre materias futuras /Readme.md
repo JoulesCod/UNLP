@@ -3,7 +3,7 @@
 # Comentarios materias 
 > (Comentarios que me dieron personas que ya cursaron estas materias)
 
-# ----------- 3er AÑO -----------
+<h1 align="center"> ✦ · ───────── · 3er Año · ───────── · ✦ </h1> 
 ## 1er Cuatri
 
 ### Electrónica y Electrotecnia  (EE) --> 
@@ -62,7 +62,7 @@
 - proyecto, parcial teórico y parcial practico
 
 
-# ----------- 4to AÑO -----------
+<h1 align="center"> ✦ · ───────── · 4to Año · ───────── · ✦ </h1> 
 ## 1er cuatri 
 ## 2do cuatri 
 
@@ -75,6 +75,6 @@
 - FINAL FACIL.
 - Ir solo a prácticas, VER VIDEOS
 
-# ----------- 5to AÑO -----------
+<h1 align="center"> ✦ · ───────── · 5to Año · ───────── · ✦ </h1> 
 ## 1er cuatri 
 ## 2do cuatri 
