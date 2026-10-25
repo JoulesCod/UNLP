@@ -68,6 +68,7 @@
 
 ### Taller de Proyecto I -->
 <img width="267" height="196" alt="image" src="https://github.com/user-attachments/assets/f1a0e1d2-081b-44a4-b895-e3e97d14803f" />
+<img width="909" height="123" alt="image" src="https://github.com/user-attachments/assets/a7d4d5b2-9b64-4ead-beb8-61958427dc9d" />
 
 
 ### Base de datos 
