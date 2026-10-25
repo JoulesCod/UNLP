@@ -39,7 +39,7 @@
 ### Introducción al Procesamiento de Señales (IPS) --> 
 - la práctica es re cualquiera.
 - MATERIA MAS DIFICIL
-<img width="943" height="129" alt="image" src="https://github.com/user-attachments/assets/eeac37b4-fdbb-4c5a-9dfa-03eefbf59a25" />
+<img width="471" height="64" alt="image" src="https://github.com/user-attachments/assets/eeac37b4-fdbb-4c5a-9dfa-03eefbf59a25" />
 
 ### Redes de Datos 1 (RD1) -->
 - esta PATO piola,
