@@ -234,7 +234,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
     <td align="center" width="25%" valign="top">
       <h1> ❔❔❔
       <a href="link">
-        <img src="https://img.shields.io/badge/CSO-3E9B8A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/x-3E9B8A?style=for-the-badge" />
       </a>
       </h1>
         <p> x: <br> (2do semestre)</p>
