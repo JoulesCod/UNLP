@@ -167,7 +167,7 @@ mi recomendación es esperar... lo mas probable es que la página este andando m
         <img src="https://img.shields.io/badge/Language-Bash-3E9B8A?style=flat-square&logo=Bash" />
     </td>
     <td align="center" width="25%" valign="top"> 
-      <h1> ⚔️
+      <h1> 🏰
         <a href="https://github.com/JoulesCod/UNLP/tree/main/F%C3%ADsica%20II">
           <img src="https://img.shields.io/badge/Física_II-3E9B8A?style=for-the-badge" />
         </a>
