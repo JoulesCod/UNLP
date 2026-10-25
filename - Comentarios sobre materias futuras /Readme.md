@@ -39,11 +39,14 @@
 ### Introducción al Procesamiento de Señales (IPS) --> 
 - la práctica es re cualquiera.
 - MATERIA MAS DIFICIL
+<img width="943" height="129" alt="image" src="https://github.com/user-attachments/assets/eeac37b4-fdbb-4c5a-9dfa-03eefbf59a25" />
 
 ### Redes de Datos 1 (RD1) -->
 - esta PATO piola,
 - fácil,
 - ir a teorías
+<img width="381" height="56" alt="image" src="https://github.com/user-attachments/assets/87ab2420-885e-4bec-be0c-4be408dfb9c9" />
+<img width="618" height="26" alt="image" src="https://github.com/user-attachments/assets/9b79d69f-e3e1-4056-9b5d-afb5fb2852a4" />
 
 ### Taller de Arquitectura (TA) -->
 - 2 proyectos (similares q años pasados) + 3 patcialitos siempre los mismos
@@ -55,9 +58,15 @@
     - para eso en primer semestre de 3ro hacer una optativa de algún lenguaje PHP o punto net (haces apps y no toma parcial).
 - proyecto, parcial teórico y parcial practico
 
+
+
 # 4to AÑO
 ## 1er cuatri 
 ## 2do cuatri 
 ### Base de datos 
 - FINAL FACIL.
 - Ir solo a prácticas, VER VIDEOS
+
+# 5to AÑO
+## 1er cuatri 
+## 2do cuatri 
