@@ -15,3 +15,19 @@
   </td>
 </tr>
 </table>
+
+## Dinámica 
+El parcialito del diagrama UML lo tomaron por primera vez con mi grupo... es solo hacer un diagrama UML al nivel de dificultad que los mas largos de la práctica <br>
+Grupos: 
+- Los grupos de estudiantes son de a 2, o 3 pero te suma alguna cosa a la entrega
+- A cada grupo le toca un profesor que es el que le va a tomar el coloquio (acompañados de una de las profes de la toría)
+Entrega 1 (mi experiencia):
+- Por alguna razón MArcos no estaba 
+
+## Profes
+Profe de teoría: 
+Japonesa: una vez me la crucé en el tren
+Sebastián X: Muyyy genio, no se complica con lo que te pide 
+Agustín X: (el que tiene cara de Marcos)
+Marcos X: (el que tiene cara de Agustín)
+
