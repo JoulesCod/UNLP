@@ -27,7 +27,7 @@ Dicen que no dejan usar calculadoras en los parciales pero no es tan así, duran
 - x: Ulises --> no tiene ganas de existir pero explica bien 
 - x: Christian --> explica medio mezcloso pero es un tipazo
 
-# COMISIÓN G (fue una amiga, son menos exigentes)
+# COMISIÓN G (fue una amiga, son menos exigentes) hr 16-20hs
 comentarios de my friends:
 Natalia altamirano: (la que da las teorías)
 - Es muy puntual, suepr prolija, clara al explicar, muy pedagojica, siempre dispuesta a consultas, buena persona, muy buenos dibujos 
