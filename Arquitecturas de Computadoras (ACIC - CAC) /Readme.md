@@ -35,6 +35,8 @@ Arquitectura de Computadoras - Analista Programador Universitario - APU <br>
 - fechas: M1 --> 1era, 2da | M2 --> 1era, 2da } flotante (se pueden dar los dos módulos)
 - 60% DE ASISTENCIA A LAS CLASES PRÁCTICAS (la lista es un papelito que circula por el aula)
 
+<img width="1080" height="912" alt="image" src="https://github.com/user-attachments/assets/3e1468c3-cfe5-4dd8-b8b6-5eadc59fa439" /> por si pensabas cursarla en el redictado sin ser recursante...
+
 ### Promoción --> 
 - Aprobar 1er parcial en la 1era fecha (nota min: 12/20) 
 - Aprobar parcial corto teórico (de los contenidos vistos hasta el momento)
