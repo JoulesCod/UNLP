@@ -10,16 +10,9 @@ Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate 
 > Email: vacosta@ing.unlp.edu.ar <br>
 > pag mate B (cátedras): https://www1.ing.unlp.edu.ar/catedras/F0302/ <br>
 
-# PROFES 
-- profe: RIVERA, Ana Lucia --> Ana... está loca, y es exigente, pero es buena y explica muy bien <br>
-- jtp: VERA, Milagros --> A MILAGROS LA AMOOOO,  
-- x: Ulises --> no tiene ganas de existir pero explica bien 
-- x: Christian --> explica medio mezcloso pero es un tipazo
-
-
 # COMISIÓN B8: (horario: 12hs - 16hs)
 > [!WARNING]
-> No podes usar tu calculadora en los parciales, circulan un par de ellos (es por el tema de calcus que calculen integrales)
+> No podes usar tu calculadora en los parciales, circulan un par de ellos
 
 Me encanta como trabajan. <br>
 Es una comisión MUY EXIGENTE respecto a justificación pero constantemente te repiten como quieren que lo hagas. <br>
@@ -27,6 +20,12 @@ AMÉ LA ORGANIZACIÓN, al comienzo de la clase Mili hace un repaso y ejercicios 
 Las explicaciónes teóricas están buenas. <br>
 Tenes que sacarte min 6 (5.50 te la dejan pasar) en cada parcial y tener temas obligatorios entre 60% - 70% (depende el módulo) bien para promocionar. <br>
 Dicen que no dejan usar calculadoras en los parciales pero no es tan así, durante el parcial hacen circular calculadoras de ellos que no calculan integrales. <br>
+
+## PROFES 
+- profe: RIVERA, Ana Lucia --> Ana... está loca, y es exigente, pero es buena y explica muy bien <br>
+- jtp: VERA, Milagros --> A MILAGROS LA AMOOOO,  
+- x: Ulises --> no tiene ganas de existir pero explica bien 
+- x: Christian --> explica medio mezcloso pero es un tipazo
 
 # COMISIÓN G (fue una amiga, son menos exigentes)
 comentarios de my friends:
