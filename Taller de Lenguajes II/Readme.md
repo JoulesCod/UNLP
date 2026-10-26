@@ -22,12 +22,15 @@ Grupos:
 - Los grupos de estudiantes son de a 2, o 3 pero te suma alguna cosa a la entrega
 - A cada grupo le toca un profesor que es el que le va a tomar el coloquio (acompañados de una de las profes de la toría)
 Entrega 1 (mi experiencia):
-- Por alguna razón MArcos no estaba 
+- Por alguna razón Markos no estaba, entonces en el día del coloquio (y entrega) dimos solo los que si teníamos al profe ese día
+- Los tres profes se santaron en distintas mesas del aula, los alimnos que no les tocaba se fueron para el fondo del aula
+- Acompañando a Jose estaba Claudia, acompañando a Agus estaba 
 
 ## Profes
-Profe de teoría: 
-Japonesa: una vez me la crucé en el tren
-Sebastián X: Muyyy genio, no se complica con lo que te pide 
-Agustín X: (el que tiene cara de Marcos)
-Marcos X: (el que tiene cara de Agustín)
+Profe de teoría - Claudia Queiruga: Buena onda, quiere que participemos en las teorías... demasiado. <br>
+Japonesa (tmb da teorpia) - Isabek Miyuki Kimura: una vez me la crucé en el tren <br>
+JTP - Sebastián Villena: Muyyy genio, no se complica con lo que te pide, es mas reservado, buena gente <br>
+Ayudante - Agustín Leonardo Cao: (el que tiene cara de Marcos) Le Sabe... explica re copado, te hace pensar (está en proga 3) <br>
+Ayudante - Markos Alonso Ocampo: (el que tiene cara de Agustín) Se complica mas con lo que quiere, buena onda (está en proga 3) <br>
+Ayudante - José: no comment (está en proga 3) <br>
 
