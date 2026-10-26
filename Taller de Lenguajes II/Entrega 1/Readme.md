@@ -3,8 +3,8 @@
 > **Trabajo Final Integrador (TFI) — Entrega 1** 
 
 ### Autores
-- Olivia Iriarte 
-- Juliana Moroni
+- 
+- 
 
 ---
 
