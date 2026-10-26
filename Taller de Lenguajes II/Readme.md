@@ -27,6 +27,7 @@ Entrega 1 (mi experiencia):
 - Acompañando a Jose estaba Claudia, acompañando a Agus estaba Kimura, Seba estaba solo (a mi me tocó a Seba, yayyyy)
 
 Coloquio: 
+- Mostrás todo desde tu computadora
 - Primero se empieza explicando el diagrama uml, las relaciones entre las clases y justificaciónes sobre deciciones de la estructura del diagrama
 - después pasamos a explicar partes del código que nos resultaron interesantes
 - Como se evalúa el uso de git, te preguntan como te llevaste con eso
