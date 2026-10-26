@@ -1,4 +1,4 @@
-Estudiá en las vacas de invierno... No es en realidad recontra dificil pero para mí el primer módulo fue un montón, mucho nuevo y poco tiempo. <br> som
+Estudiá en las vacas de invierno... No es en realidad recontra dificil pero para mí el primer módulo fue un montón, mucho nuevo y poco tiempo. <br> some
 Mi Mate Favorito ❤️❤️❤️ <br>
 
 más que difícil son muchos contenidos <br>
