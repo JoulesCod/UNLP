@@ -19,11 +19,27 @@ Si te dicen que series no las volves a ver nunca (a mi me dijeron eso), en Mate 
 
 # COMISIÓN B8: (horario: 12hs - 16hs)
 > [!WARNING]
-> No podes usar tu calculadora en los parciales, circulan un par de ellos
+> No podes usar tu calculadora en los parciales, circulan un par de ellos (es por el tema de calcus que calculen integrales)
 
 Me encanta como trabajan. <br>
-Es una comisión muy exigente respecto a justificación pero constantemente te repiten como quieren que lo hagas. <br>
+Es una comisión MUY EXIGENTE respecto a justificación pero constantemente te repiten como quieren que lo hagas. <br>
 AMÉ LA ORGANIZACIÓN, al comienzo de la clase Mili hace un repaso y ejercicios del tema de la clase anterior y a las 14 en punto empieza la explicación práctica, el resto del tiempo consulta. <br>
 Las explicaciónes teóricas están buenas. <br>
 Tenes que sacarte min 6 (5.50 te la dejan pasar) en cada parcial y tener temas obligatorios entre 60% - 70% (depende el módulo) bien para promocionar. <br>
 Dicen que no dejan usar calculadoras en los parciales pero no es tan así, durante el parcial hacen circular calculadoras de ellos que no calculan integrales. <br>
+
+# COMISIÓN G (fue una amiga, son menos exigentes)
+comentarios de my friends:
+Natalia altamirano: (la que da las teorías)
+- Es muy puntual, suepr prolija, clara al explicar, muy pedagojica, siempre dispuesta a consultas, buena persona, muy buenos dibujos 
+- tranquila para corregir 
+- poca gente, bueno para hacer consultas  <br>
+Leandro: gay, barbita, gordito
+- igual q Natalia pero gracioso <br>
+Gabriel: el jipi <br>
+Ahinara: la chica <br>
+
+Todos son exelentes, muuuuy buenos al corregir, no exigentes  <br>
+Natalia Escribe todo en el pizarrón antes de empezar a explicar.  <br>
+- un 7 con Ana es un 9 con ellos  <br>
+Puede q den respuestas en el parcial <br>
