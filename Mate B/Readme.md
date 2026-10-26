@@ -40,5 +40,5 @@ Ahinara: la chica <br>
 
 Todos son exelentes, muuuuy buenos al corregir, no exigentes  <br>
 Natalia Escribe todo en el pizarrón antes de empezar a explicar.  <br>
-- un 7 con Ana es un 9 con ellos  <br>
+un 7 con Ana es un 9 con ellos  <br>
 Puede q den respuestas en el parcial <br>
