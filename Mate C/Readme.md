@@ -12,10 +12,12 @@ y dicen que a veces hacen ejemplos o muestran cosas más relacionadas a la carre
 > cátedras: https://www1.ing.unlp.edu.ar/catedras/F0304/ <br>
 
 ## MI OPINIÓN
-Los parciales son largísimos, hay gente que los mete de una, pero yo no podría ni si la recursara 50 veces. <br> 
-Entonces, metanle a los parcialitos, y en los parciales asegúrense puntos en vez de hacer un poco de cada uno, total como todos los ejercicios tienen que estar aprobados. No vale la pena hacer un poco de cada uno y por falta de tiempo no aprobar ninguno. <br>
-El módulo 1 se lleva dentro de todo bien, el módulo 2 llegas mas justo con los temas (yo el día antes del parcial aprendiendo cosas). <br>
-El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el parcial es bastante mas largo.
+- Los parciales son largísimos, hay gente que los mete de una, pero yo no podría ni si la recursara 50 veces. <br> 
+- Entonces, metanle a los parcialitos, y en los parciales asegúrense puntos en vez de hacer un poco de cada uno, total como todos los ejercicios tienen que estar aprobados. No vale la pena hacer un poco de cada uno y por falta de tiempo no aprobar ninguno. <br>
+- El módulo 1 se lleva dentro de todo bien,
+- El módulo 2 llegas mas justo con los temas (yo el día antes del parcial aprendiendo cosas). <br>
+- El módulo 2, mas que el 1, es super automático y repetitivo, pero tambien el parcial es bastante mas largo.
+- Hay materias con las que me parace un bodrio hacer parcialitos (Física 2) porque tenes que estar estudiando todo el tiempo, pero en mate C, al ser los parciales tan largos, y estando con la energía del 1er semestra, me parace una super oportunidad aprovecharlos.
 
 # COMISIÓN MC4 
 Los profes caen muy bien, pero te hacen sufrír
