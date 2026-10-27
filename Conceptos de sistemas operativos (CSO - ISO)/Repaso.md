@@ -1,5 +1,7 @@
 # Guía Teórica: Primer Parcial (CSO / ISO)
+
 Contenidos de Prácticas 1 y 2 (Silberschatz, Stallings y Exámenes de la UNLP).
+
 ---
 
 ## MÓDULO 1: Conceptos Fundamentales, Arquitectura y Soporte de Hardware
