@@ -1,9 +1,5 @@
-# Guía Teórica Definitiva: Primer Parcial (CSO / ISO)
-
-**Asignatura:** Conceptos de Sistemas Operativos (CSO) / Introducción a los Sistemas Operativos (ISO)  
-**Institución:** Facultad de Informática - Universidad Nacional de La Plata (UNLP)  
-**Alineación:** Contenidos completos de Prácticas 1 y 2 (Silberschatz, Stallings y Exámenes de la UNLP).
-
+# Guía Teórica: Primer Parcial (CSO / ISO)
+Contenidos de Prácticas 1 y 2 (Silberschatz, Stallings y Exámenes de la UNLP).
 ---
 
 ## MÓDULO 1: Conceptos Fundamentales, Arquitectura y Soporte de Hardware
