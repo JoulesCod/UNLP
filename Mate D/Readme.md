@@ -40,17 +40,20 @@ classroom G4: v7sdi7fq <br>
 | ------------------------------------ | -------------- |
 |.... 🐉 Excelente predisposición | NO ESTOY DE ACUERDO <br> se te ríe de tus errores |
 |.... 🐉 profe buena, explica claro y con colores | no tiene ganas de explicar, siempre se atrasa |
-|.... 🐉 Muy buena onda <br> | NO |
+|.... 🐉 Muy buena onda <br> | NO (al principio parace que si) |
 |.... 🚩 Toma lista (pero no por asistencia obligatoria) <br> |       |
 
 JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br>
-A MI NO ME GUSTÓ LA COMISIÓN, el único bueno es el ayudante Fran
+.... 🚩 A MI NO ME GUSTÓ LA COMISIÓN, el único bueno es el ayudante Fran.  <br>
+.... 🚩 La mayoria de las veces son las 3hrs de teoría, <br>
+.... 🐉 Lo único bueno es que se pasa toda la clase resolviendo ejercicios.  <br>
 
 ### COMENTARIOS DE PROFES GRUPO 3:
 PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
 PT: Gastón Argeri ---- JTP: Luis Gómez ---- AD: Dolores Corva ---- AA: Juan Ruggiero <br>
 Comentarios generales comisión <br>
-.... 🚩 De las 4,5 horas de clase, al menos 3 eran teoría; imposible consultar las dudas o trabajar en clase <br>
+.... 🚩 Son 3hrs de teoría; imposible consultar las dudas o trabajar en clase <br>
 .... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema. <br>
+.... 🐉 A mi me cayó bien, me dijeron que es buena onda, solo si las teorías explica mucho y muy rápido
 
-CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE LOS PROFESORES!!! <br>
+CONSIDERO ESTA INVESTIGACIÓN UN FRACASO... CÓMO ES QUE NO DAN OPINIONES SOBRE LOS PROFESORES!!! (ya cursé la materia y agregué mis opiniones) <br> 
