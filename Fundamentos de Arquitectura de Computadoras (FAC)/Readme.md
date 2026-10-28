@@ -1,3 +1,6 @@
+Materia: Fundamentos de Arquitectura de Computadoras (FAC)
+Equivalente en Licenciatura: Organización de Computadoras
+
 No fuí a una sola clase de consulta... no digo que lo hagas, pero se puede aprobar sin ir siempre <br>
 
 Si queres tener mejor promedio te conviene dar el final... <br>
