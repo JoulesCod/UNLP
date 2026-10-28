@@ -17,7 +17,7 @@
 - Entorno IDEAS: También se utiliza para comunicaciones oficiales en el Entorno de IDEAS de Informática.
 
 ### Mi experiencia:
-Super facil, yo igual tengo un buen nivel de ingles, dí el final libre, el examen es mas que nada comprensión lectora, las respuestas son todas en español
+Super facil, yo igual tengo un buen nivel de ingles, dí el final libre, el examen es mas que nada comprensión lectora, las respuestas son todas en español <br>
 No sabía pero podes buscar, en diccionarios de Oxford que llevan las profes o en la compu que habiltan para buscar, palabras en la página de Oxford <br>
 
 Para hacer el parcial de forma eficiente recomendaría: 
