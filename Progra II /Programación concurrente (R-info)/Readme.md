@@ -16,6 +16,6 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
   si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
-- El orden es Pos(Avenida, Calle) --> Pero visualmente eje y: Anevida, eje x: Calle, esta al reves, no sabemos por q --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
+- El orden es Pos(Avenida, Calle) --> Pero visualmente eje y: Avenida, eje x: Calle, esta al reves, no sabemos por q --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
   
   
