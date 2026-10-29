@@ -1,4 +1,7 @@
-YA SALIÓ LA VERSIÓN 4 DE R-INFO
+YA SALIÓ LA VERSIÓN 4 DE R-INFO <br>
+https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP 
+<br>
+(se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
 # LEAN Y REPITAN DESPUÉS DE MI:
 - SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una mínima chanse que les toque en la misma esquina, por el random), **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
