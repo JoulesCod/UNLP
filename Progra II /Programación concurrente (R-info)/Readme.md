@@ -1,8 +1,4 @@
-Posibles Preguntas teóricas:
-- De la solución implementada para el TP, cite los tipos de áreas declaradas necesarios para cada caso del problema. Justifique por qué optó por ese tipo de área en cada caso.
-- De la solución implementada para el TP, cite algún caso donde se maximiza la concurrencia. Justifique por qué le parece relevante el ejemplo seleccionado. Como ayuda para elegir el ejemplo: piense que ocurriría con ese caso si no se hubiese programado de manera concurrente.
-- De la solución implementada para el TP, cite algún caso donde tuvo que utilizar el mecanismo de memoria COMPARTIDA de R-Info. Justifique por qué le parece relevante el ejemplo seleccionado.
-- De la solución implementada para el TP, cite algún caso donde tuvo que utilizar el mecanismo de memoria DISTRIBUIDA de R-Info. Justifique por qué le parece relevante el ejemplo seleccionado.
+YA SALIÓ LA VERSIÓN 4 DE R-INFO
 
 # LEAN Y REPITAN DESPUÉS DE MI:
 - SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una mínima chanse que les toque en la misma esquina, por el random), **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
