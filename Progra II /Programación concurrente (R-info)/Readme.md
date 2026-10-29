@@ -1,4 +1,4 @@
-YA SALIÓ LA VERSIÓN 4 DE R-INFO <br>
+<img width="235" height="210" alt="image" src="https://github.com/user-attachments/assets/b9a465e9-5050-42a9-8e14-c69ebd6fd53c" />YA SALIÓ LA VERSIÓN 4 DE R-INFO <br>
 https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP 
 <br>
 (se puede ver el la sección de "Releases" en mi Repo general de UNLP)
@@ -16,6 +16,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
   si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
-- El orden es Pos(Avenida, Calle) --> Pero visualmente eje y: Avenida, eje x: Calle, esta al reves, no sabemos por q --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
+- El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles
+- --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2 // PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones)
   
   
