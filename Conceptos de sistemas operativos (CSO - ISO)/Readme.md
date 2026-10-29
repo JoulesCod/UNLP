@@ -3,7 +3,7 @@
 > Materia junto a Licenciatura en sistemas <br>
 > Somos como 400 alumnos...
 
-SI NO LLEGAS A ESTUDAR TODO PARA LA 1era FECHA, RECOMIENDO ESTUDIAR LA PARTE PRÁCTICA, QUE ES MAS FACIL, EN LA TEÓRICA PUEDE Q SEPAS MUCHO E IGUAL DESAPRUEBES (o que no sepas nada y la apruebes)
+SI NO LLEGAS A ESTUDAR TODO PARA LA 1era FECHA, RECOMIENDO ESTUDIAR LA PARTE B (PRÁCTICA), QUE ES MAS FACIL, EN LA TEÓRICA PUEDE Q SEPAS MUCHO E IGUAL DESAPRUEBES (o que no sepas nada y la apruebes)
 
 >[!IMPORTANT]
 > E-mail consultas: iso@info.unlp.edu.ar <br>
