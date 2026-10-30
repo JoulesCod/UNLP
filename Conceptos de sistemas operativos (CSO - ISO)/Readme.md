@@ -9,7 +9,8 @@ SI NO LLEGAS A ESTUDAR TODO PARA LA 1era FECHA, RECOMIENDO ESTUDIAR LA PARTE B (
 > E-mail consultas: iso@info.unlp.edu.ar <br>
 > 2 turnos (mañana y tarde) donde se ven los mismos contenidos teóricos y prácticos. Pueden elegir el que se ajuste a sus horarios. <br>
 > Plataforma Linti: https://catedras.linti.unlp.edu.ar/ <br>
-> Cartelera: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=129&
+> Cartelera: https://gestiondocente.info.unlp.edu.ar/cartelera/#form[materia]=129& <br>
+> Tiempo de examen: 2hs
 
 <details>
   <summary><b> La Materia es equivalente entre las siguienes carreras (en este caso la damos todos juntos): </b></summary>
