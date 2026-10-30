@@ -46,4 +46,4 @@ ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...
 - SI O SI hacer las autoevaluaciones (bien o mal, sinó no rendís)
 - SI O SI anotarte que vas a rendir, son 0 flexibles
 - En la 1er fecha la distribución de aulas es por orden alfabético de Apellido
-- En la 2da fecha tambien separan por: los que van a rendir solo la promoción, solo la práctica o ambas 
+- En la 2da fecha (recuperatorio) tambien separan por: los que van a rendir solo la promoción, solo la práctica o ambas 
