@@ -34,6 +34,7 @@ classroom G4: v7sdi7fq <br>
 # Stalkeando profes (para ver en que grupo me inscribo)
 ÚNICOS GRUPOS POSIBLES POR HORARIO (para mí): <br>
 <img width="720" height="180" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
+<img width="397" height="74" alt="image" src="https://github.com/user-attachments/assets/05f5ea24-8819-40b4-b698-8ba9ba130009" /> grupo 4
 
 ### COMENTARIOS DE PROFES GRUPO 4:
 | comentarios de gente que ya la cursó | MI EXPERIENCIA | 
