@@ -7,7 +7,7 @@ Bueno, claramente prepararlo en las vacas de invierno es muy tranquilo, me parec
 
 <mark><mark><mark>**19/8/2026**</mark></mark></mark> --> (fecha del final) <br>
 Los temas si son bastantes, porque das los temas de los dos módulos, pero las preguntas no se salen de lo que suele preguntar en cada final. <br>
-Después del examen le pregunté al profe cómo prefería que sean las respuestas (porque de la forma que me maneje yo estuve un poco justa con el tiempo) y me dijo que prefiere que por cada respuesta hagamos un único párrafo que una todos los conceptos de la respuesta. No le gusta tanto que hagamos punteos de cosas o poner "títulos" y atrás las definiciones. <br>
+Después del examen le pregunté al profe cómo prefería que sean las respuestas (porque de la forma que me maneje yo estuve un poco justa con el tiempo) y me dijo que prefiere que por cada respuesta hagamos un único párrafo que úna todos los conceptos de la respuesta. No le gusta tanto que hagamos punteos de cosas o poner "títulos" y atrás las definiciones. <br>
 Ah, y me dijo que esos párrafos los tengo que poder escribir cada uno en 15min --> 15min x 10preguntas = 150 = casi 3hrs, que es lo que dura el parcial
 
 <mark><mark><mark>**2/9/2026**</mark></mark></mark> --> (subieron las notas) <br> 
