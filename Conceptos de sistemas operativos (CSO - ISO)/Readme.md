@@ -1,6 +1,6 @@
 >[!WARNING]
 > Parciales caen sábados <br>
-> Materia junto a Licenciatura en sistemas <br>
+> Materia junto a Otras carreras de Informática (IC, LS, LI, APU, ATIC) <br>
 > Somos como 400 alumnos...
 
 SI NO LLEGAS A ESTUDAR TODO PARA LA 1era FECHA, RECOMIENDO ESTUDIAR LA PARTE B (PRÁCTICA), QUE ES MAS FACIL, EN LA TEÓRICA PUEDE Q SEPAS MUCHO E IGUAL DESAPRUEBES (o que no sepas nada y la apruebes)
