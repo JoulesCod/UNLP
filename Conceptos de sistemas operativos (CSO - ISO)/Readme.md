@@ -54,5 +54,5 @@ ME ENCANTÓ EL PROFE TEÓRICO DE LA NOCHE!!!! (acabo de ir a su primera clase...
 
 APROBAR CURSADA
 - Resolver TODAS las Autoevaluaciones 
-- Aprobar 1er parcial (= aprobar parte A y B) --> tiene recu (podes solo dar la parte que tengas desaprobada (no se por q darías la parte q ya tenes bien si = no sirve para el promedio))
-- Aporbar 2do parcial (= aprobar parte A y B) --> tiene recu (podes solo dar la parte que tengas desaprobada)
+- Aprobar 1er parcial (= aprobar parte A y B) --> tiene recu (das la parte q tengas desaprobada (si ya tenes la A, solo rendís la B))
+- Aporbar 2do parcial (= aprobar parte A y B) --> tiene recu (das la parte q tengas desaprobada)
