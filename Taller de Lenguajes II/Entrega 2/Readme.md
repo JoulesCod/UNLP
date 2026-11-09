@@ -1,10 +1,9 @@
 # Taller de Lenguajes II — Facultad de Informática (UNLP)
 ## Trabajo Final Integrador — Entregable 2
 
----
 
 ## Descripción
-Este repositorio contiene la implementación del **Entregable 2 del Trabajo Final Integrador (TFI)** para la asignatura **Taller de Lenguajes II** (Facultad de Informática, UNLP).
+Este directorio contiene la implementación del **Entregable 2 del Trabajo Final Integrador (TFI)** para la asignatura **Taller de Lenguajes II** (Facultad de Informática, UNLP).
 
 El sistema evoluciona la plataforma de streaming de audio estilo Spotify desarrollada en el 1er entregable, incorporando una **capa de persistencia relacional con SQLite y JDBC**, reorganizando el código bajo el patrón arquitectónico **MVC (Modelo - Vista - Controlador)** y aplicando el patrón de acceso a datos **DAO (Data Access Object)** con fábrica y control de excepciones.
 
