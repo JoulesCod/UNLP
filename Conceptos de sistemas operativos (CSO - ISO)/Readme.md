@@ -56,3 +56,11 @@ APROBAR CURSADA
 - Resolver TODAS las Autoevaluaciones 
 - Aprobar 1er parcial (= aprobar parte A y B) --> tiene recu (das la parte q tengas desaprobada (si ya tenes la A, solo rendís la B))
 - Aporbar 2do parcial (= aprobar parte A y B) --> tiene recu (das la parte q tengas desaprobada)
+- En el flotante solo podes dar 1 de los 2 parciales, pero tambien puede ser solo 1 parte
+<br>
+PROMOCIÓN
+- 1er examen de promo (se da junto al 1er parcial) --> nota min: 6 --> recu junto al recu del 1er parcial
+- 2do examen de promo (se da junto al 2do parcial) --> nota min: 6
+- Promedio entre parciales de Promo: 7
+- NO HAY FLOTANTE DE PROMOCIÓN 
+
