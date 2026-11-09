@@ -15,8 +15,11 @@ SI NO LLEGAS A ESTUDAR TODO PARA LA 1era FECHA, RECOMIENDO ESTUDIAR LA PARTE B (
 <details>
   <summary><b> La Materia es equivalente entre las siguienes carreras (en este caso la damos todos juntos): </b></summary>
   <ul>
- Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación - IC<br>
-Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LIC <br>
+  Conceptos de Sistemas operativos (CSO) - Ingeniería en Computación - IC<br>
+  Introducción a sistemas Operativos (ISO) - Licencatura en sistemas - LS <br>
+  Introducción a sistemas Operativos (ISO) - Licencatura en Informática - LI <br>
+  Introducción a sistemas Operativos (ISO) - Analista Programador Universitario - APU <br>
+  Introducción a sistemas Operativos (ISO) - Analista en Tecnologías de la Información y la Comunicación - ATIC <br>
   </ul>
 </details>
 
