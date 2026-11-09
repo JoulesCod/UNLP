@@ -3,8 +3,8 @@
 > **Trabajo Final Integrador (TFI) — Entrega 1** 
 
 ### Autores
-- 
-- 
+- my friend
+- me
 
 ---
 
