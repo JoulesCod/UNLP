@@ -1,5 +1,5 @@
 ### Taller de Lenguajes II — Facultad de Informática (UNLP)
-## Trabajo Final Integrador — Entregable 2
+# Trabajo Final Integrador — Entregable 2
 
 
 ## Descripción
