@@ -4,17 +4,17 @@
 
 ## Descripción
 Este directorio contiene la implementación del **Entregable 2 del Trabajo Final Integrador (TFI)** 
-El sistema evoluciona la plataforma de streaming de audio desarrollada en el 1er entregable, incorporando una **capa de persistencia relacional con SQLite y JDBC**, reorganizando el código bajo el patrón arquitectónico **MVC (Modelo - Vista - Controlador)** y aplicando el patrón de acceso a datos **DAO (Data Access Object)** con fábrica y control de excepciones.
+El sistema evoluciona la plataforma de streaming de audio desarrollada en el 1er entregable, incorporando una **capa de persistencia relacional con SQLite y JDBC**, reorganizando el código con el patrón **MVC (Modelo - Vista - Controlador)** y aplicando el patrón de acceso a datos **DAO (Data Access Object)** con fábrica y control de excepciones.
 
----
+<br>
 
 ## Arquitectura de Software y Patrones de Diseño
 
-El sistema está estructurado bajo una arquitectura de capas bien delimitada para garantizar el bajo acoplamiento, la alta cohesión y la mantenibilidad del código:
+El sistema está estructurado con una arquitectura de capas, para garantizar el bajo acoplamiento, la alta cohesión y la mantenibilidad del código:
 
 1. **Patrón MVC (Modelo - Vista - Controlador):**
-   * **`modelo`**: Contiene únicamente las entidades del dominio (`UsuarioConsumidor`, `UsuarioCreador`, `Contenido`, `Cancion`, `EpisodioPodcast`, `Audiolibro`, `Album`, `Playlist`, `Plan`, `Reproduccion`). Las clases del modelo están totalmente desvinculadas de la entrada/salida por consola y de la tecnología de persistencia.
-   * **`controlador`**: Clases encargadas de orquestar la lógica de negocio (`UsuarioController`, `ContenidoController`, `AlbumController`, `PlaylistController`, `ReproduccionController`, `PlanController`). Reciben las peticiones de la vista, aplican las validaciones de negocio y coordinan con la capa DAO. No contienen llamadas a `System.out.println` ni `Scanner`.
+   * **`modelo`**: Contiene las entidades del dominio (`UsuarioConsumidor`, `UsuarioCreador`, `Contenido`, `Cancion`, `EpisodioPodcast`, `Audiolibro`, `Album`, `Playlist`, `Plan`, `Reproduccion`). Las clases del modelo están totalmente desvinculadas de la entrada/salida por consola y de la tecnología de persistencia.
+   * **`controlador`**: Clases encargadas de la lógica de negocio (`UsuarioController`, `ContenidoController`, `AlbumController`, `PlaylistController`, `ReproduccionController`, `PlanController`). Reciben las peticiones de la vista, aplican las validaciones de negocio y coordinan con la capa DAO.
    * **`vista`**: Administra la interfaz de usuario interactiva por consola (`MenuPrincipal`) mediante `Scanner`. No accede a las tablas ni a los DAOs de forma directa; se comunica exclusivamente a través de los controladores.
 
 2. **Patrón DAO (Data Access Object):**
@@ -29,10 +29,9 @@ El sistema está estructurado bajo una arquitectura de capas bien delimitada par
    * **`MyConnection`**: Mantiene una única instancia activa de `java.sql.Connection` a `plataforma.db` mediante el patrón Singleton con `DriverManager`, garantizando un cierre seguro de recursos mediante el método `cerrarConexion()`.
    * **`DataBaseInitializer`**: Ejecuta las sentencias DDL para la creación automática de tablas e índices dentro de una **transacción atómica** (`setAutoCommit(false)`, `commit()` y `rollback()`).
 
----
+<br>
 
 ## Estructura del Proyecto (Packages y archivos)
-
 ```text
 SoundStream/
 ├── .vscode/
@@ -96,16 +95,15 @@ SoundStream/
 └── README.md                         <-- Documentación e informe del proyecto
 ```
 
----
+<br>
 
 ## Diseño de Base de Datos y Mapeo Objeto-Relacional (ORM)
-
-El esquema relacional fue diseñado siguiendo los principios de normalización y las reglas de transformación del modelo orientado a objetos a tablas SQL expuestas en la materia:
+El esquema relacional se diseñó siguiendo los principios de normalización y las reglas de transformación del modelo orientado a objetos a tablas SQL:
 
 ### 1. Mapeo de Herencia: *Single Table Inheritance*
-Se utilizó la estrategia de **Tabla Única con Columna Discriminadora** para las jerarquías de `Contenido` (`CONTENIDO`) y `Usuario` (`USUARIO`):
+Se usó la estrategia de **Tabla Única con Columna Discriminadora** para las jerarquías de `Contenido` (`CONTENIDO`) y `Usuario` (`USUARIO`):
 * **Tabla `USUARIO`**: Almacena usuarios consumidores y creadores, diferenciados por la columna `tipo` (`CONSUMIDOR` / `CREADOR`).
-* **Tabla `CONTENIDO`**: Agrupa canciones, podcasts y audiolibros. Utiliza la columna discriminadora `tipo` (`CANCION`, `PODCAST`, `AUDIOLIBRO`). Permite que consultas polimórficas del catálogo —como obtener la obra más reproducida o filtrar por género— se resuelvan en una única instrucción SQL sin realizar operaciones `JOIN` ni uniones complejas.
+* **Tabla `CONTENIDO`**: Agrupa canciones, podcasts y audiolibros. Utiliza la columna discriminadora `tipo` (`CANCION`, `PODCAST`, `AUDIOLIBRO`). Permite que consultas polimórficas del catálogo (como obtener la obra más reproducida o filtrar por género) se resuelvan en una única instrucción SQL sin realizar operaciones `JOIN` ni uniones complejas.
 
 ### 2. Mapeo de Relaciones N a N
 * La relación entre `PLAYLIST` y `CONTENIDO` se mapea mediante la tabla intermedia **`PLAYLIST_X_CONTENIDO`**, con clave primaria compuesta `(id_playlist, id_contenido)` y la columna `posicion` para mantener el orden secuencial de reproducción.
@@ -116,15 +114,13 @@ Se utilizó la estrategia de **Tabla Única con Columna Discriminadora** para la
 * **Integridad Referencial:** Uso de `FOREIGN KEY` con cláusula `ON DELETE CASCADE` para limpiar de forma automática listas y registros dependientes cuando se elimina un registro padre.
 * **Índices de Búsqueda:** Creación explícita del índice `IDX_PLAYLIST_CONTENIDO` sobre la columna `id_contenido` de la tabla intermedia para acelerar las búsquedas inversas.
 
----
+<br>
 
 ## Investigación: Persistencia de Archivos de Audio en la Plataforma
-
-Como parte de los requerimientos de investigación del **Entregable 2**, se analizaron las dos alternativas principales para el almacenamiento y la gestión de archivos multimedia en sistemas relacionales:
+Hay dos alternativas principales para el almacenamiento y la gestión de archivos multimedia en sistemas relacionales:
 
 ### Alternativa A: Almacenamiento directo en Base de Datos como Objeto Binario (`BLOB`)
 Consiste en guardar el flujo de bytes del archivo comprimido de audio (`.mp3`, `.ogg`, `.wav`) en una columna de tipo `BLOB` dentro de la tabla relacional.
-
 * **Ventajas:**
   * **Integridad Transaccional ACID:** Los metadatos de la canción y el archivo físico de audio se insertan o eliminan en la misma transacción.
   * **Unificación de Backups:** Un único archivo `.db` contiene la totalidad de la información de la plataforma.
@@ -134,8 +130,7 @@ Consiste en guardar el flujo de bytes del archivo comprimido de audio (`.mp3`, `
   * **Crecimiento Excesivo del Archivo de Base de Datos:** Dificulta el mantenimiento y la migración.
 
 ### Alternativa B: Almacenamiento en Sistema de Archivos y Persistencia de Ruta (`TEXT`)
-Consiste en guardar los archivos físicos de audio en el sistema de archivos del servidor (o en un bucket de objetos multimedia) y almacenar únicamente la ruta relativa o URI en la base de datos como una columna `TEXT`.
-
+Consiste en guardar los archivos físicos de audio en el sistema de archivos del servidor (o en un bucket de objetos multimedia) y almacenar solo la ruta relativa o URI en la base de datos como una columna `TEXT`.
 * **Ventajas:**
   * **Alto Rendimiento:** La base de datos opera con registros ligeros de texto y números, manteniendo velocidades óptimas en búsquedas y filtrados.
   * **Soporte Nativo de Streaming:** El servidor o reproductor puede abrir flujos directos (`FileInputStream` o buffers de lectura) y transmitir por fragmentos.
@@ -143,15 +138,12 @@ Consiste en guardar los archivos físicos de audio en el sistema de archivos del
 * **Desventajas:**
   * Requiere gestión explícita por parte del DAO para mantener sincronizada la ruta en la base de datos con el archivo físico en el disco.
 
-### Justificación
-Se adopta la **Alternativa B (Sistema de Archivos y Persistencia de Ruta)**. En la tabla `CONTENIDO` se incluye la columna con la ubicación del recurso, mientras que los archivos físicos se almacenan en el directorio del servidor. Esta carpeta, junto con el archivo `.db` de SQLite, se encuentra ignorada en el archivo **`.gitignore`** del proyecto para no sobrecargar el repositorio de control de versiones.
+### Elección
+Decidimos usar la **Alternativa B**. En la tabla `CONTENIDO` se incluye la columna con la ubicación del recurso, mientras que los archivos físicos se almacenan en el directorio del servidor. Esta carpeta, junto con el archivo `.db` de SQLite, se encuentra ignorada en el archivo **`.gitignore`** del proyecto para no sobrecargar el repositorio de control de versiones.
 
----
+<br>
 
 ## Requerimientos Funcionales y Validaciones (Para un grupo de 2 Integrantes)
-
-El sistema satisface la totalidad de los requisitos especificados para equipos de 2 integrantes:
-
 * **Gestión y Registro de Usuarios:**
   * Registro de usuarios consumidores y creadores con asignación de plan.
   * **Validaciones:**
@@ -168,7 +160,7 @@ El sistema satisface la totalidad de los requisitos especificados para equipos d
   * **Filtrado por género:** Consulta SQL para listar los contenidos pertenecientes a una categoría específica.
   * **Contenido más reproducido:** Consulta SQL sobre las métricas acumuladas para retornar la obra con mayor cantidad de reproducciones en el catálogo.
 
----
+<br>
 
 ## Instalación y Ejecución
 
