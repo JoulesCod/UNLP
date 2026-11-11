@@ -306,8 +306,8 @@ Si encontrás un error o querés agregar material, podés abrir un issue o envia
 | 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  | = |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
 | 4to Año | - | ![](https://progress-bar.xyz/0/?title=)  | = |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
 | 5to Año | - | ![](https://progress-bar.xyz/0/?title=)  | = |  ![](https://progress-bar.xyz/0/?title=) |  ![](https://progress-bar.xyz/0/?title=) |
-
 </p>
+
 Año completo (con finales incluidos) = 100% <br>
 un semestre (con finales incluidos) = 50% <br>
 1er módulo de todas las materias = 25% --> si desapruebo algún modulo de alguna materia = -5% <br>
