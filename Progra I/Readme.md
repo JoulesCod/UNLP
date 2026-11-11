@@ -10,7 +10,7 @@
 > Profe Teorías: Virginia Ainchil (no se hace cargo de los parciales de la cursada, si de los finales) <br>
 
 <details>
-  <summary><b> La Materia es equivalente entre las siguienes carreras: </b></summary>
+  <summary><b> La Materia es equivalente entre las siguientes carreras: </b></summary>
   <ul>
 Programacíon I - Ingeniería en computación - IC <br>
 Conceptros de Algoritmos, Datos y Programas (CADP) - Licencatura en sistemas - LIC <br>
