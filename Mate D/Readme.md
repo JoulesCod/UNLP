@@ -6,7 +6,7 @@
 > [!WARNING]
 > Justificaciones escritas extensas <br>
 > no sabés quien te corrige, jefe de cátedra, la jtp y los profes de distintas comisiones random. <br>
-> EL PUNTO 4 VALE 4 PUNTOS! wtf
+> EL PUNTO 4 (del M1) VALE 4 PUNTOS! wtf
 
 
 ### Comentarios de personas que ya hicieron la materia:
