@@ -7,6 +7,7 @@ lenguaje: Java <br>
   <ul>
   Programación III - Ingeniería en Computación (IC) <br>
   Algoritmos y Estructura de Datos - Licenciatura en Sistemas (LS) <br>
+  Algoritmos y Estructura de Datos - ATIC <br>
   </ul>
 </details>
 
