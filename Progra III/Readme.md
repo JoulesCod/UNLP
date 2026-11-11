@@ -2,6 +2,14 @@
 > EVALUACIONES EN PAPEL <br>
 lenguaje: Java <br>
 
+<details>
+  <summary><b> La Materia es equivalente entre las siguienes carreras de info: </b></summary>
+  <ul>
+  Programación III - Ingeniería en Computación (IC) <br>
+  Taller de Programación - Licenciatura en Sistemas (LS) <br>
+  </ul>
+</details>
+
 ### OPINIÓN
 <table>
 <tr>
