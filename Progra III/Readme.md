@@ -3,7 +3,7 @@
 lenguaje: Java <br>
 
 <details>
-  <summary><b> La Materia es equivalente entre las siguienes carreras de info: </b></summary>
+  <summary><b> La Materia es equivalente entre las siguientes carreras de info: </b></summary>
   <ul>
   Programación III - Ingeniería en Computación (IC) <br>
   Algoritmos y Estructura de Datos - Licenciatura en Sistemas (LS) <br>
