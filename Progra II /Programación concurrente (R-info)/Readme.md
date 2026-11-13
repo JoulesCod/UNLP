@@ -17,7 +17,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
   si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
-- AHORA, si hay una mínima chance que sí se choquen... BOLQUEEN, AUNQUE SEA UN SOLO PUNTO
+- AHORA, si hay una mínima chance que sí se choquen... BOLQUEEN, AUNQUE SEA UN SOLO PUNTO <br>
   ejemplo: si el recorrido de 2 robots se cruza tipo en X, dos escaleras que se cruzan en un punto, dos recorridos terminan en un mismo lugar, etc
 
 
