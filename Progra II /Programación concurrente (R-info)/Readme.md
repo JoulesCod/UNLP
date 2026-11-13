@@ -34,8 +34,8 @@ Ejemplos a tener en cuenta
 
 si la figura es así: <br>
 o _____ o <br>
-| . . . | <br>
-| . . . | <br>
+|.......| <br>
+|.......| <br>
 o _____ o <br>
 y hay 4 robots donde cada uno recorre un lado, según la cátedra, son 8 áreas: cada lado (= 4 privadas) y cada esquina (= 4 parcialmente compartidas *) } 8 áreas en total <br>
 *son <mark>Parcialmente compartidas</mark> porque van a haber mas de un robot allí, PERO NO AL MISMO TIEMPO (sinó se chocarían) <br>
