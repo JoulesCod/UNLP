@@ -1,4 +1,4 @@
-<img width="250" height="250" alt="YouGotItYesGIFbyDisneyChannel" src="https://github.com/user-attachments/assets/3e39e261-cd5f-47dd-bbab-50a0b9835c90" />
+<img width="125" height="125" alt="YouGotItYesGIFbyDisneyChannel" src="https://github.com/user-attachments/assets/3e39e261-cd5f-47dd-bbab-50a0b9835c90" /> <br>
 
 
 Pueden también estudiar de exámenes de CADP, pero son más fáciles porque ellos lo hacen en papel y creo q en menos tiempo. <br>
