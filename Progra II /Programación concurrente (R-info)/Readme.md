@@ -2,7 +2,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 <br>
 (Versión 4 de R-info, se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
-<img width="480" height="480" alt="RobotFallingOverGIFbyRespective" src="https://github.com/user-attachments/assets/1daa49e0-9007-4a73-9426-9bf7f5ba5eca" />
+<img width="160" height="100" alt="RobotTechGIFbyGEICO" src="https://github.com/user-attachments/assets/be7ed4d4-4bbd-4a90-9507-363bcb8718d0" />
 
 
 # LEAN Y REPITAN DESPUÉS DE MI:
