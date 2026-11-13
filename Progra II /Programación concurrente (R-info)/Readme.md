@@ -17,7 +17,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
 - El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles
 - --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
-- --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones)
+- --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones) <br>
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/e81315ee-28f7-4d16-a83b-b214bbedf427" />
 
   
