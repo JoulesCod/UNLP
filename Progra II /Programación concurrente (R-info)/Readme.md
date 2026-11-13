@@ -32,11 +32,8 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 Ejemplos a tener en cuenta
   <img width="1031" height="1600" alt="image" src="https://github.com/user-attachments/assets/963aa89d-0c1b-41fd-9b39-40930a929a07" />
 
-si la figura es así: <br>
-o _____ o <br>
-|.......| <br>
-|.......| <br>
-o _____ o <br>
+si la figura es así: <img width="61" height="68" alt="image" src="https://github.com/user-attachments/assets/7c65fb9e-8379-4dcc-92ac-c27f43d5379e" /> <br>
+
 y hay 4 robots donde cada uno recorre un lado, según la cátedra, son 8 áreas: cada lado (= 4 privadas) y cada esquina (= 4 parcialmente compartidas *) } 8 áreas en total <br>
 *son <mark>Parcialmente compartidas</mark> porque van a haber mas de un robot allí, PERO NO AL MISMO TIEMPO (sinó se chocarían) <br>
 EN ESTE EJERCICIO la cantidad de tipos de robots es 4, porque si fuera un solo tipo (aunque el código sea similar), vamos a condicionarlo (o sea: si está en la pos X --> derecha, sino --> repetir 3 dercha) y eso no nos interesa ==> NO CONDICIONAR POR LA POSICIÓN <br>
