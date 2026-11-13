@@ -1,4 +1,3 @@
-<img width="150" height="151" alt="KeepCalmStarWarsGIF" src="https://github.com/user-attachments/assets/8015c202-9afe-498d-afb4-367eb9f005b1" />
 
 <br>
 SI DICE INSTANCIAR ES UN OBJETO! <br>
