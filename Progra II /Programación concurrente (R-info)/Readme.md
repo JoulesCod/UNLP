@@ -1,6 +1,6 @@
 https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP 
 <br>
-(se puede ver el la sección de "Releases" en mi Repo general de UNLP)
+(Versión 4 de R-info, se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
 # LEAN Y REPITAN DESPUÉS DE MI:
 - SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
