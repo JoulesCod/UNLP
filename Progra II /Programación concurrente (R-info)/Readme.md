@@ -28,5 +28,6 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/e81315ee-28f7-4d16-a83b-b214bbedf427" />
 
   <br>
+ejemplos a tener en cuenta
+  <img width="1031" height="1600" alt="image" src="https://github.com/user-attachments/assets/963aa89d-0c1b-41fd-9b39-40930a929a07" />
 
-  
