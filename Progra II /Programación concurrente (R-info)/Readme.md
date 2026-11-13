@@ -21,6 +21,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   ejemplo: si el recorrido de 2 robots se cruza tipo en X, dos escaleras que se cruzan en un punto, dos recorridos terminan en un mismo lugar, etc
 
 
+
 - El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles
 - --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
 - --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones) <br>
