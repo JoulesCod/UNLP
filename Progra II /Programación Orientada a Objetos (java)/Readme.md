@@ -1,3 +1,6 @@
+<img width="110" height="120" alt="CoffeeCafeGIFbyMediaFrame" src="https://github.com/user-attachments/assets/361cebd3-8e87-472e-b0de-944bb2756700" />
+
+
 SI DICE INSTANCIAR ES UN OBJETO! <br>
 > Instanciar: Acción de **fabricar un objeto concreto** en memoria utilizando la palabra clave `new` y llamando al constructor de la clase <br>
 
