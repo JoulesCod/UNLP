@@ -3,7 +3,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 (se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
 # LEAN Y REPITAN DESPUÉS DE MI:
-- SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina (AUNQUE SEA UN SOLO PUNTO), por el random o porque el recorrido se cruza tipo en X por ejemplo), **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
+- SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
@@ -17,6 +17,8 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   NO BLOQUEEN AL PEDO <br>
   NO BLOQUEEN AL PEDO <br>
   si cualquier robot se va a manejar en un espacio en el que no se va a chocar con nadie, ¿PARA Q BLOQUEAS???? <br>
+- AHORA, si hay una mínima chance que sí se choquen... BOLQUEEN, AUNQUE SEA UN SOLO PUNTO
+  ejemplo: si el recorrido de 2 robots se cruza tipo en X, dos escaleras que se cruzan en un punto, dos recorridos terminan en un mismo lugar, etc
 
 
 - El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles
