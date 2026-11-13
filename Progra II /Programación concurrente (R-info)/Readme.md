@@ -2,6 +2,9 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 <br>
 (Versión 4 de R-info, se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
+<img width="480" height="480" alt="RobotFallingOverGIFbyRespective" src="https://github.com/user-attachments/assets/1daa49e0-9007-4a73-9426-9bf7f5ba5eca" />
+
+
 # LEAN Y REPITAN DESPUÉS DE MI:
 - SI LOS ROBOTS DEPOSITAN (o buscan) ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
