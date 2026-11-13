@@ -1,4 +1,4 @@
-<img width="120" height="120" alt="GoodMorningLoveGIFbyZDF" src="https://github.com/user-attachments/assets/c37871b3-68bd-4823-9324-c4f6f7291a6d" />
+<img width="135" height="240" alt="CoffeeMorningGIFbyFanologyPV" src="https://github.com/user-attachments/assets/8030a0e5-610f-4bf7-b010-a4b846b49ed2" />
 
 
 SI DICE INSTANCIAR ES UN OBJETO! <br>
