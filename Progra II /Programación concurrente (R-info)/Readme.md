@@ -3,13 +3,14 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 (Versión 4 de R-info, se puede ver el la sección de "Releases" en mi Repo general de UNLP)
 
 # LEAN Y REPITAN DESPUÉS DE MI:
-- SI LOS ROBOTS DEPOSITAN ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
+- SI LOS ROBOTS DEPOSITAN (o buscan) ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   QUEDA CLARO? <br>
-  estan en Pos(Ca_act, Av_act), van a Pos(Ca_deposito, Av_deposito), dejan UN elemento, vuelven a Pos(Ca_act, Av_act), Y ASI!
+  estan en Pos(Ca_act, Av_act), van a Pos(Ca_deposito, Av_deposito), dejan **UN** elemento, vuelven a Pos(Ca_act, Av_act), Y ASI! <br>
+  si un robot va solito a buscar cosas a una esquina, que agarre lo que necesita, si solo necesita 10 flores, que no aggarre las 99999 que dejaste para que la esquina esté cargada
 
 
 - SI EL ROBOT JEFE VA A LIMPIAR UNA ESQUINA/ÁREA DONDE ES **IM-PO-SI-BLE** QUE ESTEN OTROS ROBOTS EN EL MOMENTO, **NO BLOQUEEN**!!!!! <br>
@@ -21,11 +22,12 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   ejemplo: si el recorrido de 2 robots se cruza tipo en X, dos escaleras que se cruzan en un punto, dos recorridos terminan en un mismo lugar, etc
 
 
-
 - El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles <br>
   --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2 <br>
   --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones) <br>
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/e81315ee-28f7-4d16-a83b-b214bbedf427" />
+
+- Tener una hoja para calcular bien las áreas raras que seguro van a haber
 
 Ejemplos a tener en cuenta
   <img width="1031" height="1600" alt="image" src="https://github.com/user-attachments/assets/963aa89d-0c1b-41fd-9b39-40930a929a07" />
