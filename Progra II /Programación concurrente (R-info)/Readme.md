@@ -22,9 +22,11 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 
 
 
-- El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles
-- --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2
-- --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones) <br>
+- El orden es Pos(Avenida, Calle) --> Visualmente las verticales son Avenidas, las horizontales son calles <br>
+  --> PosCa:= 1 --> y=1 | PosCa+1 --> y=2 <br>
+  --> PosAv:= 1 --> x=1 | PosAV+1 --> x=2 (pensarlo como funciones) <br>
   <img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/e81315ee-28f7-4d16-a83b-b214bbedf427" />
+
+  <br>
 
   
