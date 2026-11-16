@@ -1,0 +1,166 @@
+classDiagram
+        class UsuarioConsumidor {
+            -int id
+            -String nombreUsuario
+            -String nombre
+            -String apellido
+            -String email
+            -LocalDate fechaInicioCuenta
+            -Plan plan
+            -Biblioteca biblioteca
+            -List~Reproduccion~ historial
+            +cambiarPlan(Plan nuevoPlan) void
+            +getId() int
+            +setId(int id) void
+            +getNombreUsuario() String
+            +getNombre() String
+            +getApellido() String
+            +getEmail() String
+        }
+
+        class UsuarioCreador {
+            -List~Contenido~ contenidosPublicados
+            +publicarContenido(Contenido c) void
+            +getReproduccionesTotales() int
+            +getContenidoMasEscuchado() Contenido
+            +getCantidadMeGustaTotales() int
+            +getRecaudacionTotal() double
+        }
+
+        class Contenido {
+            <<abstract>>
+            -int id
+            -String nombre
+            -int duracionEnSegundos
+            -Genero genero
+            -UsuarioCreador artista
+            -LocalDate fechaLanzamiento
+            -int cantReproducciones
+            -int cantMeGusta
+            -int reproduccionesMujeres
+            -int reproduccionesHombres
+            -double recaudadoTotal
+            +reproducirContenido() void
+            +incrementarReproducciones() void
+            +darMeGusta() void
+            +calcularRecaudacionTotal()* double
+        }
+
+        class Cancion {
+            -String letra
+            -boolean esSingle
+            -String invitado
+            +calcularRecaudacionTotal() double
+        }
+
+        class EpisodioPodcast {
+            -String resumen
+            -String invitado
+            -int numeroEpisodio
+            +calcularRecaudacionTotal() double
+        }
+
+        class Audiolibro {
+            -String narrador
+            -String sinopsis
+            -int cantCapitulos
+            +calcularRecaudacionTotal() double
+        }
+
+        class Album {
+            -int id
+            -String nombre
+            -LocalDate fechaLanzamiento
+            -List~Cancion~ canciones
+            +agregarCancion(Cancion c) void
+            +getDuracionTotal() int
+        }
+
+        class Podcast {
+            -int id
+            -String nombre
+            -String descripcion
+            -LocalDate fechaLanzamiento
+            -List~EpisodioPodcast~ episodios
+            +agregarEpisodio(EpisodioPodcast e) void
+        }
+
+        class Playlist {
+            -int id
+            -String nombre
+            -UsuarioConsumidor creador
+            -List~Contenido~ contenidos
+            +agregarContenido(Contenido c) void
+            +eliminarContenido(Contenido c) void
+            +getDuracionTotal() int
+        }
+
+        class Biblioteca {
+            -UsuarioConsumidor user
+            -List~Playlist~ playlistsGenerales
+            -Playlist playlistMeGusta
+            +crearPlaylist(String nombre) Playlist
+            +agregarAMeGusta(Contenido c) void
+        }
+
+        class Plan {
+            <<abstract>>
+            #String nombre
+            #double precioMensual
+            #boolean tienePublicidad
+            +tienePublicidad() boolean
+        }
+
+        class PlanGratuito {
+        }
+
+        class PlanPago {
+        }
+
+        class Reproduccion {
+            -LocalDateTime fechaReproduccion
+            -Contenido contenido
+            +getFechaReproduccion() LocalDateTime
+            +getContenido() Contenido
+        }
+
+        class Genero {
+            <<enumeration>>
+            ROCK
+            POP
+            TRAP
+            PODCAST
+            HISTORIA
+            EDUCACION
+            TANGO
+            OTROS
+        }
+
+        class Reproductor {
+            +reproducirContenido(Contenido c, Plan p, int cantRep)$ void
+            +adelantar(int segundos, Contenido c)$ void
+            +pausar(Contenido c)$ void
+        }
+
+
+    %% Relaciones de Herencia
+    UsuarioConsumidor <|-- UsuarioCreador 
+    Contenido <|-- Cancion 
+    Contenido <|-- EpisodioPodcast 
+    Contenido <|-- Audiolibro 
+    Plan <|-- PlanGratuito 
+    Plan <|-- PlanPago
+
+    %% Relaciones Estructurales
+    UsuarioConsumidor "1" *-- "1" Biblioteca
+    Biblioteca "1" *-- "*" Playlist
+    UsuarioConsumidor "1" --> "1" Plan
+    UsuarioConsumidor "1" o-- "*" Reproduccion
+    UsuarioCreador "1" o-- "*" Contenido
+
+    Playlist "1" --> "*" Contenido
+    Album "1" o-- "*" Cancion 
+    Podcast "1" o-- "*" EpisodioPodcast 
+    Contenido "1" --> "1" UsuarioCreador
+    Contenido "1" --> "1" Genero 
+    Reproduccion "1" --> "1" Contenido 
