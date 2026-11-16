@@ -6,13 +6,13 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 
 
 # LEAN Y REPITAN DESPUÉS DE MI:
-- SI LOS ROBOTS DEPOSITAN (o buscan) ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chanse que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
+- SI LOS ROBOTS DEPOSITAN (o buscan) ELEMENTOS EN LA MISMA ESQUINA (o si hay una MÍNIMA (MINIMAAAA) chance que les toque en la misma esquina, por el random, por ejemplo) **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   QUEDA CLARO? <br>
-  Estan en Pos(Ca_act, Av_act), van a Pos(Ca_deposito, Av_deposito), dejan **UN** elemento, vuelven a Pos(Ca_act, Av_act), Y ASI! <br>
+  Estan en Pos(Av_act, Ca_act), van a Pos(Av_act, Ca_deposito), dejan **UN** elemento, vuelven a Pos(Av_act, Ca_act), Y ASI! <br>
   Si un robot va solito a buscar cosas a una esquina, que agarre lo que necesita, si solo necesita 10 flores, que no agarre las 99999 que dejaste para que la esquina esté cargada
 
 
