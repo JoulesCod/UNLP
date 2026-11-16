@@ -12,7 +12,7 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   **VAN Y VUELVEN DEJANDO DE A UN ELEMENTO** <br>
   QUEDA CLARO? <br>
-  Estan en Pos(Av_act, Ca_act), van a Pos(Av_act, Ca_deposito), dejan **UN** elemento, vuelven a Pos(Av_act, Ca_act), Y ASI! <br>
+  Estan en Pos(Av_act, Ca_act), van a Pos(Av_deposito, Ca_deposito), dejan **UN** elemento, vuelven a Pos(Av_act, Ca_act), Y ASI! <br>
   Si un robot va solito a buscar cosas a una esquina, que agarre lo que necesita, si solo necesita 10 flores, que no agarre las 99999 que dejaste para que la esquina esté cargada
 
 
