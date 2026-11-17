@@ -4,7 +4,7 @@ https://bes.transporte.gba.gob.ar/denunciasboleto.php?op=denunciar <br>
 Hacer Denuncia (si no funciona la primera): 
 https://denuncias-bes.transporte.gba.gob.ar/ <br>
 
-instagram: (si les escribís te responden)
+instagram: (si les escribís te responden, pero lo mas probable es que te pasen el link de arriba)
 https://www.instagram.com/tarjetasube/ <br>
 
 Contacto para CABA: 147 <br>
