@@ -81,7 +81,9 @@
 ### Taller de Arquitectura (TA) -->
 - 2 proyectos (similares q años pasados) + 3 patcialitos siempre los mismos
 - 10 practicas
-- 3 parcialitos, que solo dan un punto al trabajo final, se filtraron los parciales son los mismos hace 3 años -  pedir a Mate 
+- 3 parcialitos, que solo dan un punto al trabajo final, se filtraron los parciales son los mismos hace 3 años -  pedir a Mate
+- 1 proyecto individual
+- otro grupal que se defiende con coloquio
 
 ### Ingeniería de Sofware (ing S) -->
 - medio complicada.
