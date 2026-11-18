@@ -56,9 +56,18 @@
 ## 2do Cuatri
 
 ### Introducción al Procesamiento de Señales (IPS) --> 
-- la práctica es re cualquiera.
+- la práctica es re cualquiera. pocos ejercicios pero largos 
 - MATERIA MAS DIFICIL
 <img width="471" height="64" alt="image" src="https://github.com/user-attachments/assets/eeac37b4-fdbb-4c5a-9dfa-03eefbf59a25" />
+- trauma, miedo
+- acá si hay q ir al día
+- prioridad
+- ir a todoas las clases
+- tomar nota
+- una sola comisión (profe Santi)
+- profes copados 
+- la gente abandona
+- martes y jueves de 2 a 5
 
 ### Redes de Datos 1 (RD1) -->
 - esta PATO piola,
@@ -71,13 +80,18 @@
 
 ### Taller de Arquitectura (TA) -->
 - 2 proyectos (similares q años pasados) + 3 patcialitos siempre los mismos
+- 10 practicas
+- 3 parcialitos, que solo dan un punto al trabajo final, se filtraron los parciales son los mismos hace 3 años -  pedir a Mate 
 
 ### Ingeniería de Sofware (ing S) -->
 - medio complicada.
-- PROYECTO EN GRUPO.
+- PROYECTO EN GRUPO. de a 5?
 - El proyecto lo haces en el lenguaje q quieras,
     - para eso en primer semestre de 3ro hacer una optativa de algún lenguaje PHP o punto net (haces apps y no toma parcial).
 - proyecto, parcial teórico y parcial practico
+- promocion 7 en los parciales teóricos, tomqn definiciones tal cual las filminas
+- El ruso es una cagada
+- no hay prácticas 
 
 
 <h1 align="center"> ✦ · ───────── · 4to Año · ───────── · ✦ </h1> 
