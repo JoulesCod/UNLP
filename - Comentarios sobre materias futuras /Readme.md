@@ -8,33 +8,50 @@
 ## 1er Cuatri
 
 ### Electrónica y Electrotecnia  (EE) --> 
-- Profe (Pablo) de teoría exigente,
+- Profe (Pablo) de teoría exigente, soberbia
+- si le haces una pregunta de la clase anterior, te escupe en la cara 
 - IR LOS JUEVES A LA MAÑANA CON PABLO.
 - ir a las prácticas.
 - seguir bien la clase,
 - CARPETA EN PAPEL, puede que la pidan MUY COMPLETA 
 - estudiar la práctica, adicionales y parciales viejos (todo)
 - Parcial 2hs, 3 puntos, 40% bien, hay que justificar con mucha teoría, hay que saber mucho.
-- 3 fechas 1er modulo, 3 fechas 2do modulo. --> la 3ra fecha (flotante) del 1er módulo coincide con la 1era fecha del 2do módulo 
+- 3 fechas 1er modulo, 3 fechas 2do modulo. --> la 3ra fecha (flotante) del 1er módulo coincide con la 1era fecha del 2do módulo
+- justificar mucho
+- pedirle resumenes a Lucho
 
 ### Introducción a Diseño Lógico (IDL) --> 
 - A GIO NO LE GUSTA.
 - hacer circuitos lógicos,
 - estilo CAC / FAC.
-- prácticas no tan necesarias y difíciles.
+- prácticas no tan necesarias y difíciles / larga
+- no se puede elegir profe
+- Rocio es mala 
 - TP entregables A PATO NO LE IMPORTE JUSTIFICACION.
-- parcial igual todos los años, te queda esa nota. final igual q parcial. 
+- entregable con coloquio
+- parcial igual todos los años, te queda esa nota. final igual q parcial.
+- hacer parciales nuevos -  pedir a Lucho
+- laboratorio importantes - tipo electrónica
 
 ### Probabilidades y Estadística --> 
 - fácil,
-- **Melisa Magini** HACER CON ELLA SI O SI. 
+- El parcial lo hace el jefe de cátedra 
+- **Melisa Magini** HACER CON ELLA SI O SI. da ejemplos que da en el parcial, sabe cosas, justificar 
+- con Meli, no hacer practicas y practicar de parcial
+- o hacer las prácticas q eso aparece en el parcial
+- los dós últimos temas son los mas dificiles
+- la de Poisson es la mas chota de las distribuciones 
 
 ### Conceptos de Bases de Datos (CBD) --> 
 - cátedra de base de datos,
+- práctica sencilla
+-3teoría dificil 
 - 3 módulos, árboles (en pascal), archivos, hashing en dibujos.
-- FINAL MUCHO MAS FACIL Q PROMO.
+- FINAL MUCHO MAS FACIL Q PROMO. El final son 5 preguntas de teoría, la promo es múltiple choise pero tramposo 
 - IR SOLO A PRACTICAS,
+- el profe explica tal cual las diapositivas 
 - VER VIDEOS
+- examen práctico, son solo 2 puntos 
 
 ## 2do Cuatri
 
