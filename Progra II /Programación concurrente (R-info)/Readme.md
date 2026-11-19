@@ -33,7 +33,8 @@ https://github.com/JoulesCod/UNLP/releases/tag/R-info-UNLP
 - Tener una hoja para calcular bien las áreas raras que seguro van a haber
 
 Ejemplos a tener en cuenta
-  <img width="1031" height="1600" alt="image" src="https://github.com/user-attachments/assets/963aa89d-0c1b-41fd-9b39-40930a929a07" />
+<img width="1056" height="1600" alt="image" src="https://github.com/user-attachments/assets/eb8889cf-2f92-43e5-85b7-6e9dd21a19c4" />
+CUANDO NO VOY A DEPOSITAR DE A UNO? cuando la consigna no lo requiera, que para la secuencia que pide la consigna no se "trabe" el trabajo de un robot, por esperar que otro termine.
 
 si la figura es así: <img width="61" height="68" alt="image" src="https://github.com/user-attachments/assets/7c65fb9e-8379-4dcc-92ac-c27f43d5379e" /> 
 
