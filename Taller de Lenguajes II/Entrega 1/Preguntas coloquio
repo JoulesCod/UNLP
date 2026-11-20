@@ -1,12 +1,16 @@
-Primero nos pidieron que expliquemos el UML, entonces explicamos de arriba a abajo nuestras deciciones de diseño y todas las relaciones entre las clases con justificación teórica
-
-Después pasamos al código donde mas que explicarle todo nos pidió que le contemos cosas que nos hayan resultado interesantes, en nuestro caso fue la forma de tratar la parte de la publicidd, el uso de constructores dobles en 2 clases... y no me acuerdo q mas
-puede q también pregunten cosas como en que parte hay herencias, polimorfisno, por q usar enumerativos
+- Mostrás todo desde tu computadora
+- Primero nos pidieron que expliquemos el UML, entonces explicamos de arriba a abajo nuestras deciciones de diseño y todas las relaciones entre las clases con justificación teórica
+- Después pasamos al código donde mas que explicarle todo nos pidió que le contemos cosas que nos hayan resultado interesantes, en nuestro caso fue la forma de tratar la parte de la publicidd, el uso de constructores dobles en 2 clases... y no me acuerdo q mas
+El profe hace preguntas si algo no le quedó claro, si algo le llamó la atención
+puede q también pregunten cosas como en que parte hay herencias, polimorfisno, por q usar enumerativos, clases abstractas
+Si no lo justificaste puede que te pregunte por que elegiste tal relación entre clases (nosotras las explicamos todas así q ni nos prguntó)
 No nos pidió pero nosotras le mostramos cómo corría el código
-
-Preguntó sobre el manejo de git, que se evalúa
-
-Y a lo último de todo (en el resto de los grupos lo preguntaron primero) cómo usamos la IA para este proyecto, la respuesta no afecta para nada la nota 
+- Preguntó sobre el manejo de git, que se evalúa
+- Y a lo último de todo (en el resto de los grupos lo preguntaron primero) cómo usamos la IA para este proyecto, la respuesta no afecta para nada la nota 
 
 RECOMENDACIONES: 
 Cuando estas preparando el tp, ir a las clases de consultas, conocer bien al profe que te tocó, ver bien que quiere, ver si podes hacer algo diferente a lo que pienza si lo justificas bien
+
+ALGO QUE PODES TENER EN CUENTA
+- Usar Hashing para los id
+- Tener algúna clase protegida o varios paquetes, si corresponde
