@@ -1,1 +1,2 @@
-En el archivo UML pueden ver en "preview" el diagrama y el código en "code"
+En el archivo UML pueden ver en "preview" el diagrama y el código mermaid en "code" (a veces falla)
+Este diagrama es diferente que el del entregable 1 porque le sacamos métodos que ya no usamos (ej: ya no existe el )
