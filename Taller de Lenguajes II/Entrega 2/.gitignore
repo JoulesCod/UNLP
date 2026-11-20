@@ -1,0 +1,11 @@
+# Archivos compilados de Java
+bin/
+*.class
+
+# Base de datos SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuración de VS Code
+.vscode/
