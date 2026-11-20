@@ -26,17 +26,10 @@ Entrega 1 (mi experiencia):
 - Los tres profes se santaron en distintas mesas del aula, los alimnos que no les tocaba se fueron para el fondo del aula
 - Acompañando a Jose estaba Claudia, acompañando a Agus estaba Kimura, Seba estaba solo (a mi me tocó a Seba, yayyyy)
 
-Coloquio: 
-- Mostrás todo desde tu computadora
-- Primero se empieza explicando el diagrama uml, las relaciones entre las clases y justificaciónes sobre deciciones de la estructura del diagrama
-- después pasamos a explicar partes del código que nos resultaron interesantes
-- Como se evalúa el uso de git, te preguntan como te llevaste con eso
-- Pregutan (a nosostras a lo último pero las otras dos de teoría lo preguntaron al comienzo) (ni afecta a la nota) en que aspectos usamos la IA
+Coloquio: VER EN CADA ENTREGABLE 
 
-Preguntas:
-- El profe hace preguntas si algo no le quedó claro, si algo le llamó la atención
-- Pregunta sobre las clases abstractas, herencia y plimorfismo
-- Si no lo justificaste puede que te pregunte por que elegiste tal relación entre clases (nosotras las explicamos todas así q ni nos prguntó)
+ANÁLISIS SEBASTIÁN si le toca evaluar a tu grupo: <br>
+Como sabé un montón y tiene claro lo que quiere, se super entienden sus explicaciones, no se compica pidiendo cosas raras, es flexible con la forma de resolver el código y la arquitectura mientras lo justifiques bien y cumpla con la consigna
 
 ## Profes
 Profe de teoría - Claudia Queiruga: Buena onda, quiere que participemos en las teorías... demasiado. <br>
