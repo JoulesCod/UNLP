@@ -139,7 +139,7 @@ Con ambos hay que armar un startup y exponerlo
 > ### Taller de Proyecto 2
 > ### Introducción a la Programacíon Cuántica
 > ### Electiva Humanística:
-> ### Activivdades de Formación Complementaria 4 (**)
+> ### Activivdades de Formación Complementaria 4
 
 
 <h1 align="center"> ✦ · ───────── · OPTATIVAS · ───────── · ✦ </h1> 
