@@ -130,4 +130,13 @@ Con ambos hay que armar un startup y exponerlo
 <h1 align="center"> ✦ · ───────── · 5to Año · ───────── · ✦ </h1> 
 
 ## 1er cuatri 
+> ### Introducción a la Arqui de Compu Cuánticas
+> ### Sist Distribuidos y Paralelos
+> ### Aspectos Legales de la Ing Informática
+> ### Activivdades de Formación Complementaria 3 
+
 ## 2do cuatri 
+> ### Taller de Proyecto 2
+> ### Introducción a la Programacíon Cuántica
+> ### Electiva Humanística:
+> ### Activivdades de Formación Complementaria 4 (**)
