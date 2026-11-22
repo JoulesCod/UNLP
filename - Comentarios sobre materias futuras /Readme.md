@@ -99,6 +99,12 @@
 <h1 align="center"> ✦ · ───────── · 4to Año · ───────── · ✦ </h1> 
 
 ## 1er cuatri 
+### Economía y Emprendedorismo (Eco y E)
+Dos Comisiones (no podes elegír, en una lista alfabética mandan a la mitad superior con Walas y la inferior con Anibal (se puede pedir cambio de comisión)):
+- Profesor Anibal Cueto: Nunca cambia los parciales (hablar con Mate). Startup libre.
+- Profesor Walas: los parciales no son los mismos, toma cosas que se hicieron en el tp o relacionados, deja usar celu, compu y tablet. Es mas jede q Cueto. Startup de temática Agro<br>
+Con ambos hay que armar un startup y exponerlo
+
 ## 2do cuatri 
 
 ### Taller de Proyecto I -->
