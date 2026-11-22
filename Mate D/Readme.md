@@ -19,7 +19,7 @@
 - dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
 - memorizar MUCHOS teoremas, textos de teoremas 
 - me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas.
-
+- En la clase explican tanta teoría, generalmente porque por los paros y feriados siempre se atrasan con los temas, que no queda mucho tiempo de consulta, o ya estas muerto para cuando llega la consulta
 
 
 # Libro y mas Info: 
