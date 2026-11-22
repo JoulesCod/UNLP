@@ -52,7 +52,7 @@ JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br
 
 ### COMENTARIOS DE PROFES GRUPO 3:
 PT: Gastón Argeri ---- JTP: Luis Gómez ---- AD: Dolores Corva ---- AA: Juan Ruggiero <br>
-Comentarios generales comisión <br>
+Comentarios encontrados de esta comisión <br>
 .... 🚩 Son 3hrs de teoría; imposible consultar las dudas o trabajar en clase <br>
 .... 🐉 Clases teóricas muy bien dadas. los contenidos de la materia son demasiados, si bien algunos contenidos se explicaron en clase, no pudieron ser evaluados debido a este problema. <br>
 .... 🐉 A mi me cayó bien, me dijeron que es buena onda, solo si las teorías explica mucho y muy rápido
