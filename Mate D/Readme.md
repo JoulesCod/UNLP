@@ -37,6 +37,7 @@ classroom G4: v7sdi7fq <br>
 <img width="720" height="200" alt="image" src="https://github.com/user-attachments/assets/d58532cd-1d01-4b58-937f-b6d92c2f364b" />
 
 ### COMENTARIOS DE PROFES GRUPO 4:
+PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
 | comentarios de gente que ya la cursó | MI EXPERIENCIA | 
 | ------------------------------------ | -------------- |
 |.... 🐉 Excelente predisposición | NO ESTOY DE ACUERDO <br> se te ríe de tus errores |
@@ -50,7 +51,6 @@ JTP: Sergio Rodríguez Ruíz ---- AD: Francisco Plaza ---- AA: Avril Denegri <br
 .... 🐉 Lo único bueno es que se pasa toda la clase resolviendo ejercicios.  <br>
 
 ### COMENTARIOS DE PROFES GRUPO 3:
-PA: Cintia Perrone: cintia.perrone@ing.unlp.edu.ar <br>
 PT: Gastón Argeri ---- JTP: Luis Gómez ---- AD: Dolores Corva ---- AA: Juan Ruggiero <br>
 Comentarios generales comisión <br>
 .... 🚩 Son 3hrs de teoría; imposible consultar las dudas o trabajar en clase <br>
