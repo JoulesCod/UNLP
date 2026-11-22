@@ -99,11 +99,18 @@
 <h1 align="center"> ✦ · ───────── · 4to Año · ───────── · ✦ </h1> 
 
 ## 1er cuatri 
-### Economía y Emprendedorismo (Eco y E)
+
+### Instrumentación y Control
+### Circuirtos Digitales y Microcontroladores
+### Concurrencia y Paralelismo
+
+### Economía y Emprendedorismo 
 Dos Comisiones (no podes elegír, en una lista alfabética mandan a la mitad superior con Walas y la inferior con Anibal (se puede pedir cambio de comisión)):
 - Profesor Anibal Cueto: Nunca cambia los parciales (hablar con Mate). Startup libre.
 - Profesor Walas: los parciales no son los mismos, toma cosas que se hicieron en el tp o relacionados, deja usar celu, compu y tablet. Es mas jede q Cueto. Startup de temática Agro<br>
 Con ambos hay que armar un startup y exponerlo
+
+### Actividades de Formación Complementaria 1
 
 ## 2do cuatri 
 
@@ -115,6 +122,10 @@ Con ambos hay que armar un startup y exponerlo
 ### Base de datos 
 - FINAL FACIL.
 - Ir solo a prácticas, VER VIDEOS
+
+### Redes de Datos 2 
+### Sistemas de Tiempo Real 
+### Actividades de Formación Complementaria 2
 
 <h1 align="center"> ✦ · ───────── · 5to Año · ───────── · ✦ </h1> 
 
