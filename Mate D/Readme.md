@@ -17,7 +17,7 @@
 
 ### My comments
 - dicen que suben la nota a Cátedras antes de la muestra del parcial... no lo hacen
-- memorizar muchos teoremas
+- memorizar MUCHOS teoremas, textos de teoremas 
 - me dijeon q los que corrigen ESTÁN LOCOS POR LAS JUSTIFICACIONES, full guitarra 🎸🎸 y a escribir teoremas.
 
 
