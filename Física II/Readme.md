@@ -14,14 +14,14 @@
 <details>
   <summary><h1> Videos Explicativos (yo no los ví, vos no los vas a ver, nadie los verá) </h1></summary>
   <ul>
-#### De un profe particular de física que explica copado (ingeniero de la UNLP): https://www.focusce.com.ar/materias/fisica 
-#### Mosquera-Taylor
+-- De un profe particular de física que explica copado (ingeniero de la UNLP): https://www.focusce.com.ar/materias/fisica 
+Mosquera-Taylor
 - Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
 - Física II - 2020 - turno tarde-noche: https://drive.google.com/open?id=1LQ7yQuM7ezXkmdqC-pc8FchVFVbgAIlU
-#### Clases Damián Gulich: https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
-#### Videos E. Vilche 2023: https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
-#### Clases Aníbal Medina 2020: https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
-#### Videos Andrea Paola: https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
+-- Clases Damián Gulich: https://www.youtube.com/playlist?list=PL1kHGF9TPJaArOJX6bXPNWLBalsgv_TcO
+-- Videos E. Vilche 2023: https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
+-- Clases Aníbal Medina 2020: https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
+-- Videos Andrea Paola: https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
   </ul>
 </details>
 
