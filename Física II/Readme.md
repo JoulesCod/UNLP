@@ -65,7 +65,7 @@ Materias Correlativas: Matemática B, Física I <br>
 fijarse que hay comisiones que piden 6 en cada punto o que para promocionar es 6 minimo en cada parcial
 
 ---
-✦ · ───────── · ·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀· · ───────── · ✦ <br>
+✦ · ───────── · ·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀·✦·❀· · ───────── · ✦ <br>
 
 (todo lo de acá abajo lo subí antes de empezar la cursada)
 # Comentario de alumnos que ya cursaron física 2
