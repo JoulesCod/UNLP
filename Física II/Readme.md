@@ -47,7 +47,7 @@ Clases: Miércoles y Viernes - Horario: 12 a 16 hs. Aula CB7+8 <br>
 Se promedia notas de parciales, ambas deben ser > 40 pts <br>
 Materias Correlativas: Matemática B, Física I <br>
 
-### OPINIONES COMISIÓN
+## OPINIONES COMISIÓN
 - Leonela explica super bien (es la de rulos), muy buena onda
 - Los ingenieros explican medio pesado y hay veces que se van por las ramas, yo por lo menos si no habia leído antes el tema no entandía nada de la clase
 - Como esta comisión esta solo durante el segundo cuatri, si recursas vas a tener que anotarte con otro profesor (no vas a recursar)
