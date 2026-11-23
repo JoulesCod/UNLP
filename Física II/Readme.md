@@ -8,7 +8,12 @@
 - G28 (2025): vkiw6dh
 - G26 (2026) : 66xk2vrp / n5b32rrf
 
-# Videos Explicativos (yo no los ví, vos no los vas a ver, nadie los verá)
+
+
+
+<details>
+  <summary><b> # Videos Explicativos (yo no los ví, vos no los vas a ver, nadie los verá) </b></summary>
+  <ul>
 #### De un profe particular de física que explica copado (ingeniero de la UNLP): https://www.focusce.com.ar/materias/fisica 
 #### Mosquera-Taylor
 - Física II - 2020 - turno mañana: https://drive.google.com/drive/folders/1SYrEygzWzpONaIlUuqTtaZZYN7d_-YVD
@@ -17,6 +22,8 @@
 #### Videos E. Vilche 2023: https://drive.google.com/drive/folders/1S6t1gB6b49VSPgzKW1Bf8LNAw3lzvdBg
 #### Clases Aníbal Medina 2020: https://drive.google.com/drive/folders/1oe_hkYiRHn8TwL0OmURrG5TsSElsU1aR
 #### Videos Andrea Paola: https://docs.google.com/document/d/1NgQXeRf_ogS1VGbo7IKKis2TwKjmFMBeWFcZIKxsbv4/edit?usp=sharing
+  </ul>
+</details>
 
 ---
 comisión q elegí:
