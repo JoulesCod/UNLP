@@ -12,7 +12,7 @@
 
 
 <details>
-  <summary><b> # Videos Explicativos (yo no los ví, vos no los vas a ver, nadie los verá) </b></summary>
+  <summary><h1> Videos Explicativos (yo no los ví, vos no los vas a ver, nadie los verá) </h1></summary>
   <ul>
 #### De un profe particular de física que explica copado (ingeniero de la UNLP): https://www.focusce.com.ar/materias/fisica 
 #### Mosquera-Taylor
