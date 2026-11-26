@@ -9,6 +9,7 @@
 
 ### Electrónica y Electrotecnia  (EE) --> 
 - Profe (Pablo) de teoría exigente, soberbia
+- La 1er clase va a decir "Olvídense de TODO lo que vieron en física 2"
 - si le haces una pregunta de la clase anterior, te escupe en la cara 
 - IR LOS JUEVES A LA MAÑANA CON PABLO.
 - ir a las prácticas.
