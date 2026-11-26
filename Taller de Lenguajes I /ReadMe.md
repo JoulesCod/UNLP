@@ -12,7 +12,7 @@ Cesar: - tranqui chicos el parcial va a ser fácil, nada que no haya aparecido e
 Cesar: - Chicos si hicieron la práctica les va a ir bien en el parcial - <br>
 
 NO CESAR, NO. TU PARCIAL FUE RE RARO! (hoy, 24-4-2026, estoy esperando mi nota del primer parcial), ni la ayudante lo podía creer, vi cómo se apiadaba de nosotros en el brillo de sus ojos... <br>
-... volví despues de las notas... PUEDE, PUEEEEDE que haya exagerado, a la mayoría le fue bien (igual no lo crean a Cesar!!) <br>
+... volví despues de las notas... PUEDE, PUEEEEDE que haya exagerado, a la mayoría le fue bien (igual no le crean a Cesar!!) <br>
 
 # PROFES
 Los profesores son super buena onda, todos me caen bien y saben. No buscan desaprobarte   <br>
